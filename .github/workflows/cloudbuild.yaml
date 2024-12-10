@@ -23,7 +23,7 @@ jobs:
       uses: google-github-actions/setup-gcloud@v1
       with:
         version: 'latest'
-        service_account_key: ${{ secrets.GCP_SERVICE_ACCOUNT_KEY }}
+        service_account_key: ${{ secrets.GCP_SA_KEY }}
         project_id: sage-webbing-443205-a5
 
     - name: Configure Docker Authentication
