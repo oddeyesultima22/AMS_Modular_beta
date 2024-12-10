@@ -16,30 +16,33 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v2
 
-    - name: Set up Google Cloud SDK
-      uses: google-github-actions/setup-gcloud@v1
+    - name: Google Cloud Auth
+      uses: 'google-github-actions/auth@v2'
       with:
-        version: 'latest'
-        service_account_key: ${{ secrets.GCP_SA_KEY }}
-        project_id: sage-webbing-443205-a5
+        credentials_json: '${{ secrets.GCP_SA_KEY }}'
+        project_id: ${{ env.PROJECT_ID }}
+        
+    - name: Set up Google Cloud SDK
+      uses: 'google-github-actions/setup-gcloud@v2'
+      
 
     - name: Configure Docker Authentication
       run: |
-        gcloud auth configure-docker --quiet
+        gcloud auth configure-docker us-central1-docker.pkg.dev
 
     - name: Build and Push Docker Image
       run: |
-        IMAGE_NAME=gcr.io/sage-webbing-443205-a5/ams-test
-        docker build -t $IMAGE_NAME .
-        docker push $IMAGE_NAME
+        docker build -t ${{ env.DOCKER_IMAGE_URL }}:latest .
+        docker push ${{ env.DOCKER_IMAGE_URL }}:latest
 
     - name: Deploy to Cloud Run
       run: |
-        gcloud run deploy ams-system \
-          --image gcr.io/sage-webbing-443205-a5/ams-test \
+        echo SERVICE_NAME $SERVICE_NAME
+        gcloud run deploy $SERVICE_NAME \
+          --image ${{ env.DOCKER_IMAGE_URL }}:latest \
           --platform managed \
           --region us-central1 \
           --allow-unauthenticated
