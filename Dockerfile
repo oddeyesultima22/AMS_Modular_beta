@@ -8,6 +8,7 @@ RUN python3 -m pip install --upgrade pip
 # Install h5py before other dependencies
 RUN pip install h5py==3.9.0
 
+
 # Install system dependencies
 RUN apt-get update && apt-get install -y --no-install-recommends \
     ffmpeg \
