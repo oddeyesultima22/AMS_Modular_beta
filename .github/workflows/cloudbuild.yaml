@@ -1,0 +1,45 @@
+name: Deploy to Google Cloud Run
+
+env:
+  SERVICE_NAME: ams-system
+  PROJECT_ID: sage-webbing-443205-a5
+  DOCKER_IMAGE_URL: us-central1-docker.pkg.dev/sage-webbing-443205-a5/amstest/ams-test:latest
+
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Google Cloud SDK
+      uses: google-github-actions/setup-gcloud@v1
+      with:
+        version: 'latest'
+        service_account_key: ${{ secrets.GCP_SERVICE_ACCOUNT_KEY }}
+        project_id: sage-webbing-443205-a5
+
+    - name: Configure Docker Authentication
+      run: |
+        gcloud auth configure-docker --quiet
+
+    - name: Build and Push Docker Image
+      run: |
+        IMAGE_NAME=gcr.io/sage-webbing-443205-a5/ams-test
+        docker build -t $IMAGE_NAME .
+        docker push $IMAGE_NAME
+
+    - name: Deploy to Cloud Run
+      run: |
+        gcloud run deploy ams-system \
+          --image gcr.io/sage-webbing-443205-a5/ams-test \
+          --platform managed \
+          --region us-central1 \
+          --allow-unauthenticated
