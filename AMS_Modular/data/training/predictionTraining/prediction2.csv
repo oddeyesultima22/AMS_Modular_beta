@@ -1,0 +1,35 @@
+Person,Text,Category Truth,Quality Truth,Sentiment Truth
+A,"Hi, this is Michelle from Comcast.",Greetings,Positive,0.8
+A,How may I help you today?,Problem Investigation,Positive,0.8
+C,"Hello, my name is Tom.",Greetings,Positive,0.7
+C,I've been having problems with my cable,Problem Investigation,Negative,0.2
+A,What seems to be the issue sir?,Problem Investigation,Neutral,0.5
+C,My on Demand is not working.,Problem Investigation,Negative,0.2
+A,Alright sir,Problem Investigation,Neutral,0.5
+A,We will look into this,Problem Investigation,Neutral,0.5
+A,We just have to verify your account,Account Verification,Neutral,0.6
+A,Can you provide me with your account number?,Account Verification,Positive,0.7
+C,It is 948493584,Account Verification,Positive,0.7
+A,"Thank you, and can you provide the full name of the account holder?",Account Verification,Positive,0.8
+C,Tom White,Account Verification,Positive,0.7
+A,"Thanks.  One last thing, can you verify the account holders date of birth?",Account Verification,Positive,0.8
+C,It is 13 April 1988,Account Verification,Neutral,0.6
+A,Thanks sir.  I have your account pulled up.,Problem Investigation,Positive,0.7
+A,I can see there is no upstream signal coming from your box.,Problem Investigation,Neutral,0.6
+C,What does that mean?,Problem Investigation,Neutral,0.5
+A,"It means that while you can watch channels that don't require two way communication, you can't watch content that requires input and output.",Problem Investigation,Neutral,0.4
+C,"Oh, so anything where I request a stream?",Problem Investigation,Neutral,0.6
+A,Exactly sir.  Can you turn off the cable box for me?,Problem Investigation,Neutral,0.5
+C,"Yes, it is done.",Problem Investigation,Neutral,0.5
+A,"Alright sir, just a moment until I see the device go offline",Problem Investigation,Neutral,0.6
+A,"It is now offline, so you can plug it back in.",Problem Investigation,Positive,0.7
+C,It's booting up,Problem Investigation,Positive,0.7
+A,"I can see that the device is now back online, and showing a strong signal for upload and download",Problem Investigation,Positive,0.8
+C,"Yes, on demand is working again",Problem Investigation,Positive,0.8
+A,Very good.  Have I resolved your problem today sir?,Problem Investigation,Positive,0.7
+C,"Yes you have, thank you very much",Closure,Positive,0.9
+A,Are there any other issues that you would like to address? ,Closure,Positive,0.7
+C,I think you have solved everything,Closure,Positive,0.8
+A,You have a great day sir.,Closure,Positive,0.7
+A,Goodbye,Closure,Positive,0.7
+C,Bye,Closure,Neutral,0.6

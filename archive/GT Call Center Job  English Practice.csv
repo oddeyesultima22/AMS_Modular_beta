@@ -1,0 +1,151 @@
+Start Time,End Time,Speaker,Text
+,,,
+0,2.78,Customer," Call center, taking an order."
+,,,
+2.78,4.64,Customer, Roll play.
+,,,
+4.64,7.42,Agent, Thank you for calling Gabby's Gift Baskets.
+,,,
+7.42,9.56,Agent, How may I assist you?
+,,,
+9.56,10.42,Customer, Hi.
+,,,
+10.42,13.56,Customer, I'd like to order a Gift Basket.
+,,,
+13.56,16.08,Agent, I would be happy to help you with that.
+,,,
+16.08,19.12,Agent, Which basket would you like to order?
+,,,
+19.12,20,Customer, Yes.
+,,,
+20,23.8,Customer, It's the Regal Chocolate Basket.
+,,,
+23.8,25.08,Agent," All right, sir."
+,,,
+25.08,28.88,Agent, We have two sizes for the Regal Chocolate Basket.
+,,,
+28.88,31.76,Agent, Would you like the 10 item Gift Basket?
+,,,
+31.76,35.8,Agent, Or the 16 item Deluxe Gift Basket?
+,,,
+35.8,40.24,Customer," Oh, let's go with the 16 item one."
+,,,
+40.24,41.68,Agent," Thank you, sir."
+,,,
+41.68,43.96,Agent, The 16 item basket.
+,,,
+43.96,47.32,Agent, Would you like to add a balloon or some confetti?
+,,,
+47.32,48.48,Customer, No.
+,,,
+48.48,51.88,Customer, Just the Chocolate Basket this time.
+,,,
+51.88,54.72,Agent," May I have your name, please?"
+,,,
+54.72,58.4,Customer, My name is Neil McDougall.
+,,,
+58.4,60.52,Agent, Could you spell that for me?
+,,,
+60.52,64.2,Customer, First name is N-E-I-L.
+,,,
+64.2,72.2,Customer, Last name is M-C-D-O-U-G-A-L-L.
+,,,
+72.2,76.08,Agent," Thank you for that information, Mr. McDougall."
+,,,
+76.08,78.08,Customer, You're welcome.
+,,,
+78.08,83.4,Agent, May I have your telephone number with the area code first?
+,,,
+83.4,92.16,Customer," It's area code 619, and the number is 704-2591."
+,,,
+92.16,98.56,Agent, That's 619-704-2591.
+,,,
+98.56,100.56,Agent, Is that correct?
+,,,
+100.56,103.44,Customer," Yeah, that's right."
+,,,
+103.44,108.36,Agent, Could you provide us with an email address?
+,,,
+108.36,109.12,Customer," Umm, OK."
+,,,
+109.12,118.44,Customer, My email is n-underscore- McDougall-73-at-gmail.com.
+,,,
+118.44,124.8,Agent, N-underscore-McDougall-73-at-gmail.com.
+,,,
+124.8,129.68,Agent," May I have the shipping address and name of recipient, please?"
+,,,
+129.68,133,Customer, It's going to Molly McDougall.
+,,,
+133,144.28,Customer," The address is 3905 West Pine Street, San Diego, California, and the zip code is 92126."
+,,,
+144.28,150.68,Agent, Is the street name P for Papa or V for Victor?
+,,,
+150.68,155.32,Customer," It's P as in Papa, West Pine Street."
+,,,
+155.32,156.56,Agent, Thank you.
+,,,
+156.56,163.92,Agent," Just to confirm, you are ordering the 16 item Regal Chocolate basket for Molly McDougall."
+,,,
+163.92,170.6,Agent, The total amount for your order is 89 dollars and 98 cents.
+,,,
+170.6,173.08,Agent, How would you like to pay for that?
+,,,
+173.08,175.6,Customer, On my Visa card?
+,,,
+175.6,176.6,Agent," All right, sir."
+,,,
+176.6,179.52,Agent, I am ready for your card number.
+,,,
+179.52,190.56,Customer, The card number is 123-456-789-01234-56.
+,,,
+190.56,193.04,Agent, Let me just confirm the number.
+,,,
+193.04,204.04,Agent, It's 1234-5678-9012-3456.
+,,,
+204.04,206.64,Customer, That's right.
+,,,
+206.64,210.44,Agent, May I have the card expiration date?
+,,,
+210.44,215.44,Customer," Sure, it's 12-2027."
+,,,
+215.44,216.76,Agent, Thank you.
+,,,
+216.76,221.28,Agent, Could you tell me the security code on the back of the card?
+,,,
+221.28,223.28,Customer, Hold on a sec.
+,,,
+223.28,225.28,Customer, It's 394.
+,,,
+225.28,226.28,Agent, Thank you for that.
+,,,
+226.28,228.84,Agent, Your order is all set.
+,,,
+228.84,229.84,Customer, Great.
+,,,
+229.84,231.52,Customer, Will it arrive this week?
+,,,
+231.52,234.56,Agent, It will ship within 48 hours.
+,,,
+234.56,239.16,Agent, You can expect delivery in three to five business days.
+,,,
+239.16,241.2,Customer, That should be fine.
+,,,
+241.2,244.28,Agent, Is there anything else I can help you with?
+,,,
+244.28,246.76,Customer," No, that should do it for now."
+,,,
+246.76,250,Customer, I sure hope my mom likes these chocolates.
+,,,
+250,251.84,Agent, I'm sure she will.
+,,,
+251.84,254.8,Agent, This basket is our most popular item.
+,,,
+254.8,258.32,Customer," Well, that's good to know."
+,,,
+258.32,261.52,Agent, Thank you again for calling Gabby's gift baskets.
+,,,
+261.52,263,Agent, Have a nice day.
+,,,
+263,264,Customer, Thanks.
+,,,
+264,265,Customer, Goodbye.

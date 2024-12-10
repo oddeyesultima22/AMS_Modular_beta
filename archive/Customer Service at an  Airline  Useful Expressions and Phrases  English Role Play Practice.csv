@@ -1,0 +1,46 @@
+Start Time,End Time,Speaker,Text
+0.00,10.00,Customer," How to change a flight reservation, role play, airline agent, and customer."
+13.00,19.00,Agent, Thank you for calling Zenith Airline. My name is Claudia. How may I help you?
+20.00,27.00,Customer," Hello. I have a ticket for a flight later this month, and I would like to reschedule."
+27.00,36.00,Agent," I understand, sir. May I have your flight number and the day of your departure."
+37.00,44.00,Customer, Day of departure is the day you are leaving on a trip.
+45.00,55.00,Customer," I'm not sure about the flight number, but it's scheduled to depart at 6.30am on the 27th."
+57.00,62.00,Agent, All right. May I have your last name please?
+63.00,66.00,Customer, My last name is Donaldson.
+67.00,72.00,Agent," Thank you, Mr. Donaldson. This should only take a minute."
+72.00,74.00,Customer, Okay.
+75.00,83.00,Agent," Mr. Donaldson, would you like to change your flight time or change the travel date?"
+83.00,88.00,Customer," Actually, I would like to change both if possible."
+89.00,93.00,Agent, I understand. Which day would you like to travel?
+94.00,100.00,Customer," The next day, the 28th. Do you have any afternoon flights?"
+101.00,104.00,Agent," I will check on that for you, sir."
+105.00,106.00,Customer, Thank you.
+106.00,116.00,Agent," Unfortunately, our afternoon flights at 140 and 310 are both full."
+117.00,120.00,Customer," Oh, those are all booked up."
+121.00,123.00,Customer, I see.
+124.00,128.00,Agent, Let me just check the 455 flight.
+128.00,130.00,Customer, Thank you.
+131.00,135.00,Agent, I do have two seats remaining on the 455.
+136.00,139.00,Agent, Would you like to change to that flight?
+140.00,142.00,Customer, 455.
+143.00,146.00,Customer, What time will that flight arrive?
+147.00,152.00,Agent, It will arrive at 10.15pm Central Standard Time.
+153.00,160.00,Customer," In the United States, there are actually six different time zones."
+162.00,167.00,Customer," Ah, okay. It's a little late, but let's change it."
+168.00,175.00,Agent," All right, Mr. Donaldson. Your new flight number is 1918."
+176.00,179.00,Customer, Just a second. Let me grab a pen.
+179.00,182.00,Customer," Okay, go right ahead."
+183.00,188.00,Customer," The idiom, let me grab, means you pick up something quickly."
+190.00,195.00,Customer, Just a second. Let me get a pen. Okay? Go right ahead.
+195.00,198.00,Customer," You can also use, let me get a pen."
+198.00,211.00,Agent, It is flight number 1918 departing LAX at 4.55pm on June 28.
+212.00,218.00,Customer," Thank you. Oh, is there any charge for rescheduling the flight?"
+219.00,225.00,Agent," No, sir. You are allowed to reschedule one time with no charge."
+225.00,229.00,Customer, Got it. Thank you. I appreciate it.
+230.00,235.00,Agent," You're welcome, Mr. Donaldson. Is there anything else I can help you with today?"
+236.00,238.00,Customer," No, that should do it."
+239.00,243.00,Customer," Or you could say no, that will be all."
+244.00,247.00,Agent, Thank you for calling Zenith Airline.
+248.00,250.00,Customer, Thank you for your help. Goodbye.
+251.00,253.00,Agent, Have a nice day. Goodbye.
+253.00,258.00,Customer, Remember to watch our other roleplay videos.

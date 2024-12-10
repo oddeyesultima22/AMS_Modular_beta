@@ -1,0 +1,45 @@
+Person,Text,Predicted Category,Predicted Quality,Predicted Sentiment
+A, Thank you for calling Nissan.,Closure,Positive,0.79
+A, My name is Lauren.,Greetings,Positive,0.79
+A, Can I have your name?,Account Verification,Positive,0.79
+C, My name is John Smith.,Greetings,Positive,0.83
+A," Thank you, John.",Problem Investigation,Positive,0.76
+A, How can I help you?,Greetings,Positive,0.78
+C, I was just calling about to see how much it would cost to update the map in my car.,Problem Investigation,Negative,0.76
+A, I'd be happy to help you with that today.,Problem Investigation,Positive,0.79
+A, Did you receive a mailer from us?,Problem Investigation,Neutral,0.53
+C, I did.,Problem Investigation,Neutral,0.53
+C, Do you need the customer number?,Account Verification,Neutral,0.73
+A," Yes, please.",Problem Investigation,Neutral,0.52
+C, Okay.,Problem Investigation,Neutral,0.55
+C, It's 1-5-2-4-3.,Problem Investigation,Neutral,0.77
+C, Thank you.,Problem Investigation,Positive,0.59
+A, And the year making model of your vehicle?,Account Verification,Neutral,0.61
+C," Yeah, I have a 2009 Nissan Altima.",Problem Investigation,Positive,0.64
+C," Oh, nice car.",Problem Investigation,Positive,0.73
+A," Yeah, thank you.",Problem Investigation,Positive,0.79
+C, We really enjoy it.,Problem Investigation,Positive,0.7
+A," Okay, I think I found your profile here.",Problem Investigation,Positive,0.73
+A," Can I have you verify your address and phone number, please?",Problem Investigation,Positive,0.77
+C," Yes, it's 1255 North Research Way.",Problem Investigation,Positive,0.8
+C, That's an RMUTA 84097.,Problem Investigation,Positive,0.73
+C, And my phone number is 801-431-1000.,Problem Investigation,Positive,0.69
+A," Thanks, John.",Problem Investigation,Positive,0.71
+A, I located your information.,Problem Investigation,Positive,0.59
+A," The newest version we have available for your vehicle is version 7.7, which was released in March of 2012.",Problem Investigation,Positive,0.69
+A, The price of the new map is $99 plus shipping and tax.,Problem Investigation,Negative,0.36
+A, Let me go ahead and set up this order for you.,Problem Investigation,Positive,0.69
+C," Well, can we wait just a second?",Problem Investigation,Neutral,0.6
+C, I'm not really sure if I can afford it right now.,Problem Investigation,Negative,0.37
+A," All right, well, here are a few reasons to consider purchasing today.",Problem Investigation,Positive,0.68
+A, It looks as though you have an updated your vehicle for three years.,Problem Investigation,Neutral,0.69
+A, So that would be the equivalent of getting three years' worth of updates for the price of one.,Problem Investigation,Positive,0.59
+C, Okay.,Problem Investigation,Neutral,0.55
+A," In addition, special offers like the current promotion don't come around too often.",Problem Investigation,Neutral,0.63
+A, I would definitely recommend taking advantage of the extra $50 off before it expires.,Problem Investigation,Positive,0.59
+C," Yeah, that did sound pretty good.",Problem Investigation,Positive,0.79
+A," If I set this order up for you now, it'll ship out today and for $50.",Problem Investigation,Positive,0.47
+A, less.,Problem Investigation,Neutral,0.39
+A, Do you have your credit card handy and I can place this order for you now?,Problem Investigation,Positive,0.81
+C," Yeah, let's go ahead and use your visa.",Problem Investigation,Positive,0.79
+C, My number is...,Problem Investigation,Positive,0.44

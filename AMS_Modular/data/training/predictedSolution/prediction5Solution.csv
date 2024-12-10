@@ -1,0 +1,41 @@
+Person,Text,Category Truth,Quality Truth,Sentiment Truth,Predicted Category,Predicted Quality,Predicted Sentiment
+A,"Thank you for calling Comcast, Salison.",Greetings,Neutral,0.5,Greetings,Positive,0.65
+A,Can you give me just a minute?,Greetings,Negative,0.2,Problem Investigation,Negative,0.43
+C,Yes.,Greetings,Neutral,0.5,Problem Investigation,Neutral,0.52
+A,Sorry about that.,Greetings,Positive,0.7,Problem Investigation,Positive,0.73
+A,How can I going to help you?,Problem Investigation,Neutral,0.6,Problem Investigation,Negative,0.57
+C,"Alison, I'm calling because Comcast raised my rates again, and I don't understand why I have to pay more for the same service.",Problem Investigation,Negative,0.3,Problem Investigation,Negative,0.58
+C,It's $4 more for the exact same thing I had before.,Problem Investigation,Negative,0.2,Problem Investigation,Negative,0.61
+A,Okay.,Problem Investigation,Neutral,0.4,Problem Investigation,Neutral,0.48
+A,Can I get your name?,Account Verification,Positive,0.7,Account Verification,Positive,0.48
+C,Sally Walton.,Account Verification,Positive,0.7,Account Verification,Positive,0.61
+A,And your address.,Account Verification,Positive,0.7,Account Verification,Positive,0.56
+C,1-2-2-5 Kentucky Avenue.,Account Verification,Positive,0.7,Account Verification,Positive,0.49
+C,"Thornton, Colorado, 8-0-2-9.",Account Verification,Positive,0.7,Account Verification,Positive,0.55
+A,And the last four of your Social Security number?,Account Verification,Neutral,0.5,Account Verification,Neutral,0.52
+C,1-2-3-4.,Account Verification,Neutral,0.6,Account Verification,Neutral,0.41
+A,Let me say you had a question about your bill or something?,Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.56
+C,Yes.,Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.52
+C,Comcast keeps raising my rates and I'm tired of it.,Problem Investigation,Negative,0.1,Problem Investigation,Negative,0.49
+A,Okay.,Problem Investigation,Neutral,0.4,Problem Investigation,Neutral,0.48
+A,"Give me just a minute and take a look at your account, okay?",Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.65
+A,Can I put you on hold?,Problem Investigation,Neutral,0.4,Problem Investigation,Neutral,0.64
+C,Yes.,Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.52
+A,Thanks for holding.,Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.65
+A,Sorry about that.,Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.73
+A,So I just took a look at your account and it looks like you're in the preferred cable package with the HD box.,Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.55
+A,And the HD went from $8 to $10 and your preferred package went from $16.95 to $18.,Problem Investigation,Positive,0.7,Problem Investigation,Negative,0.47
+A,Not that much.,Problem Investigation,Negative,0.1,Problem Investigation,Negative,0.32
+C,I don't understand why my rates keep getting increased.,Problem Investigation,Negative,0.2,Problem Investigation,Negative,0.37
+A,"Well, the program rears the rates and they charge Comcast.",Problem Investigation,Neutral,0.5,Problem Investigation,Negative,0.62
+A,"So in turn, we have to charge you.",Problem Investigation,Neutral,0.4,Problem Investigation,Neutral,0.45
+A,"All right, rates.",Problem Investigation,Negative,0.1,Problem Investigation,Negative,0.42
+C,You know what?,Problem Investigation,Negative,0.1,Problem Investigation,Negative,0.57
+A,But it's not that much.,Problem Investigation,Negative,0.1,Problem Investigation,Negative,0.39
+C,You know what?,Problem Investigation,Negative,0.1,Problem Investigation,Negative,0.57
+C,It is a lot.,Problem Investigation,Neutral,0.5,Problem Investigation,Negative,0.47
+C,It's enough to me.,Problem Investigation,Neutral,0.5,Problem Investigation,Negative,0.6
+C,I'm done with this.,Problem Investigation,Negative,0.1,Problem Investigation,Negative,0.49
+C,I'm tired.,Problem Investigation,Negative,0.3,Problem Investigation,Negative,0.42
+C,I'm frustrated.,Problem Investigation,Negative,0.3,Problem Investigation,Negative,0.37
+C,I'm going to go to satellite.,Problem Investigation,Negative,0.1,Problem Investigation,Negative,0.58

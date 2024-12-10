@@ -1,0 +1,51 @@
+Start Time,End Time,Speaker,Text
+0.00,4.00,Agent, Thank you for calling to LoNX. This is NamUs speaking. How can I help you today?
+4.00,12.00,Customer," Hi, I'm just on your website. I don't know if you've got a special on your 7-inch spotlights and I wanted to place an order of this still about everything."
+12.00,15.00,Agent," Sure, I'll be happy to assist you. Can I start with your name please?"
+15.00,16.00,Agent," Sure, me, Morgan."
+16.00,21.00,Agent," Thank you, Mr. Morgan. And did you want the invoice made out in your name or a company name?"
+21.00,23.00,Customer, My name is Mike.
+23.00,26.00,Agent," Okay, no problem. And can I get the delivery address please?"
+26.00,30.00,Customer, It's 123 blue rich present.
+30.00,35.00,Customer," Monobello, 2106, we set files."
+35.00,41.00,Agent," Thank you, Mr. Morgan. And do you have an email address so I can send your receipt and online tracking too?"
+41.00,46.00,Customer," Yes, it's Jeremy Morgan at Gmail.com."
+46.00,52.00,Agent, Great. Now the 17-inch spotlights are available in 35W or 55W.
+52.00,54.00,Agent, Which one do you want?
+54.00,56.00,Customer, The 55W place.
+56.00,60.00,Agent, All right. And do you know what color temperature you want for the bulbs?
+60.00,65.00,Customer," Yeah, I was thinking that 6,000K one sets the blueish color, right?"
+65.00,69.00,Agent," Yes, 6,000K is bright light, which is a slight blue-ting."
+69.00,71.00,Customer," Okay, thank you."
+71.00,75.00,Agent," Now for the pause page, we have registered post or express post."
+75.00,77.00,Agent, Which one were you interested in?
+77.00,79.00,Customer," How much are they aged, please?"
+79.00,83.00,Agent," Sure, registered post is $12.45 and the delivery time is three minutes."
+83.00,90.00,Agent, For express post is $18.85 and the return is one to two days.
+90.00,92.00,Customer," Okay, I'll take the express post."
+92.00,97.00,Agent," Great. So I'm only now a sir of this, or master quite details, please."
+97.00,107.00,Customer," Okay, it's a Visa Car and the number is 4321, 1234, 5678, 1234."
+107.00,109.00,Agent, And the express release?
+109.00,112.00,Customer," It is 10, 1240."
+112.00,116.00,Agent, Thank you for that. And they also grab the security number on the card.
+116.00,119.00,Agent, It's the last three digits on the back of the card.
+119.00,122.00,Customer," Yeah, that would be 1, 2, 3."
+122.00,125.00,Agent, Great. Let me just repeat those details to you.
+125.00,133.00,Agent," It's a Visa card, number 4321, 1234, 567, 81234."
+133.00,137.00,Agent," expiry, 1014, and CCB is 1, 2, 3."
+137.00,138.00,Customer," Yep, okay."
+138.00,140.00,Agent," Great. Thank you, Mr. Morgan."
+140.00,149.00,Agent," So we have one pair of seven inch spotlights and 5500, 6000K going to Jeremy Morgan at 1, 2, 3."
+149.00,154.00,Agent," Blue Ridge Crescent, Mona Vale, 2, 1, 0, 6, Moon South Wales."
+154.00,156.00,Agent, And that will be shipped out today.
+156.00,157.00,Agent, Perfect.
+157.00,164.00,Agent," Once your order has been shipped, January will email your online tracking number, but you should receive your order before 12 o'clock tomorrow."
+164.00,165.00,Agent, Sydney time.
+165.00,166.00,Agent, Great.
+166.00,168.00,Agent," Is there anything else that I can help you with, Mr. Morgan?"
+168.00,170.00,Customer, May that's all fine. Thank you.
+170.00,171.00,Agent, You're welcome.
+171.00,173.00,Agent, And thank you very much for choosing your loading.
+173.00,174.00,Agent, I enjoyed the rest of your acting.
+174.00,175.00,Customer, Thank you.
+175.00,176.00,Agent, Bye.

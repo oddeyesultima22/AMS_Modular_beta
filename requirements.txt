@@ -1,0 +1,13 @@
+pandas
+ffmpeg
+SpeechRecognition
+soundfile
+sounddevice
+openai-whisper
+pyannote.audio
+torchvision
+tensorflow
+numpy
+scikit-learn
+transformers
+tf-keras

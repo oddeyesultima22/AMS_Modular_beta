@@ -1,0 +1,35 @@
+Person,Text,Category Truth,Quality Truth,Sentiment Truth,Predicted Category,Predicted Quality,Predicted Sentiment,Thank Customer,Introduce Self,Ask Reason,Ask Accurate Details,Ask Permission,Resolve Issue,Offer Assistance,Thank Again,Farewell
+A,Thank you for calling vikaze day. My name is Miranda. May have your complete name?,Greetings,Positive,0.9,Greetings,Positive,0.78,1,1,0,1,1,0,0,0,0
+C,Sure. It is a Laura Paredes .,Greetings,Positive,0.8,Greetings,Positive,0.76,0,0,0,0,0,0,0,0,0
+A,Laura Paredes. Can you spell that for me?,Greetings,Positive,0.8,Greetings,Positive,0.84,0,0,0,1,1,0,0,0,0
+C,Okay. It's L A U R A B E R E Z,Greetings,Positive,0.7,Greetings,Positive,0.78,0,0,0,0,0,0,0,0,0
+A,"All right, can you have your Email address and your date of birth?",Account Verification,Positive,0.7,Account Verification,Positive,0.85,0,0,0,1,1,0,0,0,0
+C,"Okay, it's Laura under square paris at gmail.com and my birthday. It's January 3, 1987.",Account Verification,Positive,0.7,Account Verification,Positive,0.77,0,0,0,0,0,0,0,0,0
+A,Is this your active email? ,Account Verification,Neutral,0.6,Account Verification,Neutral,0.57,0,0,0,1,0,0,0,0,0
+C,"Yes, it is. ",Account Verification,Neutral,0.6,Account Verification,Neutral,0.38,0,0,0,0,0,0,0,0,0
+A,"All right, and how can I help you,Laura?",Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.81,0,0,1,0,1,0,0,0,0
+C,"Okay, ah as you can see I cannot complete my booking through my mobile application. I'm actually out the day and I cannot use my computer. I already tried to refresh the application several times. I also check my internet connection and everything is working fine. I check my payment and Everything is accurate. I'm not really sure what went wrong. Can you help me please?",Problem Investigation,Neutral,0.5,Problem Investigation,Neutral,0.47,0,0,0,0,0,0,0,0,0
+A,"I see, don't worry Laura. I will help you resolve it. So you cannot complete your booking even if you already refresh the page. You also have a strong internet connection and you also double check your payment method details. These are uh, does it exit suddenly while you are using it?    ",Problem Investigation,Positive,0.7,Problem Investigation,Neutral,0.68,0,0,0,0,0,1,0,0,0
+C,"No, I don't think so. ",Problem Investigation,Neutral,0.5,Problem Investigation,Neutral,0.38,0,0,0,0,0,0,0,0,0
+A,Does it show you any error message? ,Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.54,0,0,0,0,0,1,0,0,0
+C,"No, and by the way, I think this is important when I am trying to Browse to it on the payment part it goes back to the main page. I need a big delay stay home page I repeated it several times and the same thing is going on.",Problem Investigation,Neutral,0.5,Problem Investigation,Neutral,0.44,0,0,0,0,0,0,0,0,0
+A,"Oh, I see. Are your apps automatically updated? ",Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.82,0,0,0,0,0,1,0,0,0
+C,I don't think so.,Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.27,0,0,0,0,0,0,0,0,0
+A,"Oh, but have you updated our software into its latest version?",Problem Investigation,Neutral,0.5,Problem Investigation,Neutral,0.75,0,0,0,0,0,1,0,0,0
+C,Not yet I am not aware of any update. ,Problem Investigation,Neutral,0.5,Problem Investigation,Neutral,0.36,0,0,0,0,0,0,0,0,0
+A,I see. What is your operating system? Is it Android or iOS? ,Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.6,0,0,0,0,0,1,0,0,0
+C,"So currently, I am using iOS 12.1. ",Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.78,0,0,0,0,0,0,0,0,0
+A,All right. We have updated our software last week to remove the bugs that are is slowing this system. All we need to do is to update the vikaze day app on your phone. So just open your app store and look for the updates button on the lower right part of the Apple stores home screen. Please click the update button besides the vikaze day icon. ,Problem Investigation,Positive,0.8,Problem Investigation,Positive,0.79,0,0,0,0,0,1,0,0,0
+C,"Okay, I'm doing it now. It's done. ",Problem Investigation,Positive,0.8,Problem Investigation,Positive,0.65,0,0,0,0,0,0,0,0,0
+A,Has it finished updating?,Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.45,0,0,0,0,0,1,0,0,0
+C,"Hold on a second. Oh, it's not yet done. Okay, now it's done.",Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.38,0,0,0,0,0,0,0,0,0
+A,Oh great open the app and try to book the place again.,Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.58,0,0,0,0,0,1,0,0,0
+C,"Okay, sure.",Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.69,0,0,0,0,0,0,0,0,0
+A,"By the way, is it okay for you if we could send you articles on your email. So you will always be updated on the latest places and proms moves that we offer. ",Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.78,0,0,0,0,0,0,0,0,0
+C,That's awesome. Don't we to send me those things? I think I'll put me close.,Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.65,0,0,0,0,0,0,0,0,0
+A,Sure thank you. ,Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.65,0,0,0,0,0,0,0,0,0
+C,This is amazing. I already booked a place. ,Problem Investigation,Positive,0.9,Problem Investigation,Positive,0.73,0,0,0,0,0,0,0,0,0
+A,Glad to hear that. Do you have additional concerns?,Closure,Positive,0.8,Closure,Positive,0.82,0,0,0,0,0,0,1,0,0
+C,And that will do for now. Thank you so much for the help. ,Closure,Positive,0.8,Closure,Positive,0.83,0,0,0,0,0,0,0,0,0
+A,You're welcome. Thank you for calling the vikaze day. Have a nice day.,Closure,Positive,0.9,Closure,Positive,0.81,0,0,0,0,0,0,0,1,1
+C,Have a nice day too.,Closure,Positive,0.7,Closure,Positive,0.79,0,0,0,0,0,0,0,0,0

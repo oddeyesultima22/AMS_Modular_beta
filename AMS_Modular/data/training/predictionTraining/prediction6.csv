@@ -1,0 +1,47 @@
+Person,Text,Category Truth,Quality Truth,Sentiment Truth
+A,"Thank you for calling Comcast, Salus, and how can I help you?",Problem Investigation,Positive,0.9
+C,"Hi, Allison.",Problem Investigation,Positive,0.7
+C,I'm calling because Comcast has raised my rates again.,Problem Investigation,Negative,0.3
+C,I don't understand why I have to pay more for the same services.,Problem Investigation,Negative,0.3
+C,Can you tell me where this $4 is coming from?,Problem Investigation,Neutral,0.6
+A,Sure.,Problem Investigation,Neutral,0.5
+A,I do apologize for that.,Problem Investigation,Positive,0.7
+A,I'm going to definitely take a look at it.,Problem Investigation,Positive,0.7
+A,Can I just make sure that I have the right account up?,Problem Investigation,Neutral,0.6
+A,Can I get you to verify your name and your address?,Problem Investigation,Positive,0.8
+C,Yes.,Problem Investigation,Positive,0.7
+C,"It's Sally Walton, 1, 2, 5, 5 East Kentucky Avenue, Thornton, Colorado, 8, 0, 2, 2, 9.",Problem Investigation,Positive,0.8
+A,Okay.,Problem Investigation,Positive,0.7
+C,"And my last four is 1, 2, 3, 4.",Problem Investigation,Positive,0.7
+A,Great.,Problem Investigation,Neutral,0.6
+A,Thank you.,Problem Investigation,Neutral,0.5
+A,I'm going to go ahead and pull up your last statement so we can review it together and see where that extra $4 is coming from.,Problem Investigation,Positive,0.7
+C,Thank you.,Problem Investigation,Positive,0.7
+C,It just seems like Comcast keeps raising the rates and getting really expensive.,Problem Investigation,Negative,0.3
+A,I can definitely understand that.,Problem Investigation,Positive,0.7
+A,Let's see what's going on with the billing concern.,Problem Investigation,Positive,0.7
+A,"Looks like your services for your household, you have the preferred packet for the HD box.",Problem Investigation,Positive,0.7
+C,"Yes, that's correct.",Problem Investigation,Positive,0.8
+A,And the rate for the HD went from $8 to $10 and the preferred package went from $16.95 to $18.,Problem Investigation,Positive,0.7
+A,So it's a difference of $3.50 from your last statement.,Problem Investigation,Positive,0.7
+C,"Okay, but I just don't understand why it's $3.50 more or $4 for that matter, but none of my services are increasing.",Problem Investigation,Negative,0.3
+C,Just the prices.,Problem Investigation,Negative,0.3
+A,Okay.,Problem Investigation,Neutral,0.5
+A,And let me ask you this.,Problem Investigation,Negative,0.3
+A,Have you been taking advantage of any of the free content that we offer with our on-demand or our Xfinity.com?,Problem Investigation,Neutral,0.5
+C,"Well, I watch the movies here and there, but that's about it.",Problem Investigation,Neutral,0.6
+A,Okay.,Problem Investigation,Neutral,0.6
+A,"Because part of the reason why our rates have increased is because we have all these investments going into these new services so that we can offer our services to you where, when, and how you want them.",Problem Investigation,Neutral,0.5
+A,Just making it easier for our customers so you can access the entertainment that you want when you want it.,Problem Investigation,Neutral,0.6
+C,Okay.,Problem Investigation,Neutral,0.6
+C,So I am getting more services then.,Problem Investigation,Positive,0.7
+A,Definitely.,Problem Investigation,Positive,0.7
+C,"Oh, that's awesome.",Problem Investigation,Positive,0.7
+C,"All right, Allison.",Problem Investigation,Positive,0.7
+C,That's all I was concerned about.,Closure,Positive,0.8
+C,Thank you for your time.,Closure,Positive,0.8
+A,You're welcome.,Closure,Positive,0.7
+A,You have a great day.,Closure,Positive,0.7
+C,You too.,Closure,Neutral,0.6
+C,Bye.,Closure,Positive,0.7
+A,"Bye bye,",Closure,Positive,0.7

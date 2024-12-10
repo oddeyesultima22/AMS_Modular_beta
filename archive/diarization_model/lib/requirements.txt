@@ -1,0 +1,8 @@
+librosa
+moviepy
+resemblyzer
+ffmpeg
+SpeechRecognition
+soundfile
+SpeechRecognition
+sounddevice

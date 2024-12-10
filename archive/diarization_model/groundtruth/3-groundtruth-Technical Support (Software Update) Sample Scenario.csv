@@ -1,0 +1,36 @@
+Start Time,End Time,Speaker,Text
+0,2,SPEAKER_00, You're welcome. Have a nice day.
+5.04,9.08,SPEAKER_01, Thank you for calling vikaze day. My name is Miranda. May have your complete name?
+9.76,24.96,SPEAKER_02, Sure. It is a Laura Paredes .
+,,SPEAKER_01,Laura Paredes. Can you spell that for me?
+,,SPEAKER_02, Okay. It's L A U R A B E R E Z
+,,SPEAKER_01," All right, can you have your Email address and your date of birth?"
+25.6,42.82,SPEAKER_02," Okay, it's Laura under square paris at gmail.com and my birthday. It's January 3, 1987."
+,,SPEAKER_01,Is this your active email? 
+,,SPEAKER_02,"Yes, it is. "
+,,SPEAKER_01,"All right, and how can I help you,Laura?"
+43.36,71.1,SPEAKER_02," Okay, ah as you can see I cannot complete my booking through my mobile application. I'm actually out the day and I cannot use my computer. I already tried to refresh the application several times. I also check my internet connection and everything is working fine. I check my payment and Everything is accurate. I'm not really sure what went wrong. Can you help me please?"
+71.82,118.96,SPEAKER_01," I see, don't worry Laura. I will help you resolve it. So you cannot complete your booking even if you already refresh the page. You also have a strong internet connection and you also double check your payment method details. These are uh, does it exit suddenly while you are using it?    "
+,,SPEAKER_02,"No, I don't think so. "
+,,SPEAKER_01,Does it show you any error message? 
+,,SPEAKER_02,"No, and by the way, I think this is important when I am trying to Browse to it on the payment part it goes back to the main page. I need a big delay stay home page I repeated it several times and the same thing is going on."
+,,SPEAKER_01,"Oh, I see. Are your apps automatically updated? "
+,,SPEAKER_02,I don't think so.
+,,SPEAKER_01," Oh, but have you updated our software into its latest version?"
+120.04,158.46,SPEAKER_02, Not yet I am not aware of any update. 
+,,SPEAKER_01,I see. What is your operating system? Is it Android or iOS? 
+,,SPEAKER_02,"So currently, I am using iOS 12.1. "
+,,SPEAKER_01,All right. We have updated our software last week to remove the bugs that are is slowing this system. All we need to do is to update the vikaze day app on your phone. So just open your app store and look for the updates button on the lower right part of the Apple stores home screen. Please click the update button besides the vikaze day icon. 
+,,SPEAKER_02,"Okay, I'm doing it now. It's done. "
+,,SPEAKER_01,Has it finished updating?
+158.7,185.26,SPEAKER_02,"Hold on a second. Oh, it's not yet done. Okay, now it's done."
+,,SPEAKER_01,Oh great open the app and try to book the place again.
+,,SPEAKER_02,"Okay, sure."
+,,SPEAKER_01," By the way, is it okay for you if we could send you articles on your email. So you will always be updated on the latest places and proms moves that we offer. "
+,,SPEAKER_02,That's awesome. Don't we to send me those things? I think I'll put me close.
+185.26,197.86,SPEAKER_01,Sure thank you. 
+,,SPEAKER_02,This is amazing. I already booked a place. 
+,,SPEAKER_01,Glad to hear that. Do you have additional concerns?
+198.74,206.22,SPEAKER_02,And that will do for now. Thank you so much for the help. 
+,,SPEAKER_01,You're welcome. Thank you for calling the vikaze day. Have a nice day.
+215.26,217.26,SPEAKER_02,Have a nice day too.

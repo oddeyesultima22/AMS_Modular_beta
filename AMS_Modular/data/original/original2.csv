@@ -1,0 +1,35 @@
+Person,Text
+A,"Hi, this is Michelle from Comcast."
+A,How may I help you today?
+C,"Hello, my name is Tom."
+C,I've been having problems with my cable
+A,What seems to be the issue sir?
+C,My on Demand is not working.
+A,Alright sir
+A,We will look into this
+A,We just have to verify your account
+A,Can you provide me with your account number?
+C,It is 948493584
+A,"Thank you, and can you provide the full name of the account holder?"
+C,Tom White
+A,"Thanks.  One last thing, can you verify the account holders date of birth?"
+C,It is 13 April 1988
+A,Thanks sir.  I have your account pulled up.
+A,I can see there is no upstream signal coming from your box.
+C,What does that mean?
+A,"It means that while you can watch channels that don't require two way communication, you can't watch content that requires input and output."
+C,"Oh, so anything where I request a stream?"
+A,Exactly sir.  Can you turn off the cable box for me?
+C,"Yes, it is done."
+A,"Alright sir, just a moment until I see the device go offline"
+A,"It is now offline, so you can plug it back in."
+C,It's booting up
+A,"I can see that the device is now back online, and showing a strong signal for upload and download"
+C,"Yes, on demand is working again"
+A,Very good.  Have I resolved your problem today sir?
+C,"Yes you have, thank you very much"
+A,Are there any other issues that you would like to address? 
+C,I think you have solved everything
+A,You have a great day sir.
+A,Goodbye
+C,Bye

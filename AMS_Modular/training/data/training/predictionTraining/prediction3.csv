@@ -1,0 +1,33 @@
+Person,Text,Category Truth,Quality Truth,Sentiment Truth
+A,"Hi, How can I help you?",Greetings,Neutral,0.5
+C,Hi.,Greetings,Neutral,0.4
+C,I am having problems with my internet.,Problem Investigation,Negative,0.3
+A,Can I first verify your account before we move on?,Account Verification,Positive,0.7
+C,"Yeah, no problem.",Problem Investigation,Positive,0.7
+A,What is your first and last name?,Account Verification,Neutral,0.5
+C,My name is Shambria Richardson,Account Verification,Positive,0.7
+A,Thank you Shambria.,Account Verification,Positive,0.7
+A,Can you verify your account id?,Account Verification,Positive,0.9
+C,It's 9348394,Account Verification,Positive,0.7
+A,Thank you,Problem Investigation,Positive,0.8
+A,"I see your account details, your modem signals look good.",Problem Investigation,Positive,0.8
+A,What kind of issues are you having?,Problem Investigation,Positive,0.7
+C,My internet is going very slow,Problem Investigation,Negative,0.3
+A,I see you are on our 5 mega bite service,Problem Investigation,Positive,0.7
+C,That's not what I asked for.,Problem Investigation,Negative,0.1
+C,I was supposed to have the 50 package,Problem Investigation,Negative,0.2
+A,Your account details do in fact say you are supposed to have the 50,Problem Investigation,Neutral,0.6
+A,I will just adjust the code in our system to match your package,Problem Investigation,Positive,0.7
+C,Thank you,Problem Investigation,Positive,0.8
+A,No problem mam.,Problem Investigation,Neutral,0.6
+A,"I sent a signal to your modem, you should see it restart in a moment",Problem Investigation,Positive,0.7
+C,It just turned off and on again,Problem Investigation,Neutral,0.5
+A,"When it comes back on, can you go to speedtest.net and perform a speed test?",Problem Investigation,Positive,0.7
+C,Doing it now.,Problem Investigation,Neutral,0.6
+C,It says 52 down and 23 up.,Problem Investigation,Neutral,0.6
+A,Those speeds are great.  You should expect about a 50 download and 20 upload,Problem Investigation,Positive,0.7
+A,Do you have any other issues?,Closure,Neutral,0.6
+C,"No, that is all.",Closure,Positive,0.7
+A,Thank you for calling Xfinity,Closure,Positive,0.9
+A,Goodbye,Closure,Positive,0.9
+C,Goodbye,Closure,Positive,0.9

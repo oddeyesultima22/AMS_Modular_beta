@@ -1,0 +1,12 @@
+pandas==2.2.2
+ffmpeg==1.4
+SpeechRecognition==3.11.0
+soundfile==0.12.1
+sounddevice==0.5.1
+openai-whisper==20240930
+pyannote.audio==3.3.2
+torchvision==0.20.1
+tensorflow==2.17.0
+numpy==1.23.5
+scikit-learn==1.4.2
+transformers==4.44.1

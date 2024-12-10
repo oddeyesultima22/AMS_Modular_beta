@@ -1,0 +1,101 @@
+Start Time,End Time,Speaker,Text
+,,,
+0,4,Agent, Thank you for calling to LoanX. This is Nina speaking. How can I help you today?
+,,,
+4,12,Customer," Hi, I'm just on your website. I don't know if you've got a special on your 7-inch spotlights and I wanted to place an order if they're still available please."
+,,,
+12,15,Agent," Sure, I'll be happy to assist you. Can I start with your name please?"
+,,,
+15,16,Agent,Jeremy Morgan.
+,,,
+16,21,Agent," Thank you, Mr. Morgan. And did you want the invoice made out in your name or a company name?"
+,,,
+21,23,Customer, My name is fine.
+,,,
+23,26,Agent," Okay, no problem. And can I get the delivery address please?"
+,,,
+26,30,Customer, It's 123 blue rich cresent.
+,,,
+30,35,Customer," Monavale, 2106, New South Wales."
+,,,
+35,41,Agent," Thank you, Mr. Morgan. And do you have an email address so I can send your receipt and online tracking too?"
+,,,
+41,46,Customer," Yes, it's Jeremy Morgan at Gmail.com."
+,,,
+46,52,Agent, Great. Now the 17-inch spotlights are available in 35Watt or 55Watt.
+,,,
+52,54,Agent, Which one do you want?
+,,,
+54,56,Customer, The 55Watt ones please.
+,,,
+56,60,Agent, All right. And do you know what color temperature you want for the bulbs?
+,,,
+60,65,Customer," Yeah, I was thinking that 6,000K ones, that's the blueish color, right?"
+,,,
+65,69,Agent," Yes, 6,000K is bright white, which is a slight blue-ting."
+,,,
+69,71,Customer," Okay, thank you."
+,,,
+71,75,Agent," Now for the postage, we have registered post or express post."
+,,,
+75,77,Agent, Which one were you interested in?
+,,,
+77,79,Customer," How much are they each, please?"
+,,,
+79,83,Agent," Sure, registered post is $12.45 and the delivery time is three to five business days."
+,,,
+83,90,Agent, For express post is $18.85 and the delivery time is one to two days.
+,,,
+90,92,Customer," Okay, I'll take the express post."
+,,,
+92,97,Agent," Great. So all I need now is a visa or mastercard details, please."
+,,,
+97,107,Customer," Okay, it's a Visa Card and the number is 4321, 1234, 5678, 1234."
+,,,
+107,109,Agent, And the expiry please?
+,,,
+109,112,Customer," It is 10th month, 2014."
+,,,
+112,116,Agent, Thank you for that. And they also grab the security number on the card.
+,,,
+116,119,Agent, It's the last three digits on the back of the card.
+,,,
+119,122,Customer," Yeah, that would be 1, 2, 3."
+,,,
+122,125,Agent, Great. Let me just repeat those details to you.
+,,,
+125,133,Agent," It's a Visa card, number 4321, 1234, 5678, 1234."
+,,,
+133,137,Agent," expiry, 1014, and CCV is 1, 2, 3."
+,,,
+137,138,Customer," Yep, all correct."
+,,,
+138,140,Agent," Great. Thank you, Mr. Morgan."
+,,,
+140,149,Agent," So we have one pair of seven inch spotlights and 55Watt, 6000K going to Jeremy Morgan at 1, 2, 3."
+,,,
+149,154,Agent," Blue Ridge Crescent, Mona Vale, 2, 1, 0, 6, New South Wales."
+,,,
+154,156,Agent, And that will be shipped out today.
+,,,
+156,157,Agent, Perfect.
+,,,
+157,164,Agent," Once your order has been shipped, Janu will email your online tracking number, but you should receive your order before 12 o'clock tomorrow."
+,,,
+164,165,Agent, Sydney time.
+,,,
+165,166,Agent, Great.
+,,,
+166,168,Agent," Is there anything else that I can help you with, Mr. Morgan?"
+,,,
+168,170,Customer," May that's all, all fine. Thank you."
+,,,
+170,171,Agent, You're welcome.
+,,,
+171,173,Agent, And thank you very much for choosing your loanx.
+,,,
+173,174,Agent,and enjoy the rest of your afternoon.
+,,,
+174,175,Customer, Thank you.
+,,,
+175,176,Agent, Bye.

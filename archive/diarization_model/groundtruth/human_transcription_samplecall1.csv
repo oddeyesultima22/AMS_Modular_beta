@@ -1,0 +1,45 @@
+Start Time,End Time,Speaker,Text
+0,9,SPEAKER_00, Thank you for calling Nissan.
+9,10,SPEAKER_00, My name is Lauren.
+10,11,SPEAKER_00, Can I have your name?
+11,13,SPEAKER_01, My name is John Smith.
+13,14,SPEAKER_00," Thank you, John."
+14,15,SPEAKER_00, How can I help you?
+15,20,SPEAKER_01, I was just calling about to see how much it would cost to update the map in my car.
+20,22,SPEAKER_00, I'd be happy to help you with that today.
+22,24,SPEAKER_00, Did you receive a mailer from us?
+24,25,SPEAKER_01, I did.
+25,26,SPEAKER_01, Do you need the customer number?
+26,27,SPEAKER_00," Yes, please."
+27,28,SPEAKER_01, Okay.
+28,30,SPEAKER_01, It's 1-5-2-4-3.
+30,31,SPEAKER_00, Thank you.
+31,33,SPEAKER_00, And the year making model of your vehicle?
+33,36,SPEAKER_01," Yeah, I have a 2009 Nissan Altima."
+36,38,SPEAKER_00," Oh, nice car."
+38,39,SPEAKER_01," Yeah, thank you."
+39,40,SPEAKER_01, We really enjoy it.
+40,43,SPEAKER_00," Okay, I think I found your profile here."
+43,46,SPEAKER_00," Can I have you verify your address and phone number, please?"
+46,50,SPEAKER_01," Yes, it's 1255 North Research Way."
+50,53,SPEAKER_01, That's an RMUTA 84097.
+53,58,SPEAKER_01, And my phone number is 801-431-1000.
+58,59,SPEAKER_00," Thanks, John."
+59,61,SPEAKER_00, I located your information.
+61,68,SPEAKER_00," The newest version we have available for your vehicle is version 7.7, which was released in March of 2012."
+68,72,SPEAKER_00, The price of the new map is $99 plus shipping and tax.
+72,75,SPEAKER_00, Let me go ahead and set up this order for you.
+75,77,SPEAKER_01," Well, can we wait just a second?"
+77,79,SPEAKER_01, I'm not really sure if I can afford it right now.
+79,83,SPEAKER_00," All right, well, here are a few reasons to consider purchasing today."
+83,87,SPEAKER_00, It looks as though you have an updated your vehicle for three years.
+87,91,SPEAKER_00, So that would be the equivalent of getting three years' worth of updates for the price of one.
+91,92,SPEAKER_01, Okay.
+92,97,SPEAKER_00," In addition, special offers like the current promotion don't come around too often."
+97,102,SPEAKER_00, I would definitely recommend taking advantage of the extra $50 off before it expires.
+102,104,SPEAKER_01," Yeah, that did sound pretty good."
+104,108,SPEAKER_00," If I set this order up for you now, it'll ship out today and for $50."
+108,109,SPEAKER_00, less.
+109,113,SPEAKER_00, Do you have your credit card handy and I can place this order for you now?
+113,117,SPEAKER_01," Yeah, let's go ahead and use the visa."
+117,118,SPEAKER_01, My number is...

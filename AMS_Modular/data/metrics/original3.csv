@@ -1,0 +1,1000 @@
+Person,Text,Predicted Category,Predicted Quality,Predicted Sentiment,Predicted Thank Customer,Predicted Introduce Self,Predicted Ask Reason,Predicted Ask Accurate Details,Predicted Ask Permission,Predicted Resolve Issue,Predicted Offer Assistance,Predicted Thank Again,Predicted Farewell
+A,Thank you for calling Triple-A bank.,Problem Investigation,Positive,0.67,2,0,0,0,0,0,0,0,0
+A,My name is Arianna.,Greetings,Positive,0.83,0,0,1,0,0,0,0,0,0
+A,May I have your name?,Account Verification,Positive,0.84,1,0,0,0,1,1,0,0,0
+C,James breed; ,Account Verification,Positive,0.79,1,0,0,0,0,0,0,0,0
+A,Oh hello Mr. Breed.,Greetings,Positive,0.8,0,0,0,0,0,0,0,0,0
+A,How can I make you smile today?,Problem Investigation,Positive,0.83,0,0,0,1,0,0,0,0,0
+C,Why do I have fees on my bank account? ,Problem Investigation,Negative,0.16,2,0,0,0,0,0,0,0,0
+C,I want those removed. ,Problem Investigation,Negative,0.18,2,0,0,0,0,0,0,0,0
+C,Very ridiculous.,Problem Investigation,Neutral,0.41,2,0,0,0,0,0,0,0,0
+C,I can't even afford them.,Problem Investigation,Negative,0.17,2,0,0,0,0,0,0,0,0
+A,Oh. I understand that fees are really costly. ,Problem Investigation,Negative,0.52,2,0,0,0,0,0,0,0,0
+A,Let me check your account to see what really happened.,Problem Investigation,Positive,0.57,2,0,0,0,0,0,0,0,0
+C,Ok and remove the fees,Problem Investigation,Neutral,0.48,2,0,0,0,0,0,0,0,0
+A,I'll see what I can do Mr. Breed. ,Problem Investigation,Neutral,0.64,2,0,0,0,0,0,0,0,0
+A,As I have checked you were charged some fees because you were not able to pay on time so that means we really cannot do anything about it anymore.,Problem Investigation,Neutral,0.7,2,0,0,0,0,0,0,0,0
+C,What do you mean you can't do anything? ,Problem Investigation,Neutral,0.35,2,0,0,0,0,0,0,0,0
+C,You are supposed to help me.,Problem Investigation,Neutral,0.3,2,0,0,0,0,0,0,0,0
+C,Can you at least try to remove the fees?,Problem Investigation,Neutral,0.47,2,0,0,0,0,0,0,0,0
+A,"No, no sir. ",Problem Investigation,Neutral,0.59,2,0,0,0,0,0,0,0,0
+A,I can't do that because you did not make a payment.,Problem Investigation,Negative,0.22,2,0,0,0,0,0,0,0,0
+C,If you just look at my account I made a payment but it was just a few hours late.,Problem Investigation,Negative,0.53,2,0,0,0,0,0,0,0,0
+C,Can you at least consider? ,Problem Investigation,Neutral,0.56,2,0,0,0,0,0,0,0,0
+C,I had to look for funds just to make a payment but I did my best to pay on my due date.,Problem Investigation,Negative,0.31,2,0,0,0,0,0,0,0,0
+C,I was just late for the cutoff.,Problem Investigation,Negative,0.56,2,0,0,0,0,0,0,0,0
+C,Can you please just remove at least one fee?,Problem Investigation,Neutral,0.38,2,0,0,0,0,1,0,0,0
+A,"As much as I'd love to help you Mr. Breed, my hands are tied right now.",Problem Investigation,Positive,0.53,2,0,0,0,0,0,0,0,0
+A,There's nothing I can do.,Problem Investigation,Negative,0.31,2,0,0,0,0,0,0,0,0
+A,I already told you the reason and I'm afraid you'll have to pay the fees you'll have to pay the fees for now.,Problem Investigation,Negative,0.64,2,0,0,0,0,0,0,0,0
+A,I want to let you know that you can actually avoid these fees by paying before 4 p.m. of your due date.,Problem Investigation,Positive,0.54,2,0,0,0,0,0,0,0,0
+A,I already know that. ,Problem Investigation,Positive,0.45,2,0,0,0,0,0,0,0,0
+C,You already explained that.,Problem Investigation,Positive,0.68,2,0,0,0,0,0,0,0,0
+C,You keep telling me the same thing but you're not doing anything.,Problem Investigation,Negative,0.26,2,0,0,0,0,0,0,0,0
+C,I will make sure to call back and speak to your supervisor. ,Problem Investigation,Positive,0.75,2,0,0,0,0,0,0,0,0
+C,You are not helping me at all even though I've been a customer for five years!,Problem Investigation,Negative,0.23,2,0,0,0,0,0,0,0,0
+C,Terrible service!,Problem Investigation,Neutral,0.35,2,0,0,0,0,0,0,0,0
+A,I'm really really really sorry sir.,Problem Investigation,Positive,0.77,2,0,0,0,0,0,0,0,0
+C,No. You are not sorry.,Problem Investigation,Positive,0.49,3,0,0,0,0,0,0,0,0
+A,Thank you for calling Triple-A bank.,Problem Investigation,Positive,0.67,2,0,0,0,0,0,0,0,0
+A,My name is Maria.,Greetings,Positive,0.83,0,0,1,0,0,0,0,0,0
+A,May I have your name?,Account Verification,Positive,0.84,1,0,0,0,1,1,0,0,0
+C,James breed; ,Account Verification,Positive,0.79,1,0,0,0,0,0,0,0,0
+A,Oh hello Mr. Breed.,Greetings,Positive,0.8,0,0,0,0,0,0,0,0,0
+A,How can I make you smile today?,Problem Investigation,Positive,0.83,0,0,0,1,0,0,0,0,0
+C,Why do I have fees on my bank account?,Problem Investigation,Negative,0.16,2,0,0,0,0,0,0,0,0
+C,I want those removed.,Problem Investigation,Negative,0.18,2,0,0,0,0,0,0,0,0
+C, Very ridiculous.,Problem Investigation,Neutral,0.41,2,0,0,0,0,0,0,0,0
+C,I can't even afford them.,Problem Investigation,Negative,0.17,2,0,0,0,0,0,0,0,0
+A,Oh. I understand that fees are really costly.,Problem Investigation,Negative,0.52,2,0,0,0,0,0,0,0,0
+A,Let me check your account to see what really happened.,Problem Investigation,Positive,0.57,2,0,0,0,0,0,0,0,0
+C,Ok.,Problem Investigation,Neutral,0.43,2,0,0,0,0,0,0,0,0
+C,And remove the fees.,Problem Investigation,Neutral,0.48,2,0,0,0,0,0,0,0,0
+A,I'll see what I can do Mr. Breed.,Problem Investigation,Neutral,0.64,2,0,0,0,0,0,0,0,0
+A,"As I have checked, the account was charged some fees because there was no payment made before the cut off time of 4 p.m.",Problem Investigation,Neutral,0.6,2,0,0,0,0,0,0,0,0
+C,I made a payment.,Problem Investigation,Neutral,0.33,2,0,0,0,0,0,0,0,0
+C,I did my best to look for funds so I could pay on my due date.,Problem Investigation,Negative,0.37,2,0,0,0,0,0,0,0,0
+C,It's just that it was done after 4 p.m.,Problem Investigation,Neutral,0.76,2,0,0,0,0,0,0,0,0
+A,I truly understand what you're going through Mr. Breed.,Problem Investigation,Positive,0.74,2,0,0,0,0,0,0,0,0
+A,"However, the fees charged were valid and therefore, the fees can no longer be refunded or removed.",Problem Investigation,Negative,0.36,2,0,0,0,0,0,0,0,0
+C,Like I said I really did my best. Can you please remove even just one fee?,Problem Investigation,Neutral,0.47,2,0,0,0,0,0,0,0,0
+C,I really can't afford it.,Problem Investigation,Negative,0.23,2,0,0,0,0,0,0,0,0
+C,Maybe you can make a consideration?,Problem Investigation,Positive,0.79,2,0,0,0,0,0,0,0,0
+C,Please. Besides I made a payment on the due date itself.,Problem Investigation,Neutral,0.44,2,0,0,0,0,0,0,0,0
+A,"I understand your concern sir and as much as I want to remove the fees, they really can no longer be removed.",Problem Investigation,Neutral,0.62,2,0,0,0,0,0,0,0,0
+A,"However, since you requested, okay, I will send a request to the management and it's up to them to decide whatever course of action they will do after reviewing your account but this doesn't guarantee that the fees will be refunded.",Problem Investigation,Neutral,0.55,2,0,0,0,0,0,0,0,0
+C,Okay I understand that it's worth trying though.,Problem Investigation,Positive,0.79,2,0,0,0,0,0,0,0,0
+C,Thank you for doing that.,Closure,Positive,0.72,3,0,0,0,0,0,0,0,0
+A,You're welcome Mr. Breed.,Closure,Positive,0.79,3,0,0,0,0,0,0,0,0
+A,I have already submitted a request and you will receive an email or text message after three days for the decision.,Problem Investigation,Positive,0.64,2,0,0,0,0,0,0,0,0
+C,Thanks for trying.,Closure,Positive,0.69,2,0,0,0,0,0,0,0,0
+A,Thank you for calling Shapes Reward.,Problem Investigation,Positive,0.76,3,1,0,0,0,0,0,0,0
+A,My name is Mathilda.,Greetings,Positive,0.81,0,0,1,0,0,0,0,0,0
+A,Can I have your name please?,Account Verification,Positive,0.83,1,0,0,0,1,1,0,0,0
+C,This is ELISA Collins,Account Verification,Positive,0.77,0,0,0,0,0,0,0,0,0
+A,Hi Miss Collins.,Greetings,Positive,0.85,0,0,0,0,0,0,0,0,0
+A,How can I be of service?,Problem Investigation,Neutral,0.73,2,0,0,1,0,0,0,0,0
+C,I wanted to pay my bills using my rewards points but I can't log into your website.,Problem Investigation,Negative,0.51,2,0,0,0,0,0,0,0,0
+C,What's happening?,Problem Investigation,Neutral,0.42,2,0,0,0,0,0,0,0,0
+A,Oh I'm so sorry for the inconvenience for the website.,Problem Investigation,Positive,0.84,2,0,0,0,0,0,0,0,0
+A,May I know what error message you got?,Problem Investigation,Positive,0.71,2,0,0,0,0,0,1,0,0
+C,Error message?,Problem Investigation,Neutral,0.58,2,0,0,0,0,0,1,0,0
+C,Where do I get that error message?,Problem Investigation,Neutral,0.38,2,0,0,0,0,0,1,0,0
+A,You mentioned you were trying to log in.,Problem Investigation,Neutral,0.67,2,0,0,0,0,0,0,0,0
+A,"When you logged into shapes rewards website, can you please tell me what happened after?",Problem Investigation,Positive,0.75,2,0,0,0,0,0,0,0,0
+C,"Oh I just entered my username and my password and then when I clicked log in, the computer the screen.",Problem Investigation,Neutral,0.73,2,0,0,0,0,0,1,0,0
+C,"What I'm seeing, it's the same.",Problem Investigation,Neutral,0.33,2,0,0,0,0,0,0,0,0
+C,It's loading and then it goes back to the login page so I can't get in and I need to use my rewards because I've saved them for so long now.,Problem Investigation,Neutral,0.55,2,0,0,0,0,0,0,0,0
+A,I understand Miss Collins.,Problem Investigation,Positive,0.76,2,0,0,0,0,0,0,0,0
+A,Alright this what actually happened.,Problem Investigation,Neutral,0.59,2,0,0,0,0,0,0,0,0
+A,When you clicked log in and the screen or the page goes back to the exact same page after loading that means that the page is looping.,Problem Investigation,Neutral,0.66,2,0,0,0,0,0,1,0,0
+C,But what looping?,Problem Investigation,Neutral,0.56,2,0,0,0,0,0,0,0,0
+C,Is your website down?,Problem Investigation,Neutral,0.61,2,0,0,0,0,0,0,0,0
+A,Our website is actually up and running.,Problem Investigation,Positive,0.57,2,0,0,0,0,0,0,0,0
+A,"However, your browser has an issue.",Problem Investigation,Positive,0.43,2,0,0,0,0,0,0,0,0
+A,Looping is when the browser page goes back to the same page again and again even though you've already taken action.,Problem Investigation,Neutral,0.51,2,0,0,0,0,0,1,0,0
+A,"Just like in your case, you've clicked log in but it doesn't go to your profile on Shapes Rewards, right?",Problem Investigation,Neutral,0.68,2,0,0,0,0,0,1,0,0
+A,It just keeps going back to the login page but don't worry you've got the right person on the line to help you.,Problem Investigation,Positive,0.73,2,0,0,0,0,0,0,0,0
+A,We just need to do quick troubleshooting on your browser.,Problem Investigation,Positive,0.74,2,0,0,0,0,0,1,0,0
+C,Okay.,Problem Investigation,Neutral,0.55,2,0,0,0,0,0,0,0,0
+A,Great!,Problem Investigation,Neutral,0.63,2,0,0,0,0,0,0,0,0
+A,Are you using Mac or PC?,Problem Investigation,Neutral,0.71,2,0,0,0,0,0,1,0,0
+C,Windows.,Problem Investigation,Neutral,0.66,2,0,0,0,0,0,0,0,0
+A,Ok Windows PC is good.,Problem Investigation,Positive,0.8,2,0,0,0,0,0,1,0,0
+A,May I know what browser you're using?,Problem Investigation,Positive,0.71,2,0,0,0,0,0,1,0,0
+C,I'm not really sure.;,Problem Investigation,Neutral,0.73,2,0,0,0,0,0,0,0,0
+A,Is it Google Chrome or Firefox?,Problem Investigation,Neutral,0.57,2,0,0,0,0,0,1,0,0
+C,Oh it's Chrome.,Problem Investigation,Neutral,0.57,2,0,0,0,0,0,0,0,0
+A,"Oh ok, that's great.",Problem Investigation,Positive,0.81,2,0,0,0,0,0,0,0,0
+A,May I know the chrome version?,Account Verification,Positive,0.76,2,0,0,0,0,0,1,0,0
+C,I am really sorry honey but I don't have any idea.,Problem Investigation,Neutral,0.64,2,0,0,0,0,0,0,0,0
+C,My granddaughter just gifted me this computer last Christmas and she's not here right now.,Problem Investigation,Negative,0.59,2,0,0,0,0,0,0,0,0
+A,Oh that's ok Miss Collins.,Problem Investigation,Positive,0.82,2,0,0,0,0,0,0,0,0
+A,I'll just give you instructions and we'll get through this.,Problem Investigation,Positive,0.59,2,0,0,0,0,0,0,0,0
+C,Thank you honey.,Problem Investigation,Positive,0.78,1,0,0,0,0,0,0,0,0
+C,So you said version?,Problem Investigation,Neutral,0.62,2,0,0,0,0,0,0,0,0
+A,"Yes, can you please close the Chrome browser and open it again after?",Problem Investigation,Positive,0.81,2,0,0,0,0,0,1,0,0
+C,"Yes, done.",Problem Investigation,Neutral,0.54,2,0,0,0,0,0,0,0,0
+A,That's good. ,Problem Investigation,Positive,0.61,2,0,0,0,0,0,0,0,0
+A,"Now that you have the browser open, do you see 3 dots that are aligned vertically on the upper right part of your screen?",Problem Investigation,Neutral,0.75,2,0,0,0,0,0,1,0,0
+C,Yes,Problem Investigation,Neutral,0.62,2,0,0,0,0,0,0,0,0
+A,Please click that and you will see a drop-down box.,Problem Investigation,Positive,0.61,2,0,0,0,0,0,1,0,0
+A,Then look for the word help or about Google Chrome.,Problem Investigation,Positive,0.75,2,0,0,0,0,0,0,0,0
+C,I do see help that about Google Chrome.,Problem Investigation,Positive,0.61,2,0,0,0,0,0,0,0,0
+C,I clicked it.,Problem Investigation,Positive,0.42,2,0,0,0,0,0,0,0,0
+C,Oh it's version 68 and a couple random numbers.,Problem Investigation,Positive,0.82,2,0,0,0,0,0,0,0,0
+A,Wow thank you.,Problem Investigation,Positive,0.83,2,0,0,0,0,0,0,0,0
+A,Looks like you have the most updated browser versions so far.,Problem Investigation,Positive,0.74,2,0,0,0,0,0,1,0,0
+A,"So, the next thing, we will do is clear cache from your browser.",Problem Investigation,Positive,0.61,2,0,0,0,0,0,1,0,0
+A,This will not affect your stored files or anything on your computer.,Problem Investigation,Neutral,0.47,2,0,0,0,0,0,1,0,0
+A,It's just that most of the time the information that you click out to the Internet gets saved in a cache memory or storage in your browser and this eventually results to latency or what you just experienced.,Problem Investigation,Negative,0.45,2,0,0,0,0,0,1,0,0
+C,Oh this is all so new to me.,Problem Investigation,Neutral,0.53,2,0,0,0,0,0,0,0,0
+C,But you don't have to worry because once you do this once it's easier to do this again next time if it happens again.,Problem Investigation,Neutral,0.62,2,0,0,0,0,0,0,0,0
+A,So just click those three dots that you clicked earlier and look for more tools.,Problem Investigation,Positive,0.73,2,0,0,0,0,0,1,0,0
+A,Did you see it?,Problem Investigation,Neutral,0.46,2,0,0,0,0,0,0,0,0
+C,Ok.,Problem Investigation,Neutral,0.43,2,0,0,0,0,0,0,0,0
+A,Then you will see clear browsing data.,Problem Investigation,Positive,0.58,2,0,0,0,0,0,1,0,0
+C,Okay I see basic and advanced.,Problem Investigation,Neutral,0.76,2,0,0,0,0,0,0,0,0
+A,"Alright, we are on the right track.",Problem Investigation,Positive,0.62,2,0,0,0,0,0,0,0,0
+A,We can just go to the basic part and make sure you check all the checkboxes for the browsing history cookies and cached images.,Problem Investigation,Positive,0.76,2,0,0,0,0,0,1,0,0
+C,"Ok, done it.",Problem Investigation,Neutral,0.59,2,0,0,0,0,0,0,0,0
+A,"Then, if you see the time range you can choose all time. ",Problem Investigation,Neutral,0.74,2,0,0,0,0,0,0,0,0
+A,Then just click clear data.,Problem Investigation,Positive,0.69,2,0,0,0,0,0,1,0,0
+C,"Okay, it's loading.",Problem Investigation,Positive,0.63,2,0,0,0,0,0,0,0,0
+A,Yes yes that's normal.,Problem Investigation,Positive,0.8,2,0,0,0,0,0,0,0,0
+A,"So once it's done loading, you will be on the same page.",Problem Investigation,Positive,0.71,2,0,0,0,0,0,0,0,0
+A,"So, just press f5 on your keyboard to let it refresh and then you can start logging in again.",Problem Investigation,Positive,0.8,2,0,0,0,0,0,1,0,0
+C,Ok I will try again.,Problem Investigation,Neutral,0.71,2,0,0,0,0,0,0,0,0
+A,"Ok, let me know what happens.",Problem Investigation,Neutral,0.63,2,0,0,0,0,0,0,0,0
+C,"Oh, I can login now.",Problem Investigation,Positive,0.71,2,0,0,0,0,0,0,0,0
+C,I'm so happy.,Problem Investigation,Positive,0.5,2,0,0,0,0,0,0,0,0
+A,I am so happy for you too Miss Collins and it has been my pleasure to assist you.,Problem Investigation,Positive,0.85,2,0,0,0,0,0,0,0,0
+A,Did I address all your concerns today?,Problem Investigation,Positive,0.83,3,0,0,0,0,0,0,1,0
+C,"Very much, thank you.",Problem Investigation,Positive,0.74,3,0,0,0,0,0,0,0,0
+A,You're welcome.,Closure,Positive,0.75,3,0,0,0,0,0,0,0,0
+A,Thanks for calling Shapes Rewards and enjoy your day.,Closure,Positive,0.8,3,0,0,0,0,0,0,0,0
+A,Welcome to Grand Number One.,Greetings,Positive,0.84,2,0,0,0,0,0,0,0,0
+A,My name Selena.,Greetings,Positive,0.82,0,0,1,0,0,0,0,0,0
+A,May I have your name?,Account Verification,Positive,0.84,1,0,0,0,1,1,0,0,0
+C,This is Rebecca Portman.,Greetings,Positive,0.84,0,0,1,0,0,0,0,0,0
+A,Hello Miss Portman.,Greetings,Positive,0.85,0,0,0,0,0,0,0,0,0
+A,How can I provide you an excellent service today?,Problem Investigation,Positive,0.81,2,0,0,1,0,0,0,0,0
+C,Yes I just lost my debit card one hour ago.,Problem Investigation,Neutral,0.59,2,0,0,0,0,0,0,0,0
+C,I tried looking for it but I couldn't so I thought I'd let you know.,Problem Investigation,Positive,0.75,2,0,0,0,0,0,0,0,0
+A,Oh I'm terribly sorry to hear that.,Problem Investigation,Positive,0.83,2,0,0,0,0,0,0,0,0
+A,"But rest assured, I'll be here to make sure everything's well taken care of.",Problem Investigation,Positive,0.52,2,0,0,0,0,0,0,0,0
+C,Thank you.,Problem Investigation,Positive,0.59,2,0,0,0,0,0,0,0,0
+A,"To put your account, can I please have your account number or debit card number?",Account Verification,Positive,0.8,1,0,0,0,1,1,0,0,0
+C,I can't memorize my card number though but my account number is 123456785.,Problem Investigation,Positive,0.68,1,0,0,0,0,0,0,0,0
+A,Oh yes.,Problem Investigation,Neutral,0.62,2,0,0,0,0,0,0,0,0
+A,"Sorry yeah, I should have asked for your account number.",Problem Investigation,Positive,0.78,2,0,0,0,0,0,0,0,0
+A,And for additional security can I also have your birthdate and residential address please?,Account Verification,Positive,0.82,1,0,0,0,1,1,0,0,0
+C,July 25 1985.,Account Verification,Neutral,0.56,1,0,0,0,0,0,0,0,0
+C,"Unit 888, Silver Lane Avenue, New York, New York, 10012.;",Account Verification,Positive,0.76,1,0,0,0,0,0,0,0,0
+A,"Thank you so much, appreciate it.",Problem Investigation,Positive,0.75,3,0,0,0,0,0,0,0,0
+A,I already have your account information here.,Problem Investigation,Positive,0.61,1,0,0,0,1,0,0,0,0
+A,Let me check your transactions for you real quick.,Problem Investigation,Positive,0.6,2,0,0,0,0,0,0,0,0
+A,"I see that the last transaction made was using your debit card at Target for 179 54, 179 dollars and 54 cents.",Problem Investigation,Neutral,0.58,2,0,0,0,0,0,0,0,0
+A,"Yes, This just posted today.",Problem Investigation,Positive,0.82,2,0,0,0,0,0,0,0,0
+A,Is this valid?,Problem Investigation,Neutral,0.5,2,0,0,0,0,0,1,0,0
+C,"Oh yes, that's mine.",Problem Investigation,Positive,0.59,2,0,0,0,0,0,0,0,0
+C,I did that yesterday and it just posted recently here.,Problem Investigation,Neutral,0.73,2,0,0,0,0,0,0,0,0
+A,"Your debit card is safe, no unauthorized transaction so I'm closing it now tagging is as lost.",Problem Investigation,Positive,0.78,2,0,0,0,0,0,0,0,0
+A,Would you like a replacement over the phone?,Problem Investigation,Positive,0.79,2,0,0,0,0,0,0,0,0
+A,It's free of charge.,Problem Investigation,Positive,0.69,2,0,0,0,0,0,0,0,0
+C,"Sure, how long will it take?",Problem Investigation,Neutral,0.42,2,0,0,0,0,0,0,0,0
+A,"It will be delivered in 10 business days and while you're waiting for your new card, you may go to any branch to do an over to counter withdrawal.",Problem Investigation,Positive,0.68,2,0,0,0,0,0,0,0,0
+A,Just bring two valid IDs.,Problem Investigation,Neutral,0.39,2,0,0,0,0,0,0,0,0
+C,That's fair enough.,Problem Investigation,Positive,0.54,2,0,0,0,0,0,0,0,0
+A,Just a couple of reminders Miss Portman.,Problem Investigation,Positive,0.76,2,0,0,0,0,0,0,0,0
+A,Your new debit card will have a new card number but the account number and PIN will remain the same.,Problem Investigation,Positive,0.58,2,0,0,0,0,0,0,0,0
+A,Just call us right away once you receive it so that we can activate it for you and everything's good.,Problem Investigation,Positive,0.69,2,0,0,0,0,0,0,0,0
+A,The replacement has been processed and have I address all your concerns?,Problem Investigation,Positive,0.73,3,0,0,0,0,0,0,1,0
+C,"Yes yes, you did.",Problem Investigation,Positive,0.78,3,0,0,0,0,0,0,0,0
+C,Thanks so much for your help.,Closure,Positive,0.76,3,0,0,0,0,0,0,0,0
+A,My pleasure and thank you for calling Grand Number One.,Problem Investigation,Positive,0.84,3,0,0,0,0,0,0,0,0
+A,Enjoy the rest of your day.,Problem Investigation,Positive,0.75,3,0,0,0,0,0,0,0,0
+A,It's a great day here at our hotel I'm Rebecca.,Problem Investigation,Positive,0.82,0,0,0,0,0,0,0,0,0
+A,How can I assist you?,Greetings,Positive,0.8,0,0,0,1,0,0,0,0,0
+A,Hi Rebecca.,Problem Investigation,Positive,0.8,0,0,0,0,0,0,0,0,0
+C,I'm wondering if you can reserve me a room.,Problem Investigation,Positive,0.69,2,0,0,0,0,0,0,0,0
+C,My friends and I are staying for a trip.,Problem Investigation,Positive,0.74,2,0,0,0,0,0,0,0,0
+A,I'll be happy to check that for you.,Problem Investigation,Positive,0.73,2,0,0,0,0,0,0,0,0
+A,May I have your name?,Account Verification,Positive,0.84,1,0,0,0,1,1,0,0,0
+C,Pauline Soupe.,Account Verification,Neutral,0.63,1,0,0,0,0,0,0,0,0
+A,Thank You Pauline,Problem Investigation,Positive,0.65,2,0,0,0,0,0,0,0,0
+A,How many of your friends are staying?,Problem Investigation,Neutral,0.68,2,0,0,0,0,0,0,0,0
+C,"Two, so there are three of us.",Problem Investigation,Neutral,0.56,2,0,0,0,0,0,0,0,0
+A,Do you prefer to stay in one room or separate rooms?,Problem Investigation,Neutral,0.58,2,0,0,0,0,0,0,0,0
+C,One room.,Problem Investigation,Neutral,0.62,2,0,0,0,0,0,0,0,0
+A,"Alright, let me check if you have an available room for what days?",Problem Investigation,Neutral,0.67,2,0,0,0,0,0,0,0,0
+C,September 5 to 7,Account Verification,Neutral,0.67,2,0,0,0,0,0,0,0,0
+A,"Thank you, so, there is one available premium room that is good for three people with three separate beds.",Problem Investigation,Positive,0.8,2,0,0,0,0,0,0,0,0
+A,"It comes with free Wi-Fi cable channels, minibar and mini kitchens.",Problem Investigation,Positive,0.62,2,0,0,0,0,0,1,0,0
+A,That's 99 dollars per night.,Problem Investigation,Negative,0.37,2,0,0,0,0,0,0,0,0
+C,Okay.,Problem Investigation,Neutral,0.55,2,0,0,0,0,0,0,0,0
+A,There's also a deluxe room available that has the same amenities as premier except that it has its own swimming pool.,Problem Investigation,Positive,0.62,2,0,0,0,0,0,0,0,0
+A,That costs $150 per night.,Problem Investigation,Positive,0.58,2,0,0,0,0,0,0,0,0
+A,Which one you prefer?,Problem Investigation,Neutral,0.6,2,0,0,0,0,0,0,0,0
+C,Oh well we're just staying to sleep in so I'll take the premier.,Problem Investigation,Positive,0.79,2,0,0,0,0,0,0,0,0
+C,Does it come with free breakfast?,Problem Investigation,Neutral,0.58,2,0,0,0,0,0,1,0,0
+A,Yes there's free breakfast.,Problem Investigation,Positive,0.84,2,0,0,0,0,0,0,0,0
+A,Are you going to reserve today?,Problem Investigation,Neutral,0.58,2,0,0,0,0,0,0,0,0
+C,"Yes, please.",Problem Investigation,Neutral,0.52,2,0,0,0,0,0,0,0,0
+A,May I have the names of the guests?,Account Verification,Neutral,0.78,2,0,0,0,1,1,0,0,0
+C,Pauline Sue and my friends Andrea Smith and Alexis Washington,Problem Investigation,Positive,0.64,1,0,0,0,0,0,0,0,0
+A,"Great, so you will check in on September 5 at 2 p.m. and check out on September 7 12 noon.",Problem Investigation,Positive,0.76,2,0,0,0,0,0,0,0,0
+A,"So that's 2 nights for $198 and we have to add the taxes, so the total amount is 217 dollars and 56 cents.",Problem Investigation,Neutral,0.52,2,0,0,0,0,0,0,0,0
+C,"Thank you, so should I pay now or what?",Problem Investigation,Neutral,0.48,2,0,0,0,0,0,0,0,0
+A,"That's right, you should.",Problem Investigation,Positive,0.67,2,0,0,0,0,0,0,0,0
+A,"Yes, you should actually pay now.",Problem Investigation,Positive,0.68,2,0,0,0,0,0,0,0,0
+A,"Alright, so just to recap I have already reserved the premier room for you for two nights on September 5 to 7 with total cost two hundred and seventeen dollars and 56 cents.",Problem Investigation,Positive,0.72,2,0,0,0,0,0,0,0,0
+A,This is actually considered booked.,Problem Investigation,Neutral,0.53,2,0,0,0,0,0,0,0,0
+A,"If you decide to cancel within 15 days before your check-in date, there will be no cancellation fee and the money will be refunded to you in 10 business days. ",Problem Investigation,Neutral,0.49,2,0,0,0,0,0,0,0,0
+A,"But, if you can so within three days before your check-in date, half of the total amount will be forfeited, while, if you cancel within 24 hours before check-in the total amount will be forfeited.",Problem Investigation,Neutral,0.51,2,0,0,0,0,0,0,0,0
+A,Do you have any other questions Pauline?,Problem Investigation,Positive,0.75,3,0,0,0,0,0,0,0,0
+C,"No, that sounds great.",Problem Investigation,Positive,0.81,2,0,0,0,0,0,0,0,0
+A,You're welcome.,Closure,Positive,0.75,3,0,0,0,0,0,0,0,0
+A,Thanks for calling our hotel.,Problem Investigation,Positive,0.79,2,0,0,0,0,0,0,0,0
+A,We look forward to your enjoyable stay. ,Closure,Positive,0.84,3,0,0,0,0,0,0,0,0
+A,Bye.,Closure,Neutral,0.65,3,0,0,0,0,0,0,0,0
+A,"Hi, thank you for calling X Y Z.",Greetings,Positive,0.87,0,0,0,0,0,0,0,0,0
+A,My name is Ashley. ,Greetings,Positive,0.78,0,0,1,0,0,0,0,0,0
+A,How may i help?,Problem Investigation,Positive,0.8,2,0,0,1,0,0,0,0,0
+C,You just cut off my internet connection and this is not the first time this happened!,Problem Investigation,Negative,0.22,2,0,0,0,0,0,1,0,0
+C,Why are you cheating on me? You're getting my money and you're cutting me off!,Problem Investigation,Negative,0.16,2,0,0,0,0,0,0,0,0
+A,Sorry for the inconvenience ma'am.,Problem Investigation,Positive,0.79,2,0,0,0,0,0,0,0,0
+A,I understand that is really frustrating.,Problem Investigation,Positive,0.69,2,0,0,0,0,0,0,0,0
+A,May I have your account number please?,Account Verification,Positive,0.83,1,0,0,0,1,1,0,0,0
+C,"Sorry, you are always sorry, but you're not doing anything!",Problem Investigation,Negative,0.21,2,0,0,0,0,0,0,0,0
+C,Never!,Problem Investigation,Neutral,0.32,2,0,0,0,0,0,0,0,0
+C,"You have to fix this now, fix this now!",Problem Investigation,Negative,0.48,2,0,0,0,0,0,0,0,0
+A,"Yes, yes, ma'am. I will do my best.",Problem Investigation,Positive,0.65,3,0,0,0,0,0,0,0,0
+A,May I have your account number so that I can check your account?,Account Verification,Positive,0.8,1,0,0,0,1,1,0,0,0
+C,"Five three four zero zero three, six five four eight",Problem Investigation,Neutral,0.62,2,0,0,0,0,0,0,0,0
+A,"I'm sorry, you were a bit too fast. .",Problem Investigation,Positive,0.57,2,0,0,0,0,0,0,0,0
+A,Can you please?,Problem Investigation,Neutral,0.65,0,0,0,0,0,0,0,0,0
+C,Oh my god.,Problem Investigation,Neutral,0.55,2,0,0,0,0,0,0,0,0
+C,I can't believe you.,Problem Investigation,Negative,0.37,2,0,0,0,0,0,0,0,0
+C,I said five three four zero zero three six five four eight.,Problem Investigation,Neutral,0.59,2,0,0,0,0,0,0,0,0
+A,"I'm sorry, is that five three four zero zero three six five",Problem Investigation,Positive,0.72,2,0,0,0,0,0,0,0,0
+C,"Four eight, got it?",Problem Investigation,Neutral,0.36,2,0,0,0,0,0,0,0,0
+A,"Okay, got it.",Problem Investigation,Positive,0.4,2,0,0,0,0,0,0,0,0
+A,Thank you.,Problem Investigation,Positive,0.59,2,0,0,0,0,0,0,0,0
+A,"For verification purposes, can I get your name and birth date, please?;",Account Verification,Positive,0.77,1,0,0,0,1,1,0,0,0
+C,"Karen America, September 15 1985.",Account Verification,Positive,0.77,1,0,0,0,0,0,0,0,0
+C,The account is under my name.,Problem Investigation,Positive,0.6,1,0,0,0,0,0,0,0,0
+C,Hello?,Greetings,Neutral,0.56,0,0,0,0,0,0,0,0,0
+A,"Hello, I'm still here ma'am.",Problem Investigation,Positive,0.77,2,0,0,0,0,0,0,0,0
+A,Sorry. I'm still checking some information.,Problem Investigation,Positive,0.64,2,0,0,0,0,0,0,0,0
+C,Why is it taking you so long?,Problem Investigation,Neutral,0.46,2,0,0,0,0,0,0,0,0
+C,Don't you guys already know this stuff?,Problem Investigation,Negative,0.25,2,0,0,0,0,0,1,0,0
+C,You keep fooling people.,Problem Investigation,Negative,0.23,2,0,0,0,0,0,0,0,0
+C,You must know what to do already.,Problem Investigation,Neutral,0.56,2,0,0,0,0,0,0,0,0
+A,"Okay, according to our systems data you did pay your last bill last October 20, which was two days ago in one of our affiliated payment centers.",Problem Investigation,Neutral,0.64,2,0,0,0,0,0,0,0,0
+A,"Unfortunately when you pay through that affiliated center, it takes about 2 to 3 business days more to complete the payment processing.",Problem Investigation,Neutral,0.73,2,0,0,0,0,0,0,0,0
+A,So that means that the system considered the payment as still pending and not completed yet.,Problem Investigation,Neutral,0.4,2,0,0,0,0,0,0,0,0
+A,"So the connection has been cut off, but.",Problem Investigation,Neutral,0.4,2,0,0,0,0,0,0,0,0
+C,Are you kidding me?,Problem Investigation,Negative,0.27,2,0,0,0,0,0,0,0,0
+C,Why have affiliated payment centers when you can't even process the payment on time?,Problem Investigation,Negative,0.31,2,0,0,0,0,0,0,0,0
+C,So it's my fault?,Problem Investigation,Neutral,0.36,2,0,0,0,0,0,0,0,0
+C,You guys told me I could pay at affiliated centers and that's what I did and now I'm at fault.,Problem Investigation,Negative,0.2,2,0,0,0,0,0,0,0,0
+C,"Now, I can't continue with my online job because of you or actually because of me?",Problem Investigation,Negative,0.26,2,0,0,0,0,0,0,0,0
+C,That's ridiculous!,Problem Investigation,Negative,0.26,2,0,0,0,0,0,0,0,0
+A,"I am really sorry, Miss America.",Problem Investigation,Positive,0.78,2,0,0,0,0,0,0,0,0
+A,I understand your situation is very tough right now.,Problem Investigation,Positive,0.72,2,0,0,0,0,0,0,0,0
+C,"Really, huh?",Problem Investigation,Neutral,0.63,2,0,0,0,0,0,0,0,0
+A,"But, what I can do is to open a ticket or submit a report so that the other department assigned can manually complete your payment and reconnect your internet.",Problem Investigation,Neutral,0.59,2,0,0,0,0,0,1,0,0
+A,I just need the payment ID number ma'am and which center did you make the payment?,Problem Investigation,Neutral,0.62,2,0,0,0,0,0,0,0,0
+C,Why do you have to ask for that? ,Problem Investigation,Negative,0.28,2,0,0,0,0,0,0,0,0
+C,You just said so yourself you've seen my payment as pending?,Problem Investigation,Neutral,0.2,2,0,0,0,0,0,0,0,0
+A,"Yeah, and just want to verify it.",Problem Investigation,Positive,0.53,2,0,0,0,0,0,0,0,0
+C,"At the Strawberry Mall, my payment ID. Hold on a second. One one one two eight five six nine seven four.",Problem Investigation,Neutral,0.38,2,0,0,0,0,0,0,0,0
+A,"Thanks so much for your patience, Miss America.",Closure,Positive,0.77,3,0,0,0,0,0,0,0,0
+A,I'm going to submit the report,Problem Investigation,Negative,0.3,2,0,0,0,0,0,0,0,0
+C,"Please just stay on the line for a minute, Ma'am.",Problem Investigation,Neutral,0.51,2,0,0,0,0,0,0,0,0
+A,"I'm done with the report, please expect to have your connection reinstated within 24 hours.",Problem Investigation,Positive,0.55,2,0,0,0,0,0,0,0,0
+A,We will send you a text message as well to your phone number and file.,Problem Investigation,Positive,0.82,2,0,0,0,1,0,0,0,0
+C,Within 24 hours?,Problem Investigation,Neutral,0.46,1,0,0,0,0,0,0,0,0
+C,Can you make it faster than that?,Problem Investigation,Neutral,0.62,2,0,0,0,0,0,0,0,0
+A,"As much as I'd love to that has been a turnaround time for reconnection since then, so to give enough time for the team to manually complete the payment.",Problem Investigation,Positive,0.79,2,0,0,0,0,0,0,0,0
+C,"Okay fine, as if I have a choice.",Problem Investigation,Neutral,0.44,2,0,0,0,0,0,0,0,0
+A,"Again, I'm really sorry.",Problem Investigation,Positive,0.71,2,0,0,0,0,0,0,0,0
+A,Is there anything else?,Problem Investigation,Neutral,0.5,2,0,0,0,0,0,0,0,0
+C,"Nothing, just make sure you reconnect my line as soon as possible.",Problem Investigation,Positive,0.56,2,0,0,0,0,0,0,0,0
+A,"Bye, yes, ma'am. ",Closure,Positive,0.78,3,0,0,0,0,0,0,0,0
+A,Thank you for calling XYZ.,Closure,Positive,0.8,3,1,0,0,0,0,0,0,0
+C,Hello.,Greetings,Positive,0.57,0,0,0,0,0,0,0,0,0
+A,Hello.,Greetings,Positive,0.57,0,0,0,0,0,0,0,0,0
+A,Good morning. ,Problem Investigation,Positive,0.76,3,0,0,0,0,0,0,0,0
+A,My name is Kate.,Greetings,Positive,0.78,0,0,1,0,0,0,0,0,0
+A,"Calling from deluxe credit card, may I speak with miss Anastasia Robinson?",Problem Investigation,Positive,0.79,2,0,0,0,0,0,0,0,0
+C,"Yes, this is her.",Problem Investigation,Positive,0.68,0,0,0,0,0,0,0,0,0
+A,"Hi, good morning Miss Robinson.",Greetings,Positive,0.86,0,0,0,0,0,0,0,0,0
+A,I'm calling because deluxe credit card actually has a good news for you.,Problem Investigation,Positive,0.79,2,0,0,0,0,0,0,0,0
+A,Do you have 5 to 7 minutes to talk?,Problem Investigation,Neutral,0.65,2,0,0,0,0,0,0,0,0
+C,"Okay, go ahead",Problem Investigation,Positive,0.83,2,0,0,0,0,0,0,0,0
+C,Thank you.,Problem Investigation,Positive,0.59,2,0,0,0,0,0,0,0,0
+A,So we are well aware that you have been a valued customer of deluxe for 8 years now. ,Problem Investigation,Positive,0.78,2,0,0,0,0,0,0,0,0
+A,"And, we would like to reward you with a platinum MasterCard that has amazing benefits and free annual fee for life.",Problem Investigation,Positive,0.69,2,0,0,0,0,0,0,0,0
+A,How does that sound to you?,Problem Investigation,Neutral,0.48,2,0,0,0,0,0,0,0,0
+C,Thank you. Appreciate it.,Problem Investigation,Positive,0.59,2,0,0,0,0,0,0,0,0
+C,So what do I get from that platinum?,Problem Investigation,Neutral,0.38,2,0,0,0,0,0,0,0,0
+A,Yes ma'am.,Problem Investigation,Positive,0.71,2,0,0,0,0,0,0,0,0
+A,The Platinum MasterCard is a highly prestigious card for highly career oriented individuals like you.,Problem Investigation,Positive,0.76,2,0,0,0,0,0,0,0,0
+A,"This card has non-expiring rewards points, free travel insurance up to $20,000, repurchase protection up to $1000, free access to the sky view lounges in different airports locally and abroad, up to five supplementary card. holders with free annual membership fees for life.",Problem Investigation,Positive,0.42,2,0,0,0,0,0,0,0,0
+A,"And as mentioned, your annual fee will automatically be waived as well.",Problem Investigation,Neutral,0.39,2,0,0,0,0,0,0,0,0
+A,Of course it also has a higher credit limit than your usual plastic or regular credit cards.,Problem Investigation,Positive,0.59,2,0,0,0,0,0,1,0,0
+A,Ok that sounds good?,Problem Investigation,Positive,0.79,2,0,0,0,0,0,0,0,0
+C,Sounds great.,Problem Investigation,Positive,0.61,2,0,0,0,0,0,0,0,0
+A,"Since you are already pre-approved, I just need to confirm your building address, phone number and email address.",Problem Investigation,Positive,0.77,1,0,0,0,1,0,0,0,0
+C,"Ok, my building address is apartment 152, Emerald Building, Rock Street Los Angeles, California.",Problem Investigation,Positive,0.72,2,0,0,0,0,0,0,0,0
+C,Email is annarobinson@aol.com.,Problem Investigation,Positive,0.8,1,0,0,0,0,0,0,0,0
+C,And my phone is 2138970362.,Account Verification,Positive,0.74,1,0,0,0,0,0,0,0,0
+A,"Got it, thank you so much.",Problem Investigation,Positive,0.76,3,0,0,0,0,0,0,0,0
+A,I'll have this submitted and please expect your card in 10 business days and don't hesitate to call our toll-free number for any assistance.,Problem Investigation,Positive,0.75,2,0,0,0,0,0,0,0,0
+A,"Welcome, thank you so much, bye.",Closure,Positive,0.85,3,0,0,0,0,0,0,0,0
+C,"Thank you, bye.",Closure,Positive,0.8,3,0,0,0,0,0,0,0,0
+A,Thanks for calling quick Internet.,Problem Investigation,Positive,0.83,2,0,0,0,0,0,0,0,0
+A,My name is Anna.,Greetings,Positive,0.82,0,0,1,0,0,0,0,0,0
+A,Can I have your phone number or your account number please?,Account Verification,Positive,0.84,1,0,0,0,1,1,0,0,0
+C,Your who?,Account Verification,Neutral,0.69,1,0,0,0,0,0,0,0,0
+C,What?,Problem Investigation,Neutral,0.65,2,0,0,0,0,0,0,0,0
+C,"Can you speak a little slower, would you?",Problem Investigation,Neutral,0.69,2,0,0,0,0,0,0,0,0
+A,Anything for you.,Problem Investigation,Neutral,0.45,2,0,0,0,0,0,0,0,0
+A,"So, I would say my name is Anna.",Problem Investigation,Positive,0.75,0,0,0,0,0,0,0,0,0
+A,Can I have your account or phone number please?,Account Verification,Positive,0.84,1,0,0,0,1,1,0,0,0
+C,My account is 4 5 6 7 8 9 1 5 6 0.,Problem Investigation,Positive,0.61,2,0,0,0,0,0,0,0,0
+C,I just want to say Anna that I thought you are quick Internet but look at what you did.,Problem Investigation,Neutral,0.44,2,0,0,0,0,0,0,0,0
+C,Why can't I access my internet today?,Problem Investigation,Negative,0.16,2,0,0,0,0,0,0,0,0
+C,I can't play my games.,Problem Investigation,Negative,0.16,2,0,0,0,0,0,0,0,0
+A,Oh that's very inconvenient.,Problem Investigation,Positive,0.66,2,0,0,0,0,0,0,0,0
+A,"I understand how you feel, your friends online might already be waiting for you but don't you worry, you've got the right person on the line to help you.",Problem Investigation,Positive,0.7,2,0,0,0,0,0,0,0,0
+A,May I know the name of the account?,Account Verification,Neutral,0.74,1,0,0,0,1,1,0,0,0
+C,What? What's that?,Problem Investigation,Neutral,0.48,2,0,0,0,0,0,0,0,0
+C,"I feel like you're under water, are you?",Problem Investigation,Neutral,0.39,2,0,0,0,0,0,0,0,0
+A,"Oh no, I'm sorry about that it could be my phone connection.",Problem Investigation,Neutral,0.68,2,0,0,0,0,0,0,0,0
+A,Let me fix it in 3 seconds here.,Problem Investigation,Positive,0.66,2,0,0,0,0,0,0,0,0
+A,Can you hear me ok now?,Problem Investigation,Neutral,0.47,2,0,0,0,0,0,0,0,0
+C,"Yeah, a lot better.",Problem Investigation,Positive,0.5,2,0,0,0,0,0,0,0,0
+A,Sounds great so I was saying may I know the name on the account?,Problem Investigation,Positive,0.79,2,0,0,0,1,1,0,0,0
+C,My name?,Account Verification,Neutral,0.53,1,0,0,0,1,0,0,0,0
+A,"Yes, if the account is under your name.",Account Verification,Positive,0.67,1,0,0,0,1,0,0,0,0
+C,"Yes, it's Anjoe Jones.",Greetings,Positive,0.79,0,0,0,0,0,0,0,0,0
+A,Thank You Mr. Jones.,Problem Investigation,Positive,0.83,1,0,0,0,0,0,0,0,0
+C,What did you say?,Problem Investigation,Neutral,0.44,2,0,0,0,0,0,0,0,0
+A,Oh I just said thank you Mr. Jones.,Problem Investigation,Positive,0.81,2,0,0,0,0,0,0,0,0
+A,"So, you mentioned you don't have internet today. ",Problem Investigation,Positive,0.68,2,0,0,0,0,0,0,0,0
+A,"Shows here that you don't have a DSL signal, that's why.you cannot connect",Problem Investigation,Neutral,0.43,2,0,0,0,0,0,1,0,0
+A,We can actually fix this over the phone and I'd be glad to walk you through.,Problem Investigation,Positive,0.81,2,0,0,0,0,0,0,0,0
+A,Would that be fine?,Problem Investigation,Positive,0.84,2,0,0,0,0,0,1,0,0
+C,I already did everything before I called.,Problem Investigation,Negative,0.41,2,0,0,0,0,0,0,0,0
+A,That's great.,Problem Investigation,Positive,0.73,2,0,0,0,0,0,0,0,0
+A,"Let me ask, can you please check your modem now and tell me which lights are on?",Problem Investigation,Neutral,0.53,2,0,0,0,0,0,1,0,0
+C,Seriously!,Problem Investigation,Negative,0.29,2,0,0,0,0,0,0,0,0
+C,"Okay, I have to go back to my brother's room.",Problem Investigation,Neutral,0.6,2,0,0,0,0,0,0,0,0
+A,Please check.,Problem Investigation,Positive,0.58,2,0,0,0,0,0,0,0,0
+C,"Okay., the rest of the of the lights are green but the DSL was red.",Problem Investigation,Neutral,0.6,2,0,0,0,0,0,0,0,0
+A,"Alright, clearly, there is something wrong with your signal which is highly likely connected to your cell phone service.",Problem Investigation,Neutral,0.57,2,0,0,0,0,0,1,0,0
+A,Can you please check again your telephone cord is connected to your modem?,Problem Investigation,Neutral,0.55,2,0,0,0,0,0,1,0,0
+C,"Wow, so I have to go back again?",Problem Investigation,Neutral,0.49,2,0,0,0,0,0,0,0,0
+A,"Don't worry, that's the last thing we have to check if the cord is indeed not connected tightly plug it back into your modem and everything should be good so that we do not have to call a technician to check out what's wrong with the modem.",Problem Investigation,Neutral,0.7,2,0,0,0,0,0,1,0,0
+C,"Okay fine, just don't hang up!",Problem Investigation,Neutral,0.57,2,0,0,0,0,0,0,0,0
+A,Of course! I won't.,Problem Investigation,Neutral,0.22,2,0,0,0,0,0,0,0,0
+C,I just found out the cord was disconnected.,Problem Investigation,Neutral,0.53,2,0,0,0,0,0,0,0,0
+C,Probably my brother.,Account Verification,Neutral,0.53,2,0,0,0,0,0,0,0,0
+C,I can see the DSL light is green.,Problem Investigation,Neutral,0.65,2,0,0,0,0,0,1,0,0
+A,Oh that's good to know.,Problem Investigation,Positive,0.82,2,0,0,0,0,0,0,0,0
+A,Can you try accessing some website?,Problem Investigation,Positive,0.79,2,0,0,0,1,1,1,0,0
+C,Okay I can access my online games now and Facebook too.,Problem Investigation,Positive,0.79,2,0,0,0,0,0,0,0,0
+C,"Yeah, I think you solved it.",Problem Investigation,Positive,0.81,2,0,0,0,0,0,0,0,0
+A,My pleasure to assist you.,Closure,Positive,0.86,2,0,0,0,0,0,0,0,0
+A,Have I addressed your concerns?,Closure,Positive,0.8,3,0,0,0,0,0,0,1,0
+C,You sure did.,Problem Investigation,Positive,0.56,3,0,0,0,0,0,0,0,0
+C,I'll tell my brother.,Problem Investigation,Neutral,0.45,2,0,0,0,0,0,0,0,0
+C,Thank you.,Problem Investigation,Positive,0.59,2,0,0,0,0,0,0,0,0
+A,Thanks for calling Quick Internet.,Problem Investigation,Positive,0.83,2,0,0,0,0,0,0,0,0
+A,Once again this is Anna.,Problem Investigation,Positive,0.81,0,0,0,0,0,0,0,0,0
+A,Have a wonderful day.,Closure,Positive,0.84,3,0,0,0,0,0,0,0,0
+A,Thank you for calling Sprites.,Closure,Positive,0.83,3,1,0,0,0,0,0,0,0
+A,My name is Rhea.,Greetings,Positive,0.71,0,0,1,0,0,0,0,0,0
+A,How can I help you today?,Greetings,Positive,0.78,0,0,0,1,0,0,0,0,0
+C,"Hi, my name is Francis and I have a question about my bill.",Problem Investigation,Positive,0.73,0,0,0,0,0,0,0,0,0
+A,Oh hi Francis.,Problem Investigation,Positive,0.85,0,0,0,0,0,0,0,0,0
+A,I'll be glad to answer any questions that you have about your bill.,Problem Investigation,Positive,0.61,2,0,0,0,0,0,0,0,0
+A,May I have the account number or the phone number of the account?,Account Verification,Neutral,0.67,1,0,0,0,1,1,0,0,0
+C,Ok the account number is 1 2 3 4 5.,Problem Investigation,Positive,0.72,2,0,0,0,0,0,0,0,0
+A,Great! Thank you. ,Problem Investigation,Positive,0.72,2,0,0,0,0,0,0,0,0
+A,"So, may I know what your question is?",Problem Investigation,Neutral,0.52,2,0,0,0,0,0,0,0,0
+C,"Oh it's like this, last month, my bill was $25 but for this month it shows that I need to pay $35.",Problem Investigation,Neutral,0.32,2,0,0,0,0,0,0,0,0
+C,What's going on?,Problem Investigation,Neutral,0.43,2,0,0,0,0,0,0,0,0
+A,Oh I see.,Problem Investigation,Neutral,0.66,2,0,0,0,0,0,0,0,0
+A,"I understand sometimes looking at your bill can be quite confusing. So, let me check your account and let's go through this together ok?",Problem Investigation,Neutral,0.66,2,0,0,0,0,0,0,0,0
+A,By the way do you have a copy of your bill right now?,Problem Investigation,Positive,0.68,2,0,0,0,0,0,0,0,0
+C,Um yes.,Problem Investigation,Positive,0.61,2,0,0,0,0,0,0,0,0
+A,That's great.,Problem Investigation,Positive,0.73,2,0,0,0,0,0,0,0,0
+A,Let's go over your bill together and see the difference.,Problem Investigation,Positive,0.66,2,0,0,0,0,0,0,0,0
+A,"Upon checking your account., yes, you're right.",Problem Investigation,Positive,0.56,2,0,0,0,0,0,0,0,0
+A,The bill last month was $25 however this billing period there is an additional charge of 10 dollars for a data usage that totals to 3 gigs.,Problem Investigation,Positive,0.63,2,0,0,0,0,0,0,0,0
+C,Ok. I really thought that my plan included data.,Problem Investigation,Positive,0.67,2,0,0,0,0,0,0,0,0
+A,"Well, no, it does not.",Problem Investigation,Neutral,0.5,2,0,0,0,0,0,0,0,0
+A,But I will be happy to add a data to your plan.,Problem Investigation,Positive,0.78,2,0,0,0,0,0,0,0,0
+A,For only five dollars more you get 10 gigs of data and it's more value for your money considering the current situation.,Problem Investigation,Neutral,0.6,2,0,0,0,0,0,0,0,0
+A,How does that sound to you?,Problem Investigation,Neutral,0.48,2,0,0,0,0,0,0,0,0
+C,Um okay that sounds good.,Problem Investigation,Positive,0.78,2,0,0,0,0,0,0,0,0
+A,"That's good, so I'll add the data plan to your account right away and since you are a valued customer, I will also take care of the $10 charge for you.",Problem Investigation,Positive,0.8,2,0,0,0,0,0,0,0,0
+C,I mean that's great.,Problem Investigation,Positive,0.61,2,0,0,0,0,0,0,0,0
+A,So let me just process the reversal real quick okay and it's done so let me just recap everything we have talked about the $10 charge.,Problem Investigation,Neutral,0.66,2,0,0,0,0,0,0,0,0
+A,I have added a data plan of 10 gigs to your account so that's going to be $5 more in addition to the $25 that you are already paying every month and the $10 charge for this billing period was already reversed.,Problem Investigation,Positive,0.59,2,0,0,0,0,0,0,0,0
+C,"It's strictly appreciated, thank you.",Problem Investigation,Positive,0.74,2,0,0,0,0,0,0,0,0
+A,You're welcome and just to let you know you can also check your data usage by texting data to 777.,Problem Investigation,Positive,0.77,2,0,0,0,0,0,1,0,0
+A,"So, have I addressed all your concerns today?",Problem Investigation,Positive,0.8,3,0,0,0,0,0,0,1,0
+C,Yes you have.,Problem Investigation,Neutral,0.71,3,0,0,0,0,0,0,0,0
+A,Well it's been my pleasure to assist you Francis.,Problem Investigation,Positive,0.85,2,0,0,0,0,0,0,0,0
+A,"Once again, my name is Rhea.",Greetings,Positive,0.75,0,0,1,0,0,0,0,0,0
+A,Thank you for calling Sprite and hope you have a great day,Closure,Positive,0.85,3,0,0,0,0,0,0,0,0
+C,"Do the same, bye bye.",Closure,Positive,0.77,3,0,0,0,0,0,0,0,0
+A,Thank you for calling Life Member Services.,Problem Investigation,Positive,0.77,3,1,0,0,0,0,0,0,0
+A,This is Raya.,Problem Investigation,Positive,0.76,0,0,1,0,0,0,0,0,0
+A,How can I help you today?,Greetings,Positive,0.78,0,0,0,1,0,0,0,0,0
+C,I have a question about something I received in a mail.,Problem Investigation,Positive,0.57,2,0,0,0,0,0,0,0,0
+A,"Sure, I'll be glad to assist you with that mail.",Problem Investigation,Positive,0.8,2,0,0,0,0,0,0,0,0
+A,Can you please tell me more about the mail you received?,Problem Investigation,Neutral,0.45,2,0,0,0,0,0,0,0,0
+C,"Well you see it's like this: a couple weeks ago, I was involved in an accident and I was rushed to hospital but I feel better now anyways.",Problem Investigation,Neutral,0.42,2,0,0,0,0,0,0,0,0
+C,I was under the impression that my insurance or you guys will cover the whole bill but this paperwork says something else.,Problem Investigation,Neutral,0.59,2,0,0,0,0,0,0,0,0
+A,I am sincerely glad to know that you're all good now.,Problem Investigation,Positive,0.74,2,0,0,0,0,0,0,0,0
+A,I will be happy to check your account so that I can help you better.,Problem Investigation,Positive,0.79,2,0,0,0,0,0,0,0,0
+A,May I have your complete name and member ID?,Account Verification,Positive,0.78,1,0,0,0,1,1,0,0,0
+C,"Peter Porter, ID Number is 6757897.",Account Verification,Positive,0.78,1,0,0,0,0,0,0,0,0
+A,Thank you Peter.,Problem Investigation,Positive,0.82,1,0,0,0,0,0,0,0,0
+A,How about your date of birth and address?,Account Verification,Neutral,0.6,1,0,0,0,1,1,0,0,0
+C,It's May 12 85. ,Account Verification,Neutral,0.76,1,0,0,0,0,0,0,0,0
+C,"321, First Street, LA.",Account Verification,Positive,0.78,1,0,0,0,0,0,0,0,0
+A,Thank you.,Problem Investigation,Positive,0.59,2,0,0,0,0,0,0,0,0
+A,"Let me check your account real quick, ok?",Problem Investigation,Neutral,0.59,2,0,0,0,0,0,0,0,0
+C,Ok.,Problem Investigation,Neutral,0.43,2,0,0,0,0,0,0,0,0
+A,"I've been checking here Peter, it shows that a claim for $1000 was paid last week that was August 12 and that it says that it actually covers your entire bill.",Problem Investigation,Neutral,0.66,2,0,0,0,0,0,0,0,0
+A,"By the way that letter that you received, on the topmost right part, does it say this is not a bill?",Problem Investigation,Neutral,0.41,2,0,0,0,0,0,1,0,0
+C,Oh well!,Problem Investigation,Neutral,0.67,2,0,0,0,0,0,0,0,0
+C,"Now that you mention it, it does say this is not a bill.",Problem Investigation,Neutral,0.4,2,0,0,0,0,0,0,0,0
+A,"Ok, that's good to know because what you have there is an EOB or an explanation of benefits.",Problem Investigation,Positive,0.77,2,0,0,0,0,0,0,0,0
+A,It should show the breakdown of the charges and the amount that we your insurance paid for.,Problem Investigation,Neutral,0.67,2,0,0,0,0,0,0,0,0
+A,"So you see every time a claim is processed, you will get that information for transparency see and I truly apologize for the confusion that this letter has cost you.",Problem Investigation,Positive,0.63,2,0,0,0,0,0,0,0,0
+C,Ah see.,Problem Investigation,Neutral,0.6,2,0,0,0,0,0,0,0,0
+C,That's good because you know I still have some medicine to buy and the last thing that I want right now is to pay another bill.,Problem Investigation,Negative,0.34,2,0,0,0,0,0,0,0,0
+A,I know I understand I'm glad to clear things up for you and again no need to worry about the hospital bill we took care of it for you.,Problem Investigation,Positive,0.86,2,0,0,0,0,0,0,0,0
+A,"Just take care of yourself, okay?",Problem Investigation,Neutral,0.4,2,0,0,0,0,0,0,0,0
+C,"Well, okay.",Problem Investigation,Neutral,0.61,2,0,0,0,0,0,0,0,0
+C,Thank you so much.,Closure,Positive,0.67,3,0,0,0,0,0,0,0,0
+A,Have I addressed your concerns today?,Problem Investigation,Positive,0.8,3,0,0,0,0,0,0,1,0
+C,Yes. you have. Oh I'm just happy everything is paid for.,Problem Investigation,Positive,0.66,2,0,0,0,0,0,0,0,0
+A,"Yes, it is.",Account Verification,Neutral,0.51,1,0,0,0,0,0,0,0,0
+A,"Well Peter, if there's nothing else, thank you so much for choosing Life Member Services.",Problem Investigation,Positive,0.79,2,0,0,0,0,0,0,0,0
+A,You take care and I'm wishing for your speedy recovery,Closure,Positive,0.73,3,0,0,0,0,0,0,0,0
+C,Thank you.,Problem Investigation,Positive,0.59,2,0,0,0,0,0,0,0,0
+A,Great day here at Amazing Flowers.,Problem Investigation,Positive,0.86,2,0,0,0,0,0,0,0,0
+A,This is Rael.,Problem Investigation,Neutral,0.6,0,0,1,0,0,0,0,0,0
+A,Would you like to place an order?,Problem Investigation,Neutral,0.77,2,0,0,0,0,0,0,0,0
+C,"Yeah, I'd like to place an order for a bouquet of red and white roses.",Problem Investigation,Positive,0.8,2,0,0,0,0,0,0,0,0
+A,I'll be happy to order the bouquet for you.,Problem Investigation,Positive,0.8,2,0,0,0,0,0,0,0,0
+A,Can I have your name please?,Account Verification,Positive,0.83,1,0,0,0,1,1,0,0,0
+C,Amanda Bynes,Account Verification,Positive,0.81,1,0,0,0,0,0,0,0,0
+A,Thank You Amanda.,Problem Investigation,Positive,0.79,1,0,0,0,0,0,0,0,0
+A,"So, just to confirm your order is a bouquet of red and white roses that's going to be $45.",Problem Investigation,Positive,0.58,2,0,0,0,0,0,0,0,0
+A,Would you like to add a pack of Hardy chocolates?,Problem Investigation,Positive,0.77,2,0,0,0,0,0,0,0,0
+A,You only need to add seven dollars more for that.,Problem Investigation,Negative,0.4,2,0,0,0,0,0,0,0,0
+C,Okay sounds good.,Problem Investigation,Positive,0.59,2,0,0,0,0,0,0,0,0
+C,"Yes sure, I'll get that.",Problem Investigation,Positive,0.82,2,0,0,0,0,0,0,0,0
+C,Will it be delivered by tomorrow?,Problem Investigation,Neutral,0.5,2,0,0,0,0,0,1,0,0
+A,"Since it's already after the cutoff of orders, the package will be delivered the next day, Wednesday.",Problem Investigation,Positive,0.6,2,0,0,0,0,0,0,0,0
+C,"Okay, that's fine!",Problem Investigation,Positive,0.66,2,0,0,0,0,0,0,0,0
+A,Perfect.,Problem Investigation,Neutral,0.48,2,0,0,0,0,0,0,0,0
+A,Can I please have the name and a shipping address for the order?,Problem Investigation,Positive,0.76,2,0,0,0,1,1,0,0,0
+C,Diana Ross.,Account Verification,Positive,0.54,1,0,0,0,0,0,0,0,0
+C,"Her address is seven eight nine, North Henderson Road, Philadelphia PA and the zip code is one nine four zero six.",Problem Investigation,Positive,0.73,1,0,0,0,0,0,0,0,0
+A,Thank you.,Problem Investigation,Positive,0.59,2,0,0,0,0,0,0,0,0
+A,"Would you like to charge that on Visa, Mastercard or American Express?",Problem Investigation,Positive,0.65,2,0,0,0,0,0,0,0,0
+C,"Visa, the number is 4293465436245682.",Account Verification,Positive,0.66,1,0,0,0,0,0,0,0,0
+A,"Thank you, and, the expiration date and CVV code please.",Problem Investigation,Positive,0.8,1,0,0,0,1,0,0,0,0
+C,Expiration date is January 2020 and the CVV code is  458.,Problem Investigation,Positive,0.57,1,0,0,0,0,0,0,0,0
+A,"Alright and, can I have the billing address of your card please?",Problem Investigation,Positive,0.8,2,0,0,0,1,1,0,0,0
+C,"Sure, it's 3421, 4th avenue, Sacramento California 94235.",Problem Investigation,Positive,0.8,2,0,0,0,0,0,0,0,0
+A,Thank You Amanda.,Problem Investigation,Positive,0.79,1,0,0,0,0,0,0,0,0
+A,"All I need now, is the email address for the order and your mobile number and we're all set.",Problem Investigation,Positive,0.7,2,0,0,0,0,0,0,0,0
+C,That's missamandabynes@gmail.com.,Account Verification,Positive,0.72,2,0,0,0,0,0,0,0,0
+C,My number is 3103450984.,Account Verification,Positive,0.78,1,0,0,0,0,0,0,0,0
+A,Let me repeat that.,Problem Investigation,Neutral,0.54,2,0,0,0,0,0,0,0,0
+A,That's miss Amanda Bynes.,Greetings,Positive,0.85,0,0,1,0,0,0,0,0,0
+A,That's M I S S A M A N D A B Y N E S.,Greetings,Positive,0.4,0,0,0,0,0,0,0,0,0
+A,"So that's Miss Amanda Bynes, your first name and your last name @ gmail.com and number is 3 1 0 3 4 5 0 9 8 4.",Problem Investigation,Positive,0.83,2,0,0,0,0,0,0,0,0
+A,Is that right?,Problem Investigation,Neutral,0.53,2,0,0,0,0,0,0,0,0
+C,That's right.,Problem Investigation,Positive,0.59,2,0,0,0,0,0,0,0,0
+A,Right so your order has been processed.,Problem Investigation,Neutral,0.65,2,0,0,0,0,0,0,0,0
+A,That's one bouquet of red and white roses with one pack of hardy chocolates.,Problem Investigation,Positive,0.5,2,0,0,0,0,0,0,0,0
+A,That's a total of $52.,Problem Investigation,Positive,0.37,2,0,0,0,0,0,0,0,0
+A,It will be delivered this on Wednesday and you will receive an electronic receipt to your email address and a notification to your mobile.,Problem Investigation,Positive,0.64,2,0,0,0,0,0,0,0,0
+A,"And, today is the last day of free shipping, so it's good that you will not have to pay a delivery fee at all.",Problem Investigation,Positive,0.71,2,0,0,0,0,0,0,0,0
+A,Do you have any questions for me?,Problem Investigation,Positive,0.76,3,0,0,0,0,0,0,1,0
+C,No more.,Problem Investigation,Neutral,0.42,2,0,0,0,0,0,0,0,0
+C,Thank you.,Problem Investigation,Positive,0.59,2,0,0,0,0,0,0,0,0
+A,My pleasure.,Problem Investigation,Positive,0.62,3,0,0,0,0,0,0,0,0
+A,Thank you so much for your order Amanda.,Problem Investigation,Positive,0.77,2,0,0,0,0,0,0,0,0
+A,Have a great evening.,Closure,Positive,0.86,3,0,0,0,0,0,0,0,0
+A,"Hello, Good Morning.",Greetings,Positive,0.85,0,0,0,0,0,0,0,0,0
+A,Thank you for calling PLDC customer service.,Problem Investigation,Positive,0.8,3,0,0,0,0,0,0,0,0
+A,This is Christine speaking.,Problem Investigation,Positive,0.78,0,0,1,0,0,0,0,0,0
+A,How may I help you?,Greetings,Positive,0.78,2,0,0,1,0,0,0,0,0
+C,You just got off my internet connection and this is not the first time this happened.,Problem Investigation,Negative,0.32,2,0,0,0,0,0,0,0,0
+C,How is that you're getting my money and you're cutting me off?,Problem Investigation,Neutral,0.22,2,0,0,0,0,0,0,0,0
+A,I appreciate that you bring this to out attention sir And sorry for the inconvenience sir.,Problem Investigation,Positive,0.78,2,0,0,0,0,0,0,0,0
+A,"I understand that it is very frustrating and to work out on your problem about the abrupt disconnection, is that right sir?",Problem Investigation,Neutral,0.68,2,0,0,0,0,0,0,0,0
+C,"Yes,you just disconnected me.",Problem Investigation,Neutral,0.45,2,0,0,0,0,0,0,0,0
+C,That's what I said.,Problem Investigation,Negative,0.56,2,0,0,0,0,0,0,0,0
+A,"But first, give me your account number sir.",Problem Investigation,Neutral,0.67,1,0,0,0,1,0,0,0,0
+C,"Okay, my account number is 4451147619.",Account Verification,Positive,0.75,1,0,0,0,0,0,0,0,0
+A,"Okay sir, I got it and for verification you will need your name and your birthday",Problem Investigation,Positive,0.66,2,0,0,0,0,0,0,0,0
+C,"I am Matthew Sobremonte and I am born on November 1, 1999.",Problem Investigation,Positive,0.62,1,0,0,0,0,0,0,0,0
+C,"And, yes I am the account holder.",Problem Investigation,Positive,0.69,1,0,0,0,0,0,0,0,0
+A,"Thank you, just a minute sir,  I'll just look at our data.",Problem Investigation,Neutral,0.73,2,0,0,0,0,0,0,0,0
+A,"According to our system's data, that you did pay your last bill, last February 5 which was 2 days ago in one of our affiliated payment centers.",Problem Investigation,Neutral,0.65,2,0,0,0,0,0,0,0,0
+A,"Unfortunately sir, when you pay through that affiliated center, it takes about three to five business days more to complete the payment processing so that means that the system conceded the payment as still pending and not completed yet.",Problem Investigation,Neutral,0.67,2,0,0,0,0,0,0,0,0
+A,"So, the connection has been cut off. But.",Problem Investigation,Neutral,0.36,2,0,0,0,0,0,0,0,0
+C,Are you kidding me?,Problem Investigation,Negative,0.27,2,0,0,0,0,0,0,0,0
+C,I need it as soon as possible.,Problem Investigation,Neutral,0.28,2,0,0,0,0,0,0,0,0
+A,I understand that your situation is very tough right now.,Problem Investigation,Positive,0.68,2,0,0,0,0,0,0,0,0
+A,"Since you did pay for your connection, what I can do is to open a ticket or submit a report so that the other department can immediately complete your payment and reconnect your internet as soon as possible. ",Problem Investigation,Positive,0.7,2,0,0,0,0,0,1,0,0
+A,"And to make it possible sir, I just need your payment ID.",Problem Investigation,Neutral,0.57,2,0,0,0,0,0,0,0,0
+C,Okay so my payment ID is 19216811.,Problem Investigation,Positive,0.69,1,0,0,0,0,0,0,0,0
+C,Did you get it?,Problem Investigation,Neutral,0.57,2,0,0,0,0,0,0,0,0
+A,"Yes sir, thank you.",Problem Investigation,Positive,0.82,3,0,0,0,0,0,0,0,0
+A,I am now doing the report and will submit it as soon as I finish this.,Problem Investigation,Positive,0.71,2,0,0,0,0,0,0,0,0
+A,Please stay online for a minute Mr. Sobremonte.,Problem Investigation,Positive,0.82,2,0,0,0,0,0,0,0,0
+C,"Okay I will, thank you.",Problem Investigation,Positive,0.75,2,0,0,0,0,0,0,0,0
+A,"Hello sir, kindly expect to have your reconnection within 24 hours.",Problem Investigation,Positive,0.63,2,0,0,0,0,0,0,0,0
+A,We will send you a text message informing that you have already paid and connected to the internet service to your phone number.,Problem Investigation,Positive,0.71,2,0,0,0,0,0,0,0,0
+C,Thank God for that!,Problem Investigation,Positive,0.67,2,0,0,0,0,0,0,0,0
+C,I am furious because I really need internet connection.,Problem Investigation,Negative,0.42,2,0,0,0,0,0,0,0,0
+A,"Again sir, I'm terribly sorry.",Problem Investigation,Positive,0.7,2,0,0,0,0,0,0,0,0
+A,Is there anything else I can help you with sir?,Problem Investigation,Positive,0.75,2,0,0,1,0,0,0,0,0
+C,I don't need anything else.,Problem Investigation,Negative,0.38,2,0,0,0,0,0,0,0,0
+A,"If none, thanks for calling and don't hesitate to call again if ever you'll have a problem with your connection.",Problem Investigation,Positive,0.77,2,0,0,0,0,0,0,0,0
+A,Have a great day sir.,Closure,Positive,0.83,3,0,0,0,0,0,0,0,0
+C,Okay thank you.,Problem Investigation,Positive,0.72,2,0,0,0,0,0,0,0,0
+A,Bye.,Closure,Neutral,0.65,3,0,0,0,0,0,0,0,0
+A,Thank you for calling Martha's flowers.,Closure,Positive,0.8,0,1,1,0,0,0,0,0,0
+A,How may I assist you?,Greetings,Positive,0.77,2,0,0,1,0,0,0,0,0
+C,"Hello, I'd like to order flowers and I think you have what I'm looking for.",Problem Investigation,Positive,0.78,2,0,0,0,0,0,0,0,0
+A,I'd be happy to take care of your order.,Problem Investigation,Positive,0.79,2,0,0,0,0,0,0,0,0
+A,May I have your name please?,Account Verification,Positive,0.85,1,0,0,0,1,1,0,0,0
+C,Randall Thomas,Account Verification,Positive,0.78,1,0,0,0,0,0,0,0,0
+A,Can you spell that for me?,Greetings,Positive,0.76,2,0,0,0,1,1,0,0,0
+C,"Randall R A N D A L L, Thomas T H O M A S",Greetings,Positive,0.69,0,0,0,0,0,0,0,0,0
+A,Thank you for that information Randall.,Problem Investigation,Positive,0.85,2,0,0,0,0,0,0,0,0
+A,May I have your home or office number area code first?,Account Verification,Positive,0.64,1,0,0,0,1,1,0,0,0
+C,4 0 9 8 6 6 5 0 8 8,Problem Investigation,Positive,0.74,2,0,0,0,0,0,0,0,0
+A,That's 4 0 9 8 6 6 5 0 8 8.,Problem Investigation,Positive,0.68,2,0,0,0,0,0,0,0,0
+A,Do you have a fax number or email address?,Account Verification,Neutral,0.65,1,0,0,0,1,1,0,0,0
+C,randall.thomas@gmail.com,Account Verification,Positive,0.77,1,0,0,0,0,0,0,0,0
+A,May I have your shipping address?,Account Verification,Positive,0.81,1,0,0,0,1,1,0,0,0
+C,"800, Gladys Avenue, Beaumont, Texas. Zip Code is 77706",Account Verification,Positive,0.57,1,0,0,0,0,0,0,0,0
+A,Thank you for the information.,Problem Investigation,Positive,0.72,3,0,0,0,0,0,0,0,0
+A,What product are you interested in purchasing?,Problem Investigation,Neutral,0.69,2,0,0,0,0,0,0,0,0
+C,"Red roses, probably a dozen.",Problem Investigation,Positive,0.79,2,0,0,0,0,0,0,0,0
+A,"A dozen of red roses, do you want long stems?",Problem Investigation,Neutral,0.78,2,0,0,0,0,0,0,0,0
+A,"Alright Randall, let me process your order. One moment please.",Problem Investigation,Neutral,0.67,2,0,0,0,0,0,0,0,0
+A,Okay Randall. we are ordering one dozen of long-stemmed red roses.,Problem Investigation,Positive,0.76,2,0,0,0,0,0,0,0,0
+A,The total of your orders is $40 and it will be shipped to your address within 24 hours.,Problem Investigation,Positive,0.54,2,0,0,0,0,0,0,0,0
+C,When will you be delivering my roses again?,Problem Investigation,Neutral,0.27,2,0,0,0,0,0,0,0,0
+A,Within 24 hours.,Problem Investigation,Neutral,0.44,2,0,0,0,0,0,0,0,0
+C,"Okay, no problem.",Problem Investigation,Positive,0.58,2,0,0,0,0,0,0,0,0
+A,Is there anything else I can help you with?,Problem Investigation,Positive,0.78,2,0,0,1,0,0,0,0,0
+C,"That's all for now, thanks.",Problem Investigation,Positive,0.79,3,0,0,0,0,0,0,0,0
+A,No problem Randall.,Problem Investigation,Positive,0.77,2,0,0,0,0,0,0,0,0
+A,Thank you for calling Martha's Flowers.,Closure,Positive,0.8,0,1,1,0,0,0,0,0,0
+A,Have a nice day.,Closure,Positive,0.82,3,0,0,0,0,0,0,0,0
+A,Thank you for calling to Delonix.,Closure,Positive,0.8,3,1,1,0,0,0,0,0,0
+A,This is Nina speaking.,Problem Investigation,Positive,0.75,0,0,0,0,0,0,0,0,0
+A,How can I help you today?,Greetings,Positive,0.78,0,0,0,1,0,0,0,0,0
+C,"Hi, I'm just in your website and I know you've got a special on your seventeen spotlights and I wanted to place in an order if there's still available place.",Problem Investigation,Positive,0.82,2,0,0,0,0,0,0,0,0
+A,Sure. I will be happy to assist you.,Problem Investigation,Positive,0.8,2,0,0,0,0,0,0,0,0
+A,Can I start with your name please?,Account Verification,Positive,0.83,1,0,0,0,1,1,0,0,0
+C,Jeremy Logan.,Account Verification,Positive,0.66,1,0,0,0,0,0,0,0,0
+A,Thank you Mr. Jeremy and did you want the invoice made out in your name or your company name?,Problem Investigation,Neutral,0.82,2,0,0,0,0,0,0,0,0
+C,My name is fine.,Greetings,Positive,0.77,2,0,0,0,0,0,0,0,0
+A,"Okay, no problem and can I get the delivery address please?",Problem Investigation,Positive,0.79,2,0,0,0,1,1,0,0,0
+C,"It's 123, Blue Ridge Crescent, Bonneville, 2106, NSW.",Problem Investigation,Positive,0.83,1,0,0,0,0,0,0,0,0
+A,Thank You Mr. Logan.,Problem Investigation,Positive,0.84,1,0,0,0,0,0,0,0,0
+A,And do you have an email address so I can send your receipt and online tracking too?,Problem Investigation,Positive,0.79,2,0,0,0,1,0,0,0,0
+C,"Yes, it's jeremymorgan@gmail.com.",Account Verification,Positive,0.82,2,0,0,0,0,0,0,0,0
+A,"Great, now 217 spotlights are available in 35 watts or 55 watts, which one do you want?",Problem Investigation,Neutral,0.64,2,0,0,0,0,0,1,0,0
+C,The 55 watts ones please.,Problem Investigation,Positive,0.68,2,0,0,0,0,0,0,0,0
+A,All right and do you know what colour temperature you want for the vaults?,Problem Investigation,Neutral,0.53,2,0,0,0,0,0,0,0,0
+C,"Yeah thinking that 6000k ones, that's the bluish colour right?",Problem Investigation,Neutral,0.65,2,0,0,0,0,0,0,0,0
+A,Yes 6000k is slight white which is a blue tinge.,Problem Investigation,Neutral,0.64,2,0,0,0,0,0,0,0,0
+A,"Okay, Thank you, now, for the postage, we have registered post or express post.",Problem Investigation,Neutral,0.71,2,0,0,0,0,0,0,0,0
+A,Which one are you interested in?,Problem Investigation,Neutral,0.78,2,0,0,0,0,0,0,0,0
+C,How much are each please?,Problem Investigation,Neutral,0.46,2,0,0,0,0,0,0,0,0
+A,"Sure, registered post is $12.45 and the delivery time is 3 to 5 business days or express post is $18.85 and delivery time is 1 to 2 days.",Problem Investigation,Neutral,0.56,2,0,0,0,0,0,0,0,0
+C,"Okay, I'll take the Express post.",Problem Investigation,Positive,0.66,2,0,0,0,0,0,0,0,0
+A,"Great, so all I need now is your visa or MasterCard details please?",Problem Investigation,Positive,0.75,2,0,0,0,1,0,0,0,0
+C,Okay it's a Visa card and the number is 43211234567821234.,Problem Investigation,Positive,0.74,1,0,0,0,0,0,0,0,0
+A,And the expiry please?,Problem Investigation,Neutral,0.47,1,0,0,0,0,0,0,0,0
+C,1/10/2014.,Account Verification,Positive,0.72,1,0,0,0,0,0,0,0,0
+A,Thank you for that.,Closure,Positive,0.72,3,0,0,0,0,0,0,0,0
+A,"And, can you also grabbed the security number on the card?",Account Verification,Neutral,0.72,1,0,0,0,1,1,0,0,0
+A,It's the last 3 digits on the back of the card.,Problem Investigation,Positive,0.57,2,0,0,0,0,0,0,0,0
+C,"Yeah, that would be 123.",Problem Investigation,Positive,0.61,2,0,0,0,0,0,0,0,0
+A,"Great, let me just repeat those details to you.",Problem Investigation,Positive,0.65,2,0,0,0,0,0,0,0,0
+A,"It's a Visa card number 43211234567821234, expiry 10/14 and CCV is 123.",Problem Investigation,Positive,0.66,1,0,0,0,0,0,0,0,0
+C,Yep.,Problem Investigation,Neutral,0.61,2,0,0,0,0,0,0,0,0
+A,"Okay great, thank you Mr. Logan.",Problem Investigation,Positive,0.82,2,0,0,0,0,0,0,0,0
+A,"So we have one pair of seven-inch spotlights and 55 watt 6000k going to Jeremy Logan at 123, Blue Ridge Crescent, Bonneville, 2106, NSW and that will be shipped out today.",Problem Investigation,Positive,0.74,2,0,0,0,0,0,0,0,0
+C,Perfect.,Problem Investigation,Neutral,0.48,2,0,0,0,0,0,0,0,0
+A,"Once your order has been shipped, Jenny will email your online tracking number but you should receive your order before 12 o'clock tomorrow, Sydney time.",Problem Investigation,Positive,0.79,2,0,0,0,0,0,0,0,0
+C,Right.,Problem Investigation,Neutral,0.52,2,0,0,0,0,0,0,0,0
+A,Is there anything else that I can help you with Mr. Logan?,Problem Investigation,Positive,0.82,2,0,0,1,0,0,0,0,0
+C,"Oh that's fine, thank you.",Problem Investigation,Positive,0.83,2,0,0,0,0,0,0,0,0
+A,You're welcome and thank you very much for choosing Delonix and enjoy the rest of your afternoon.,Closure,Positive,0.84,3,0,0,0,0,0,0,0,0
+C,You too.,Closure,Neutral,0.66,3,0,0,0,0,0,0,0,0
+A,"Thank you, bye.",Closure,Positive,0.8,3,0,0,0,0,0,0,0,0
+A,Thank you for calling Amazon customer services.,Problem Investigation,Positive,0.76,2,1,0,0,0,0,0,0,0
+A,This is Georgina.,Greetings,Positive,0.83,0,0,1,0,0,0,0,0,0
+A,How can I help?,Problem Investigation,Positive,0.77,0,0,0,1,0,0,0,0,0
+C,"Hi Georgina, this is Brian.",Greetings,Positive,0.87,0,0,0,0,0,0,0,0,0
+C,I'm calling because I haven't received my item yet.,Problem Investigation,Negative,0.33,2,0,0,0,0,0,0,0,0
+A,"Hello Brian, I'm really sorry if you haven't received your parcel.",Problem Investigation,Positive,0.74,2,0,0,0,0,0,0,0,0
+A,"No worries, since you have me on the line, I'll be more than willing to assist.",Problem Investigation,Positive,0.71,2,0,0,0,0,0,0,0,0
+C,Oh okay.,Problem Investigation,Neutral,0.64,2,0,0,0,0,0,0,0,0
+A,"Alright, for security purposes, can I have the complete name on the account?",Problem Investigation,Positive,0.74,1,0,0,0,1,1,0,0,0
+C,"Sure, it's Brian Johnson.",Problem Investigation,Positive,0.8,2,0,0,0,0,0,0,0,0
+A,"Okay, can I also have your email address?",Account Verification,Positive,0.79,1,0,0,0,1,1,0,0,0
+C,"Sure, it's brian205@yahoo.com.",Problem Investigation,Positive,0.8,2,0,0,0,0,0,0,0,0
+A,Thanks for verifying those information to me.,Problem Investigation,Positive,0.7,2,0,0,0,0,0,0,0,0
+A,Let me proceed to your account.,Problem Investigation,Positive,0.67,2,0,0,0,0,0,0,0,0
+A,"It seems that you are referring to Meets Attack 500x5, am i right?",Problem Investigation,Neutral,0.58,2,0,0,0,0,0,1,0,0
+C,"You've got it right, Georgina.",Problem Investigation,Positive,0.57,2,0,0,0,0,0,0,0,0
+A,"Cool, based on the information here yeah, it already passed the estimated delivery date.",Problem Investigation,Positive,0.71,2,0,0,0,0,0,0,0,0
+A,"It is quite late for a week already. Since the item is shipped and sold by amazon, we can process a full refund or a replacement.",Problem Investigation,Neutral,0.69,2,0,0,0,0,0,0,0,0
+A,Which one would work for you?,Problem Investigation,Neutral,0.72,2,0,0,0,0,0,0,0,0
+C,I really wanted to get the item as soon as possible.,Problem Investigation,Positive,0.56,2,0,0,0,0,0,0,0,0
+C,I chose the free shipping to save shipment fees.,Problem Investigation,Negative,0.48,2,0,0,0,0,0,0,0,0
+C,"However, I didn't expect that it will come later than expected.",Problem Investigation,Neutral,0.58,2,0,0,0,0,0,0,0,0
+A,I'm really sorry for the inconvenience Brian.,Problem Investigation,Positive,0.82,2,0,0,0,0,0,0,0,0
+A,"To compensate, I can request a refund for that order and process a replacement right now.",Problem Investigation,Positive,0.45,2,0,0,0,0,0,0,0,0
+A,"Then, expedited to one day shipping without additional cost for the shipping.",Problem Investigation,Neutral,0.39,2,0,0,0,0,0,0,0,0
+C,"Really, you can do that for me?",Problem Investigation,Positive,0.7,2,0,0,0,0,0,0,0,0
+A,"Yes, of course.",Problem Investigation,Positive,0.74,2,0,0,0,0,0,0,0,0
+A,Let me process your order.,Problem Investigation,Neutral,0.48,2,0,0,0,0,0,0,0,0
+A,One moment please.,Problem Investigation,Positive,0.64,2,0,0,0,0,0,0,0,0
+C,"Thanks, please take your time.",Problem Investigation,Positive,0.82,3,0,0,0,0,0,0,0,0
+C,May I know how in the world can I receive my refund?,Problem Investigation,Neutral,0.2,2,0,0,0,0,0,0,0,0
+A,"Brian, the refund was already requested.",Problem Investigation,Neutral,0.48,2,0,0,0,0,0,0,0,0
+A,Expect to receive the refund within two to three business days.,Problem Investigation,Neutral,0.4,2,0,0,0,0,0,0,0,0
+A,It will be credited back to the original payment method you use in placing the order.,Problem Investigation,Positive,0.5,2,0,0,0,0,0,0,0,0
+A,"Also, I've already processed the replacement you can have the item by today until tomorrow.",Problem Investigation,Positive,0.82,2,0,0,0,0,0,0,0,0
+A,Then the confirmation regarding our conversation will be sent to your account.,Problem Investigation,Positive,0.64,2,0,0,0,0,0,0,0,0
+A,"If you want, I can also help you track your order and reach you back tomorrow just to make sure that you are receiving the item within the expected date.",Problem Investigation,Positive,0.75,2,0,0,0,0,0,0,0,0
+C,Yes please.,Problem Investigation,Neutral,0.52,2,0,0,0,0,0,0,0,0
+A,"Great, can I have your phone number?",Account Verification,Positive,0.84,2,0,0,0,1,1,0,0,0
+C,"Sure, it's 3143463534543.",Account Verification,Positive,0.76,1,0,0,0,0,0,0,0,0
+A,"Got it, thanks.",Problem Investigation,Positive,0.66,2,0,0,0,0,0,0,0,0
+A,Expect my call tomorrow.,Problem Investigation,Positive,0.71,2,0,0,0,0,0,0,0,0
+C,I will.,Problem Investigation,Neutral,0.36,2,0,0,0,0,0,0,0,0
+A,"Aside from this, is there anything else that I can help you with?",Problem Investigation,Positive,0.74,2,0,0,1,0,0,0,0,0
+C,"No, you're doing great great.",Problem Investigation,Positive,0.69,2,0,0,0,0,0,0,0,0
+C,I really appreciate it.,Problem Investigation,Positive,0.72,2,0,0,0,0,0,0,0,0
+A,"Thank you, Brian.",Problem Investigation,Positive,0.74,2,0,0,0,0,0,0,0,0
+A,I think we are all set.,Problem Investigation,Positive,0.71,2,0,0,0,0,0,0,0,0
+A,"For other queries, feel free to visit our help pages.",Problem Investigation,Positive,0.83,2,0,0,0,0,0,0,0,0
+A,Thank you for calling amazon and have a nice day.,Closure,Positive,0.82,3,0,0,0,0,0,0,0,0
+C,"Thank you so much, goodbye.",Closure,Positive,0.79,3,0,0,0,0,0,0,0,0
+A,Thank you for calling Rex Global customer service.,Problem Investigation,Positive,0.79,3,1,0,0,0,0,0,0,0
+A,This is Megan. ,Greetings,Positive,0.83,0,0,1,0,0,0,0,0,0
+A,How can I help you?,Greetings,Positive,0.78,0,0,0,1,0,0,0,0,0
+C,"Hi Megan, I'm calling because i was charged a dollar like out of nowhere.",Problem Investigation,Negative,0.61,2,0,0,0,0,0,0,0,0
+C,What is this a scam?,Problem Investigation,Neutral,0.35,2,0,0,0,0,0,0,0,0
+C,Can you help me or can someone from there explain what's happening?,Problem Investigation,Neutral,0.65,2,0,0,1,0,0,0,0,0
+A,I am sorry to hear about a dollar charge in your account.,Problem Investigation,Positive,0.6,2,0,0,0,0,0,0,0,0
+A,But don't you worry. I can definitely help you with that.,Problem Investigation,Positive,0.76,2,0,0,0,0,0,0,0,0
+C,Oh okay.,Problem Investigation,Neutral,0.64,2,0,0,0,0,0,0,0,0
+C,"Well, let's see.",Problem Investigation,Neutral,0.66,2,0,0,0,0,0,0,0,0
+A,"Alright, Can you start with your name please?",Problem Investigation,Positive,0.84,1,0,0,0,1,1,0,0,0
+C,Yeah sure.,Problem Investigation,Neutral,0.62,2,0,0,0,0,0,0,0,0
+C,Max Hermit.,Account Verification,Positive,0.69,1,0,0,0,0,0,0,0,0
+A,Thank you.,Problem Investigation,Positive,0.59,2,0,0,0,0,0,0,0,0
+A,How about your email address?,Account Verification,Neutral,0.71,1,0,0,0,1,1,0,0,0
+C,"Yeah, Uh, it's max_hermit001@gmail.com.",Problem Investigation,Positive,0.8,1,0,0,0,0,0,0,0,0
+A,Thank you.,Problem Investigation,Positive,0.59,2,0,0,0,0,0,0,0,0
+A,Let me proceed to your account.,Problem Investigation,Positive,0.67,2,0,0,0,0,0,0,0,0
+A,"Max, when you place your first order, Rex Global contacts your issuing bank to confirm the validity of the payment method.",Problem Investigation,Positive,0.58,2,0,0,0,0,0,0,0,0
+A,It is not an actual charge but a one dollar authorisation hold.,Problem Investigation,Neutral,0.34,2,0,0,0,0,0,0,0,0
+C,"Seriously, for how long will it take?",Problem Investigation,Neutral,0.34,2,0,0,0,0,0,0,0,0
+A,"Well, it isn't that long, most often, it takes 1 to 2 business days.",Problem Investigation,Neutral,0.56,2,0,0,0,0,0,0,0,0
+A,The authorisation will be removed from your account once a transaction is already processed.,Problem Investigation,Positive,0.44,2,0,0,0,0,0,1,0,0
+C,"Oh okay, that's a relief.",Problem Investigation,Positive,0.77,2,0,0,0,0,0,0,0,0
+C,I mean now I understand.,Problem Investigation,Neutral,0.5,2,0,0,0,0,0,0,0,0
+C,"I appreciate that, thanks.",Problem Investigation,Positive,0.76,2,0,0,0,0,0,0,0,0
+A,You're most welcome.,Closure,Positive,0.8,3,0,0,0,0,0,0,0,0
+A,I can also send a confirmation regarding this call for your reference.,Problem Investigation,Positive,0.75,2,0,0,0,0,0,0,0,0
+C,I appreciate it.,Problem Investigation,Positive,0.62,2,0,0,0,0,0,0,0,0
+A,"Aside from this, is there anything else that I can assist?",Problem Investigation,Neutral,0.72,2,0,0,0,0,0,0,0,0
+C,"No, I think we are good.",Problem Investigation,Positive,0.81,2,0,0,0,0,0,0,0,0
+C,Thanks a lot Megan.,Problem Investigation,Positive,0.8,2,0,0,0,0,0,0,0,0
+A,I'm really glad to help!,Problem Investigation,Positive,0.75,2,0,0,0,0,0,0,0,0
+A,"You may also see the help pages for other queries, Max.",Problem Investigation,Positive,0.79,2,0,0,0,0,0,0,0,0
+A,Thank you for calling Rex Global and have a nice day.,Closure,Positive,0.83,3,0,0,0,0,0,0,0,0
+C,You too.,Closure,Neutral,0.66,3,0,0,0,0,0,0,0,0
+C,Have a good one!,Closure,Positive,0.71,3,0,0,0,0,0,0,0,0
+A,Goodbye.,Closure,Positive,0.72,3,0,0,0,0,0,0,0,0
+A,Thank you for calling JP International.,Closure,Positive,0.8,3,1,0,0,0,0,0,0,0
+A,This is Carla.,Greetings,Positive,0.81,0,0,1,0,0,0,0,0,0
+A,Can I have your name please?,Account Verification,Positive,0.83,1,0,0,0,1,1,0,0,0
+C,"Hi Carla, I'm Athena.",Greetings,Positive,0.86,0,0,0,0,0,0,0,0,0
+A,Hello Athena.,Problem Investigation,Positive,0.79,0,0,0,0,0,0,0,0,0
+A,How are you today and how can I assist?,Problem Investigation,Positive,0.81,0,0,0,1,0,0,0,0,0
+C,I am really frustrated right now.,Problem Investigation,Negative,0.36,2,0,0,0,0,0,0,0,0
+C,I'm calling because I ordered an item last Monday from your store.,Problem Investigation,Positive,0.69,2,0,0,0,0,0,0,0,0
+C,I expedited it to two-day shipping just to make sure that i'll be receiving the item on or before Thursday.,Problem Investigation,Neutral,0.59,2,0,0,0,0,0,0,0,0
+C,"It's a birthday present, tomorrow.",Problem Investigation,Positive,0.62,2,0,0,0,0,0,0,0,0
+C,"Listen y'all, I paid for expedited shipping but i'm not receiving the item for three days already.",Problem Investigation,Negative,0.34,2,0,0,0,0,0,0,0,0
+C,I need someone who can help explain this to me!,Problem Investigation,Negative,0.23,2,0,0,0,0,0,0,0,0
+A,I understand your.,Problem Investigation,Positive,0.57,2,0,0,0,0,0,0,0,0
+C,You know what's funny?,Problem Investigation,Negative,0.18,2,0,0,0,0,0,0,0,0
+C,It was tracked as delivered yesterday.,Problem Investigation,Neutral,0.65,2,0,0,0,0,0,0,0,0
+C,I looked everywhere in the house.,Problem Investigation,Neutral,0.48,2,0,0,0,0,0,0,0,0
+C,It's nowhere to be found.,Problem Investigation,Neutral,0.49,2,0,0,0,0,0,0,0,0
+C,I don't know what y'all are doing.,Problem Investigation,Negative,0.39,2,0,0,0,0,0,0,0,0
+C,What I'm certain is-this is a scam.,Problem Investigation,Neutral,0.3,2,0,0,0,0,0,0,0,0
+C,"If you can't handle this, let me just talk with the supervisor.",Problem Investigation,Positive,0.64,2,0,0,0,0,0,0,0,0
+A,I am really sorry to hear if you haven't received your item for a special event.,Problem Investigation,Positive,0.76,2,0,0,0,0,0,0,0,0
+A,Also if it was tracked as delivered although not yet received.,Problem Investigation,Neutral,0.35,2,0,0,0,0,0,0,0,0
+A,I do understand your frustration right now for this inconvenience but no worries.,Problem Investigation,Positive,0.83,2,0,0,0,0,0,0,0,0
+A,Rest assured that this company isn't a scam and I can definitely help you.,Problem Investigation,Positive,0.72,2,0,0,0,0,0,0,0,0
+C,Okay let's see.,Problem Investigation,Positive,0.72,2,0,0,0,0,0,0,0,0
+A,"Alright, For security purposes can I have your complete name please?",Problem Investigation,Positive,0.84,1,0,0,0,1,1,0,0,0
+C,It's Athena Salmnher.,Problem Investigation,Positive,0.78,0,0,1,0,0,0,0,0,0
+A,Thank you.,Problem Investigation,Positive,0.59,2,0,0,0,0,0,0,0,0
+A,Can I also have the email address associated with your account?,Account Verification,Positive,0.78,1,0,0,0,1,1,0,0,0
+C,It's athena561@yahoo.com.,Problem Investigation,Positive,0.79,1,0,0,0,0,0,0,0,0
+A,Okay thank you.,Problem Investigation,Positive,0.72,2,0,0,0,0,0,0,0,0
+A,How about the last four digits of the order number?,Account Verification,Neutral,0.78,2,0,0,0,1,0,0,0,0
+C,Okay i think it's 2341.,Problem Investigation,Neutral,0.74,2,0,0,0,0,0,0,0,0
+A,"Got it, so those were man sneaker shoes and an iPhone.",Problem Investigation,Positive,0.59,2,0,0,0,0,0,0,0,0
+A,"One second, let me check the details for a while.",Problem Investigation,Neutral,0.65,2,0,0,0,0,0,0,0,0
+A,"Based on the information, here it was delivered and received.",Problem Investigation,Neutral,0.41,2,0,0,0,0,0,0,0,0
+A,To verify could you tell me the shipping address you wanted to ship the parcel?,Problem Investigation,Neutral,0.75,2,0,0,0,1,1,0,0,0
+C,Oh you're wasting my time!,Problem Investigation,Negative,0.36,2,0,0,0,0,0,0,0,0
+C,"It's in Wilmington, North Carolina.",Problem Investigation,Positive,0.67,2,0,0,0,0,0,0,0,0
+A,"Hmm, based on the record here, it seems that the parcel was delivered to the wrong address.",Problem Investigation,Neutral,0.51,2,0,0,0,0,0,0,0,0
+C,Wow! This is terrible.,Problem Investigation,Negative,0.46,2,0,0,0,0,0,0,0,0
+C,I have to request for a refund away to be processed.,Problem Investigation,Negative,0.33,2,0,0,0,0,0,0,0,0
+C,The worst part is they have to reorder and expedite it without assurance of having the item tomorrow.,Problem Investigation,Neutral,0.44,2,0,0,0,0,0,0,0,0
+C,Horrible!,Problem Investigation,Neutral,0.35,2,0,0,0,0,0,0,0,0
+A,"Oh, I understand where you're coming from Athena.",Problem Investigation,Positive,0.7,2,0,0,0,0,0,0,0,0
+A,"To compensate, I can process a replacement and expedite in the same day shipping.",Problem Investigation,Positive,0.54,2,0,0,0,0,0,0,0,0
+A,You don't have to pay for the shipment.,Problem Investigation,Negative,0.36,2,0,0,0,0,0,0,0,0
+A,You just have to wait.,Problem Investigation,Negative,0.45,2,0,0,0,0,0,0,0,0
+A,I'll get back to you and notify you once the package shipped out.,Problem Investigation,Positive,0.7,2,0,0,0,0,0,0,0,0
+A,I'll be tracking the package and I will check with the carrier just to make sure that it will be delivered in the correct address and within a day.,Problem Investigation,Neutral,0.53,2,0,0,0,0,0,0,0,0
+A,Would that work for you?;,Problem Investigation,Positive,0.8,2,0,0,0,0,0,0,0,0
+C,Oh that's very kind of you.,Problem Investigation,Positive,0.83,2,0,0,0,0,0,0,0,0
+C,I really appreciate it.,Problem Investigation,Positive,0.72,2,0,0,0,0,0,0,0,0
+A,No problem.,Problem Investigation,Positive,0.51,2,0,0,0,0,0,0,0,0
+A,I've successfully processed a replacement and sent you the confirmation regarding this call as your reference.,Problem Investigation,Positive,0.66,2,0,0,0,0,0,0,0,0
+A,Expect to receive the products within a day.,Problem Investigation,Positive,0.53,2,0,0,0,0,0,0,0,0
+C,Oh my gosh.,Problem Investigation,Neutral,0.57,2,0,0,0,0,0,0,0,0
+C,"Wow, you're amazing!",Problem Investigation,Positive,0.74,2,0,0,0,0,0,0,0,0
+C,I really apologise for what I said earlier.,Problem Investigation,Positive,0.75,2,0,0,0,0,0,0,0,0
+A,"It's okay, I understand I would feel the same way if I am in your situation.",Problem Investigation,Positive,0.73,2,0,0,0,0,0,0,0,0
+A,Thank you for your patience by the way.,Problem Investigation,Positive,0.82,2,0,0,0,0,0,0,0,0
+A,Anything else that I can help?,Problem Investigation,Positive,0.77,2,0,0,1,0,0,0,0,0
+C,No No No you're doing great.,Problem Investigation,Positive,0.79,2,0,0,0,0,0,0,0,0
+C,Everything is fine right now.,Problem Investigation,Positive,0.54,2,0,0,0,0,0,0,0,0
+A,That's good to hear.,Problem Investigation,Positive,0.75,2,0,0,0,0,0,0,0,0
+A,I'm glad to help you.,Closure,Positive,0.78,2,0,0,0,0,0,0,0,0
+A,"For other concerns, feel free to visit our help pages.",Closure,Positive,0.81,2,0,0,0,0,0,0,0,0
+A,Thank you for calling JP  International.,Closure,Positive,0.8,3,1,0,0,0,0,0,0,0
+A,Have a nice day.,Closure,Positive,0.82,3,0,0,0,0,0,0,0,0
+C,You as well.,Closure,Positive,0.76,3,0,0,0,0,0,0,0,0
+C,Thank you so much.,Closure,Positive,0.67,3,0,0,0,0,0,0,0,0
+C,Goodbye.,Closure,Positive,0.72,3,0,0,0,0,0,0,0,0
+A,Goodbye.,Closure,Positive,0.72,3,0,0,0,0,0,0,0,0
+A,Hi.,Greetings,Neutral,0.39,0,0,0,0,0,0,0,0,0
+A,Thank you for calling home supplies.,Closure,Positive,0.78,2,0,0,0,0,0,0,0,0
+A,This is Candice.,Greetings,Positive,0.82,0,0,1,0,0,0,0,0,0
+A,How may I help you?,Greetings,Positive,0.78,2,0,0,1,0,0,0,0,0
+C,Order number 123456.,Account Verification,Positive,0.67,1,0,0,0,0,0,0,0,0
+C,Full name Amber Hill.,Account Verification,Positive,0.69,1,0,0,0,0,0,0,0,0
+A,Thank You.,Problem Investigation,Positive,0.59,2,0,0,0,0,0,0,0,0
+A,Give me one moment please so I can pull up your account.,Problem Investigation,Neutral,0.65,2,0,0,0,0,0,0,0,0
+A,"Okay, I got your order here and it was for a convection oven for 129.",Problem Investigation,Positive,0.72,2,0,0,0,0,0,0,0,0
+A,Is this correct?,Problem Investigation,Neutral,0.65,2,0,0,0,0,0,0,0,0
+C,"Yes, correct.",Problem Investigation,Positive,0.58,2,0,0,0,0,0,0,0,0
+C,Except that you guys sent me a cutting board,Problem Investigation,Negative,0.51,2,0,0,0,0,0,0,0,0
+A,Oh I am so sorry.,Problem Investigation,Positive,0.73,2,0,0,0,0,0,0,0,0
+A,That was.,Problem Investigation,Neutral,0.66,2,0,0,0,0,0,0,0,0
+C,No no no no no no. ,Problem Investigation,Neutral,0.4,3,0,0,0,0,0,0,0,0
+C,Let me finish.,Problem Investigation,Neutral,0.43,2,0,0,0,0,0,0,0,0
+C,"Don't give me your story for this inconvenience bullshit, because this is not an inconvenience Candice.",Problem Investigation,Neutral,0.6,2,0,0,0,0,0,0,0,0
+C,This is a disaster.,Problem Investigation,Negative,0.29,2,0,0,0,0,0,0,0,0
+C,I am upset.,Problem Investigation,Negative,0.21,2,0,0,0,0,0,0,0,0
+C,I waited one long week.,Problem Investigation,Negative,0.41,2,0,0,0,0,0,0,0,0
+C,One long week and you guys sent me a cutting board.,Problem Investigation,Negative,0.43,2,0,0,0,0,0,0,0,0
+C,"I mean, how would you even explain that Candice?",Problem Investigation,Neutral,0.44,2,0,0,0,0,0,0,0,0
+C,How could you even explain that someone from your shipping department could mistake a piece of cutting board for an oven?,Problem Investigation,Neutral,0.36,2,0,0,0,0,0,1,0,0
+C,That's what i'd like to know because I can see how it's my son's birthday this Thursday and I need that oven to bake his cake.,Problem Investigation,Neutral,0.46,2,0,0,0,0,0,0,0,0
+C,It is now Monday and I have no oven but hey I guess that's okay right because I have a fucking cutting board.,Problem Investigation,Neutral,0.6,2,0,0,0,0,0,0,0,0
+A,"Amber, I truly understand how frustrating this is for you.",Problem Investigation,Positive,0.77,2,0,0,0,0,0,0,0,0
+A,"I truly do, I do.",Problem Investigation,Neutral,0.47,3,0,0,0,0,0,0,0,0
+A,I know that our shipping department tries to their best to keep the orders as accurate as possible but on very rare occasions this kind of mistake happens from time to time.,Problem Investigation,Neutral,0.4,2,0,0,0,0,0,0,0,0
+A,And I am so sorry that this happened to you.,Problem Investigation,Positive,0.6,2,0,0,0,0,0,0,0,0
+A,"Of course, this is not an excuse and a mistake is a mistake.",Problem Investigation,Neutral,0.39,2,0,0,0,0,0,0,0,0
+A,"And right now, what I can do is to help you resolve this issue.",Problem Investigation,Positive,0.54,2,0,0,0,0,0,0,0,0
+C,"Well, they shouldn't have done that to me.",Problem Investigation,Negative,0.25,2,0,0,0,0,0,0,0,0
+C,It's for my son's birthday and a cutting board for an oven?,Problem Investigation,Neutral,0.57,2,0,0,0,0,0,0,0,0
+C,"I mean, I mean I can understand if you sent me an oven with the wrong model number but a cutting board?",Problem Investigation,Neutral,0.37,2,0,0,0,0,0,1,0,0
+C,"Seriously, I don't know about you but this smells like a practical joke to me.",Problem Investigation,Positive,0.58,2,0,0,0,0,0,0,0,0
+A,I assure you amber what happened was an honest mistake.,Problem Investigation,Positive,0.51,2,0,0,0,0,0,0,0,0
+A,We would never do that to our customers on purpose.,Problem Investigation,Neutral,0.3,2,0,0,0,0,0,0,0,0
+A,"Of course, you really should have received precisely what you ordered and we failed on that and for that I am truly sorry.",Problem Investigation,Positive,0.68,2,0,0,0,0,0,0,0,0
+A,The best thing that i can do for you now is to make sure that this gets resolved as soon as possible.,Problem Investigation,Positive,0.68,2,0,0,0,0,0,0,0,0
+C,"Well. I don't really have a choice, do I?",Problem Investigation,Neutral,0.31,2,0,0,0,0,0,0,0,0
+C,So get on with it.,Problem Investigation,Negative,0.5,2,0,0,0,0,0,0,0,0
+A,"Okay so if i heard you right, your son's birthday is this coming Thursday right?",Problem Investigation,Neutral,0.63,2,0,0,0,0,0,0,0,0
+C,"Yes, that's right.",Problem Investigation,Positive,0.69,2,0,0,0,0,0,0,0,0
+A,Alright here's what I'm gonna do.,Problem Investigation,Neutral,0.48,2,0,0,0,0,0,0,0,0
+A,"Because you received the wrong item, I will request to have the correct item sent out to you within 24 business hours.",Problem Investigation,Neutral,0.45,2,0,0,0,0,0,0,0,0
+A,"So if we send it to you today, you should receive the oven before your son's birthday on Thursday.",Problem Investigation,Positive,0.71,2,0,0,0,0,0,0,0,0
+A,All I need from you to make that happen is the photo of the wrong item you received along with a photo of the barcode.,Problem Investigation,Positive,0.58,2,0,0,0,0,0,0,0,0
+A,Is it possible that you could send to me while we're on the line so I could already process the reshipment for you?,Problem Investigation,Neutral,0.65,2,0,0,0,0,0,1,0,0
+C,I can send you the photo but um let me ask you this.,Problem Investigation,Neutral,0.68,2,0,0,0,0,0,0,0,0
+C,What guarantee do I have that your company is not gonna mess up again?,Problem Investigation,Neutral,0.28,2,0,0,0,0,0,0,0,0
+C,Because my purpose really for calling you guys is to just get a refund.,Problem Investigation,Negative,0.38,2,0,0,0,0,0,0,0,0
+C,I really just want to order from amazon because they have a one-day shipping.,Problem Investigation,Negative,0.41,2,0,0,0,0,0,0,0,0
+C,"Uh no offence Candice, but because of what you sent to me, I'm just not confident enough with your company anymore.",Problem Investigation,Positive,0.67,2,0,0,0,0,0,0,0,0
+A,Good point Amber and I understand your doubt.,Problem Investigation,Positive,0.79,2,0,0,0,0,0,0,0,0
+A,"But, when we encounter this kind of issue where a customer receives a damaged item or as in your case a wrong item, we always make sure to handle the matter with extra care so there will be no second mistake.",Problem Investigation,Neutral,0.54,2,0,0,0,0,0,0,0,0
+A,No chance for a second mistake happening.,Problem Investigation,Neutral,0.49,2,0,0,0,0,0,0,0,0
+A,"So, that is why aside from the 24 hour shipping, we will also do a thorough recheck of the reshipment.",Problem Investigation,Positive,0.6,2,0,0,0,0,0,0,0,0
+A,"So, I can definitely assure you that it's going to be the correct item this time.",Problem Investigation,Positive,0.52,2,0,0,0,0,0,0,0,0
+C,Well okay.,Problem Investigation,Neutral,0.6,2,0,0,0,0,0,0,0,0
+C,I guess I'm just gonna have to give you another shot.,Problem Investigation,Negative,0.57,2,0,0,0,0,0,0,0,0
+C,So where do I send the photos to?,Problem Investigation,Neutral,0.6,2,0,0,0,0,0,0,0,0
+A,You can send it to support@homesupplies.com.,Problem Investigation,Positive,0.78,2,0,0,0,0,0,0,0,0
+C,"Okay hold on, let me go get my phone because I already took a photo of the cutting board yesterday so I should have it on my phone right here.",Problem Investigation,Neutral,0.75,2,0,0,0,0,0,0,0,0
+C,Hold on.,Problem Investigation,Neutral,0.45,2,0,0,0,0,0,0,0,0
+C,"Okay, uh so that's support@homesupplies.com.",Problem Investigation,Positive,0.78,2,0,0,0,0,0,0,0,0
+C,Okay sent.,Problem Investigation,Positive,0.52,2,0,0,0,0,0,0,0,0
+C,Can you see it?,Problem Investigation,Neutral,0.46,2,0,0,0,0,0,1,0,0
+A,"Okay, let me check.",Problem Investigation,Neutral,0.53,2,0,0,0,0,0,0,0,0
+A,"Okay yes, I got it.",Problem Investigation,Positive,0.68,2,0,0,0,0,0,0,0,0
+A,"Um, by the way Amber, do you also have the photo of the barcode of the cutting board?",Problem Investigation,Positive,0.84,2,0,0,0,0,0,0,0,0
+C,Is that really necessary?,Problem Investigation,Neutral,0.5,2,0,0,0,0,0,0,0,0
+C,I'm not lying.,Problem Investigation,Negative,0.53,2,0,0,0,0,0,0,0,0
+A,"Yes Amber, I would need it to have your reshipment approved as soon as possible.",Problem Investigation,Positive,0.71,2,0,0,0,0,0,0,0,0
+A,"After that, we will ship the oven to you immediately and you should receive it within 24 hours.",Problem Investigation,Positive,0.63,2,0,0,0,0,0,1,0,0
+C,Okay let me go upstairs and take a photo.,Problem Investigation,Positive,0.83,2,0,0,0,0,0,0,0,0
+C,Can you hold?,Problem Investigation,Neutral,0.57,2,0,0,0,0,0,0,0,0
+A,"Sure, take your time.",Problem Investigation,Positive,0.74,2,0,0,0,0,0,0,0,0
+C,"Hello, are you there?",Problem Investigation,Neutral,0.46,0,0,0,0,0,0,0,0,0
+C,"Yes Amber, I'm here.",Problem Investigation,Positive,0.66,2,0,0,0,0,0,0,0,0
+C,I've sent it,Problem Investigation,Positive,0.48,2,0,0,0,0,0,0,0,0
+C,Did you get it? ,Problem Investigation,Neutral,0.57,2,0,0,0,0,0,0,0,0
+A,Yes i got it.,Problem Investigation,Positive,0.67,2,0,0,0,0,0,0,0,0
+A,"Um so now, I will forward the photos to the reshipment team and you should receive the oven tomorrow.",Problem Investigation,Positive,0.78,2,0,0,0,0,0,0,0,0
+A,"About the cutting board you received, you don't have to return it.",Problem Investigation,Neutral,0.41,2,0,0,0,0,0,0,0,0
+A,Um just feel free to keep it keep it or give it away.,Problem Investigation,Neutral,0.8,2,0,0,0,0,0,0,0,0
+C,"Oh good, I totally forgot to ask you about that.",Problem Investigation,Positive,0.82,2,0,0,0,0,0,0,0,0
+C,So thank you Candice.,Problem Investigation,Positive,0.83,1,0,0,0,0,0,0,0,0
+C,I really don't want to drive to the post just to return that.,Problem Investigation,Negative,0.3,2,0,0,0,0,0,0,0,0
+C,"So alright, um I guess it's all good then.",Problem Investigation,Positive,0.77,2,0,0,0,0,0,0,0,0
+C,All settled.,Problem Investigation,Positive,0.54,2,0,0,0,0,0,0,0,0
+A,"Yeah, yes all you have to do now is to wait for the replacement to arrive tomorrow.",Problem Investigation,Neutral,0.76,2,0,0,0,0,0,0,0,0
+A,And we will take care of everything and again we are so sorry for this mistake.,Problem Investigation,Positive,0.71,2,0,0,0,0,0,0,0,0
+C,"Well. As long as the oven arrives tomorrow, I am happy.",Problem Investigation,Positive,0.46,2,0,0,0,0,0,0,0,0
+C,Thank you Candice.,Problem Investigation,Positive,0.83,1,0,0,0,0,0,0,0,0
+C,You've been very patient.,Problem Investigation,Positive,0.61,3,0,0,0,0,0,0,0,0
+A,You're most welcome Amber.,Closure,Positive,0.8,3,0,0,0,0,0,0,0,0
+A,Is there anything else that I can help you with today?,Problem Investigation,Positive,0.78,2,0,0,1,0,0,0,0,0
+C,No that's all.,Problem Investigation,Positive,0.71,3,0,0,0,0,0,0,0,0
+C,You have a great day Candice.,Closure,Positive,0.84,3,0,0,0,0,0,0,0,0
+A,"Bye, have a great day Amber.",Closure,Positive,0.86,3,0,0,0,0,0,0,0,0
+A,Thank you for calling home supplies.,Closure,Positive,0.78,2,0,0,0,0,0,0,0,0
+C,Bye.,Closure,Neutral,0.65,3,0,0,0,0,0,0,0,0
+A,Hi.,Greetings,Neutral,0.39,0,0,0,0,0,0,0,0,0
+A,Thank you for calling Power Up company.,Problem Investigation,Positive,0.79,2,0,0,0,0,0,0,0,0
+A,This is Candice.,Greetings,Positive,0.82,0,0,1,0,0,0,0,0,0
+A,How may I help you?,Greetings,Positive,0.78,2,0,0,1,0,0,0,0,0
+C,Hi Candice.,Greetings,Positive,0.74,0,0,0,0,0,0,0,0,0
+C,So I'm calling because you guys overcharged me.,Problem Investigation,Negative,0.36,2,0,0,0,0,0,0,0,0
+C,"Um my subscription to you guys is supposed to be a flat rate 30 dollar per month but for some reason, I am seeing 33 on my paper bill for the month of July so I don't know what's going on.",Problem Investigation,Negative,0.46,2,0,0,0,0,0,0,0,0
+C,I would really appreciate an explanation on this.,Problem Investigation,Positive,0.8,2,0,0,0,0,0,0,0,0
+A,"Sure, I'll be happy to pull up your account now and check the billing details for you.",Problem Investigation,Positive,0.81,2,0,0,0,0,0,0,0,0
+A,Can I have your account number together with your first and last name?,Account Verification,Positive,0.8,1,0,0,0,1,1,0,0,0
+C,"Sure, it's 12345 and my full name is John Williams.",Problem Investigation,Positive,0.82,1,0,0,0,0,0,0,0,0
+A,Thank you John.,Problem Investigation,Positive,0.82,1,0,0,0,0,0,0,0,0
+A,Just give me a few seconds to pull up your account.,Problem Investigation,Neutral,0.42,2,0,0,0,0,0,0,0,0
+A,"It was for the month of July this year, right?",Problem Investigation,Neutral,0.62,2,0,0,0,0,0,0,0,0
+C,July 2020.,Problem Investigation,Positive,0.33,1,0,0,0,0,0,0,0,0
+C,That's right.,Problem Investigation,Positive,0.59,2,0,0,0,0,0,0,0,0
+A,Okay let me see that.,Problem Investigation,Positive,0.72,2,0,0,0,0,0,0,0,0
+A,"Okay, I have your account pulled up now and I'm only seeing a 30 charge for the month of July this year.",Problem Investigation,Positive,0.51,2,0,0,0,0,0,0,0,0
+A,Could you recheck your bill and review the amount?,Problem Investigation,Neutral,0.56,2,0,0,0,1,1,0,0,0
+C,"No, that can't be right.",Problem Investigation,Neutral,0.56,2,0,0,0,0,0,0,0,0
+C,I am literally holding my bill right now and it says July.,Problem Investigation,Neutral,0.39,2,0,0,0,0,0,0,0,0
+C,And it says 33 dollars in big bold letters.,Problem Investigation,Neutral,0.53,2,0,0,0,0,0,0,0,0
+C,"So, maybe the charge was moved to June or August.",Problem Investigation,Neutral,0.67,2,0,0,0,0,0,0,0,0
+C,I don't know.,Problem Investigation,Neutral,0.46,2,0,0,0,0,0,0,0,0
+C,All I know is that you're overcharging me and it's written on my paper bill.,Problem Investigation,Negative,0.28,2,0,0,0,0,0,0,0,0
+A,Yes John.,Problem Investigation,Positive,0.73,2,0,0,0,0,0,0,0,0
+A,"I also checked your other month's charges this year from January to July 2020 and all of these months, you were only charged 30.",Problem Investigation,Neutral,0.62,2,0,0,0,0,0,0,0,0
+A,Let me just check further though your last year.,Problem Investigation,Positive,0.72,2,0,0,0,0,0,0,0,0
+A,"Oh, although I am seeing a 33 dollar charge here but this was way back last year on July 2019.",Problem Investigation,Neutral,0.64,2,0,0,0,0,0,0,0,0
+A,Would you mind checking the year of the billing paper you're holding right now?,Problem Investigation,Positive,0.69,2,0,0,0,1,0,0,0,0
+C,"Oh, Oh my god Candice.",Problem Investigation,Neutral,0.7,2,0,0,0,0,0,0,0,0
+C,I'm so so sorry to have wasted your time.,Problem Investigation,Positive,0.77,2,0,0,0,0,0,0,0,0
+C,I really thought this was a recent bill.,Problem Investigation,Negative,0.43,2,0,0,0,0,0,0,0,0
+A,"No, don't worry about it John.",Problem Investigation,Positive,0.75,2,0,0,0,0,0,0,0,0
+A,You're fine.,Problem Investigation,Positive,0.51,2,0,0,0,0,0,0,0,0
+C,This bill was literally on my table this morning.,Problem Investigation,Negative,0.4,2,0,0,0,0,0,0,0,0
+C,I must have dropped it when I was throwing garbage this morning.,Problem Investigation,Negative,0.56,2,0,0,0,0,0,0,0,0
+C,So embarrassing.,Problem Investigation,Negative,0.37,2,0,0,0,0,0,0,0,0
+C,My bad.,Problem Investigation,Negative,0.38,2,0,0,0,0,0,0,0,0
+A,"Oh no problem, It happens.",Problem Investigation,Neutral,0.63,2,0,0,0,0,0,0,0,0
+A,I mean it happens to all of us you know.,Problem Investigation,Neutral,0.31,2,0,0,0,0,0,0,0,0
+C,I know right.,Problem Investigation,Neutral,0.45,2,0,0,0,0,0,0,0,0
+C,"Anyway Candice, I won't waste any more of your time and thank you so much for your patience.",Problem Investigation,Positive,0.77,2,0,0,0,0,0,0,0,0
+A,You're welcome John.,Closure,Positive,0.82,3,0,0,0,0,0,0,0,0
+A,Is there anything else that I can help you with today?,Problem Investigation,Positive,0.78,2,0,0,1,0,0,0,0,0
+C,Maybe no.,Problem Investigation,Neutral,0.54,2,0,0,0,0,0,0,0,0
+C,I won't waste any more of your time.,Problem Investigation,Neutral,0.48,2,0,0,0,0,0,0,0,0
+C,That's all Candice.,Problem Investigation,Positive,0.71,2,0,0,0,0,0,0,0,0
+C,Have a good one.,Problem Investigation,Positive,0.74,2,0,0,0,0,0,0,0,0
+A,Have a good one John.,Problem Investigation,Positive,0.76,2,0,0,0,0,0,0,0,0
+A,Thank you for calling Power Up.,Problem Investigation,Positive,0.77,2,0,0,0,0,0,0,0,0
+A,Bye.,Closure,Neutral,0.65,3,0,0,0,0,0,0,0,0
+C,Bye Candice.,Closure,Positive,0.83,3,0,0,0,0,0,0,0,0
+A,Thank you for calling Coats and Gowns.,Closure,Positive,0.74,3,1,0,0,0,0,0,0,0
+A,My name is Sam.,Greetings,Positive,0.76,0,0,1,0,0,0,0,0,0
+A,How can I help you?,Greetings,Positive,0.78,0,0,0,1,0,0,0,0,0
+C,Oh yes.,Problem Investigation,Neutral,0.62,2,0,0,0,0,0,0,0,0
+C,"Um, I bought a coat from from you guys but I need to return it because it was the wrong size and my size is not available.",Problem Investigation,Negative,0.56,2,0,0,0,0,0,0,0,0
+C,I haven't received any email from you and I wonder if my payment is gonna get refunded.,Problem Investigation,Neutral,0.38,2,0,0,0,0,0,0,0,0
+C,It seems like it does not reflect on my account yet.,Problem Investigation,Neutral,0.27,2,0,0,0,0,0,0,0,0
+A,I do apologize for the inconvenience but let me go ahead and check if there are some notes and order details.,Problem Investigation,Positive,0.85,2,0,0,0,0,0,0,0,0
+A,May I ask for the original online order number?,Account Verification,Neutral,0.6,2,0,0,0,1,1,0,0,0
+C,"Okay, let me see.",Problem Investigation,Neutral,0.62,2,0,0,0,0,0,0,0,0
+C,"Alright, Please wait for a moment.",Problem Investigation,Neutral,0.68,2,0,0,0,0,0,0,0,0
+C,"Okay, I believe it's 01714257893.",Account Verification,Positive,0.75,1,0,0,0,0,0,0,0,0
+A,Thank you.,Problem Investigation,Positive,0.59,2,0,0,0,0,0,0,0,0
+A,"Just to verify, that's 01714257893.",Problem Investigation,Positive,0.72,1,0,0,0,0,0,0,0,0
+C,"Yes, that's right.",Problem Investigation,Positive,0.69,2,0,0,0,0,0,0,0,0
+A,I do apologize but the one that you provided is actually not accepting towards our database.,Problem Investigation,Neutral,0.66,2,0,0,0,0,0,0,0,0
+A,Do you actually have a number that starts with triple 0 7 or 7?,Problem Investigation,Neutral,0.74,2,0,0,0,0,0,1,0,0
+A,"Or, can I ask for your first and last name so I can manually check it in our database?",Problem Investigation,Neutral,0.79,2,0,0,0,1,1,0,0,0
+C,Yeah. I'm not sure about a triple 0 something.,Problem Investigation,Negative,0.69,2,0,0,0,0,0,0,0,0
+C,"In a way, it's Adam Wilson.",Problem Investigation,Neutral,0.73,2,0,0,0,0,0,0,0,0
+A,"Alright, thank you so much Wilson.",Problem Investigation,Positive,0.8,2,0,0,0,0,0,0,0,0
+A,"This is spelled as W for whiskey, I for India, L for Lima, S for Sierra, O for Oscar, and N for November.",Problem Investigation,Positive,0.62,2,0,0,0,0,0,0,0,0
+A,Is that correct Adam? ,Problem Investigation,Neutral,0.61,2,0,0,0,0,0,1,0,0
+C,"Alright, thank you for that information.",Problem Investigation,Positive,0.81,2,0,0,0,0,0,0,0,0
+A,"Okay, let me just quickly look into a portal and check any notes in your order.",Problem Investigation,Positive,0.8,2,0,0,0,0,0,0,0,0
+A,Do you still have the return tracking from the courier company when you returned the item?,Problem Investigation,Neutral,0.65,2,0,0,0,0,0,1,0,0
+C,Not sure.,Problem Investigation,Neutral,0.58,2,0,0,0,0,0,0,0,0
+C,Is it the 74391?,Account Verification,Neutral,0.58,1,0,0,0,0,0,0,0,0
+A,That's actually the return authorization from Coats and Gowns.,Problem Investigation,Neutral,0.33,2,0,0,0,0,0,0,0,0
+A,"When you returned the item to the courier company for shipping, this should have provided you with the return tracking.",Problem Investigation,Positive,0.74,2,0,0,0,0,0,1,0,0
+A,Do you still have that?,Problem Investigation,Neutral,0.7,2,0,0,0,0,0,0,0,0
+A,It's actually printed in the upper right part of the receipt.,Problem Investigation,Neutral,0.63,2,0,0,0,0,0,0,0,0
+C,"Okay, I probably have to take it up okay.",Problem Investigation,Neutral,0.65,2,0,0,0,0,0,0,0,0
+C,I imagine I have it somewhere but it might take some time to look for that.,Problem Investigation,Neutral,0.66,2,0,0,0,0,0,0,0,0
+A,"Oh, I see.",Problem Investigation,Neutral,0.58,2,0,0,0,0,0,0,0,0
+A,"Anyway, I tried to search for your name and nothing is coming up.",Problem Investigation,Neutral,0.52,2,0,0,0,0,0,0,0,0
+A,Can I ask for the order under your name originally?,Problem Investigation,Neutral,0.77,2,0,0,0,1,0,0,0,0
+C,Yeah yes under my name.,Problem Investigation,Positive,0.71,2,0,0,0,0,0,0,0,0
+C,So it's not under Andy or something.,Problem Investigation,Neutral,0.59,2,0,0,0,0,0,0,0,0
+A,It's Adam.,Problem Investigation,Neutral,0.53,0,0,0,0,0,0,0,0,0
+C,Yeah exactly.,Problem Investigation,Neutral,0.61,2,0,0,0,0,0,0,0,0
+A,Thank you.,Problem Investigation,Positive,0.59,2,0,0,0,0,0,0,0,0
+A,Now what's the phone number that you put into order before?,Problem Investigation,Neutral,0.63,2,0,0,0,0,0,0,0,0
+C,Okay probably it's 4113450377.,Problem Investigation,Positive,0.81,1,0,0,0,0,0,0,0,0

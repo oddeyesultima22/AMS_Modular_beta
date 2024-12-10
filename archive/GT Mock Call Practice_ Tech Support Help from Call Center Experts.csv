@@ -1,0 +1,113 @@
+Start Time,End Time,Speaker,Text
+,,,
+0,6.4,Customer," Tech support help from call center experts, solving your tech problem scene one, troubleshooting hardware issue."
+,,,
+6.4,11.68,Agent, Thank you for calling single step digital. My name is Kimberly. How may I assist you?
+,,,
+11.68,18.12,Customer," Hi, I'm having trouble with my internet connection. It keeps dropping out and it's driving me crazy."
+,,,
+18.12,22.24,Agent, I'm so sorry to hear that. Let's see if we can troubleshoot the issue.
+,,,
+22.24,26.16,Agent," First, can you tell me what kind of modem or router you have?"
+,,,
+26.32,29.68,Customer, It's a net enforcer. Hold on. Let me check the number.
+,,,
+30.8,32.96,Customer, It's TD 2800.
+,,,
+32.96,38.32,Agent," Okay, Model TD 2800. Let's start by resetting the modem."
+,,,
+38.32,44.56,Agent," Can you unplug it from the power source and wait for 30 seconds, then plug it back in and turn it on?"
+,,,
+44.56,48.88,Customer," Yes, I've already done that several times and it hasn't helped."
+,,,
+48.88,52.96,Agent, I understand how frustrating this can be. Let's try something else.
+,,,
+52.96,60.32,Agent, Can you try connecting your computer directly to the modem with an ethernet cable and see if you're able to get a stable internet connection that way?
+,,,
+61.12,64.48,Customer," Okay, I'll try that, but it was plugged in before."
+,,,
+65.28,68.56,Agent," Oh, I see. Well, let's give it a try and see what happens."
+,,,
+69.68,72.88,Customer, It's actually working now. I can't believe it.
+,,,
+72.88,76.48,Agent, I'm glad to hear that. Do you want to try to access a website just to make sure?
+,,,
+77.44,79.92,Customer," Yeah, that's a good idea. Hold on."
+,,,
+80.88,83.04,Customer, Looking good. Yup. It works fine.
+,,,
+83.68,86.08,Agent, Great. Is there anything else I can assist you with?
+,,,
+86.8,91.6,Customer," No, that's all. I'm so glad we got that resolved. Thanks for your help."
+,,,
+91.6,95.04,Agent, My pleasure. Thank you for calling single step digital. Goodbye.
+,,,
+95.76,101.12,Customer, Scene two. Thank you for calling single step digital. My name is Ryan. How may I assist you?
+,,,
+101.92,107.36,Customer, Hi there. I'm having trouble with my computer. It keeps freezing up and I can't get anything done.
+,,,
+108.24,111.6,Customer, I'm very sorry to hear that. Let's see if we can troubleshoot the issue.
+,,,
+112.48,114.4,Customer, Could you tell me which version of Windows you're using?
+,,,
+115.04,116.48,Customer, It's Windows 10.
+,,,
+116.48,124.08,Customer, All right. Let's try running a system file checker to see if there are any corrupted files that need to be repaired. Can you open the command prompt as an administrator?
+,,,
+125.12,126.88,Customer," No, I don't know how to do that."
+,,,
+127.76,130.32,Customer, That's okay. I can guide you through the steps.
+,,,
+131.2,134.8,Customer," First, type command prompt into the search bar in the bottom left corner of your screen."
+,,,
+135.52,137.52,Customer, Right click on it and select run as administrator.
+,,,
+138.32,140.16,Customer, All right. I seem to have done that.
+,,,
+141.12,147.92,Customer," Now, type sfc slash scan now and press enter. This will scan your system files and repair any corrupted files that it finds."
+,,,
+148.88,152.24,Customer, How long is this going to take? I have a lot of work to do.
+,,,
+153.28,158.64,Customer, It shouldn't take too long. It depends on the size of your hard drive and the number of files that need to be scanned.
+,,,
+159.68,165.2,Customer," Hey, it's actually working now. That was fast. Thank you so much for your help."
+,,,
+166.24,169.28,Customer, You're welcome. Is there anything else I can help you with today?
+,,,
+170.16,172.96,Customer," No, that's all. Thanks again."
+,,,
+172.96,174.8,Customer, You're very welcome. Goodbye.
+,,,
+175.6,176.56,Customer, Scene three.
+,,,
+176.56,181.28,Customer, Thank you for calling single step digital. My name is Stephanie. How may I assist you?
+,,,
+181.28,185.76,Customer," Hi, my printer is acting up again. I've tried everything I can think of and I'm about ready to"
+,,,
+185.76,195.44,Customer, throw it out the window. I'm so sorry to hear that. Please don't throw it out the window. Let's see if we can troubleshoot the issue. Could you please tell me what kind of printer you have?
+,,,
+196.32,198.88,Customer, It's a cannon pixelator CW 4000.
+,,,
+199.52,204.08,Customer, All right. Let's start by checking the ink levels. Can you go to your printer settings and see
+,,,
+204.08,210,Customer, if any of the ink cartridges are low or empty? Yes. I've already checked that. The ink levels are
+,,,
+210,221.04,Customer," fine. That's not the issue. I see. Let's try something else then. Have you tried resetting the printer to its default settings? No, I haven't. How do I do that?"
+,,,
+222.16,231.68,Customer," First, turn off the printer and unplug it from the power source. Then, hold down the power button for 15 seconds. After that, plug the printer back in and turn it on again."
+,,,
+232.8,236.32,Customer, Okay. I'll try that. Let's give it a minute or so.
+,,,
+237.44,244.4,Customer, It's making some noises. That might be a good sign. Okay. Wait. I hear some paper moving.
+,,,
+245.2,248.88,Customer, Yes. Hold on. It's actually printing again. I can't believe it.
+,,,
+249.92,253.36,Customer, I'm so happy to hear that. Is there anything else I can assist you with?
+,,,
+254.08,259.12,Customer, No. That's all. Thank you so much for your help. I really thought my printer had died.
+,,,
+260.08,270.24,Customer, I am so glad we brought your printer back to life. Don't hesitate to reach out to us if you have any further issues in the future. What's your name again? My name is Stephanie.
+,,,
+271.12,277.12,Customer, Okay. Stephanie. Thanks again. You're welcome. Sir. Have a nice day. Goodbye.
+,,,
+278.24,286.16,Customer, Remember to watch our other roleplay videos.

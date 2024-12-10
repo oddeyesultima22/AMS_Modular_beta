@@ -1,0 +1,219 @@
+Person,Text,Category Truth,Quality Truth,Sentiment Truth,Predicted Category,Predicted Quality,Predicted Sentiment
+A,"Hello, Thank you for calling Best Buy.",Greetings,Positive,0.9,Greetings,Positive,0.85
+A,My name is Paul.,Greetings,Positive,0.8,Greetings,Positive,0.82
+A,How can I help you today?,Greetings,Positive,0.8,Greetings,Positive,0.78
+C,"Hi, My name is John.",Greetings,Positive,0.8,Greetings,Positive,0.86
+C,I am having problems with my computer.,Problem Investigation,Negative,0.3,Problem Investigation,Negative,0.24
+A,I am sorry to hear that.,Problem Investigation,Neutral,0.7,Problem Investigation,Positive,0.74
+A,What kind of problems are you having?,Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.59
+C,It won't boot up.,Problem Investigation,Negative,0.3,Problem Investigation,Neutral,0.26
+C,"It will power on, but then I get an error.",Problem Investigation,Neutral,0.5,Problem Investigation,Neutral,0.49
+A,Can you tell me what the error said?,Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.38
+C,It said there is no operating system.,Problem Investigation,Neutral,0.5,Problem Investigation,Neutral,0.43
+C,I see.,Problem Investigation,Neutral,0.5,Problem Investigation,Neutral,0.45
+A,It seems your computer did not come preconfigured with Windows.,Problem Investigation,Neutral,0.7,Problem Investigation,Neutral,0.56
+A,"Before we go further, can we verify your account details?",Account Verification,Neutral,0.7,Account Verification,Neutral,0.72
+C,Sure,Problem Investigation,Neutral,0.7,Problem Investigation,Neutral,0.44
+A,Can you please tell me your account ID?,Account Verification,Positive,0.8,Account Verification,Neutral,0.67
+C,"Yes, my account ID is 30493943",Account Verification,Positive,0.8,Account Verification,Positive,0.78
+A,Thank you sir.,Account Verification,Positive,0.8,Problem Investigation,Positive,0.79
+A,And can you confirm your date of birth?,Account Verification,Neutral,0.7,Account Verification,Neutral,0.67
+C,"It's April 13, 1988.",Account Verification,Neutral,0.7,Account Verification,Neutral,0.66
+C,Thank you again sir.  ,Problem Investigation,Positive,0.8,Problem Investigation,Positive,0.82
+A,I see you purchased the Asus laptop September 1st.,Problem Investigation,Positive,0.8,Problem Investigation,Positive,0.77
+A,This laptop model should have come with windows pre installed,Problem Investigation,Positive,0.8,Problem Investigation,Positive,0.81
+A,Would you be able to come in today for us to install it for you?,Problem Investigation,Positive,0.8,Problem Investigation,Positive,0.82
+C,"Yes, I can come in today",Problem Investigation,Positive,0.8,Problem Investigation,Positive,0.82
+A,Would 3 PM be fine?,Problem Investigation,Positive,0.8,Problem Investigation,Positive,0.84
+C,I will see you at 3,Problem Investigation,Positive,0.8,Problem Investigation,Positive,0.76
+A,Have I resolved all your issues?,Closure,Positive,0.9,Closure,Positive,0.84
+C,"Yes, thank you",Closure,Positive,0.9,Closure,Positive,0.82
+A,You have a wonderful day sir,Closure,Positive,0.9,Closure,Positive,0.83
+A,goodbye,Closure,Positive,0.8,Closure,Positive,0.84
+C,Bye,Closure,Neutral,0.7,Closure,Neutral,0.79
+A,"Hi, this is Michelle from Comcast.",Greetings,Positive,0.8,Greetings,Positive,0.87
+A,How may I help you today?,Problem Investigation,Positive,0.8,Greetings,Positive,0.77
+C,"Hello, my name is Tom.",Greetings,Positive,0.7,Greetings,Positive,0.84
+C,I've been having problems with my cable,Problem Investigation,Negative,0.2,Problem Investigation,Negative,0.26
+A,What seems to be the issue sir?,Problem Investigation,Neutral,0.5,Problem Investigation,Neutral,0.49
+C,My on Demand is not working.,Problem Investigation,Negative,0.2,Problem Investigation,Negative,0.33
+A,Alright sir,Problem Investigation,Neutral,0.5,Problem Investigation,Positive,0.7
+A,We will look into this,Problem Investigation,Neutral,0.5,Problem Investigation,Neutral,0.48
+A,We just have to verify your account,Account Verification,Neutral,0.6,Problem Investigation,Neutral,0.66
+A,Can you provide me with your account number?,Account Verification,Positive,0.7,Account Verification,Positive,0.81
+C,It is 948493584,Account Verification,Positive,0.7,Account Verification,Positive,0.77
+A,"Thank you, and can you provide the full name of the account holder?",Account Verification,Positive,0.8,Account Verification,Positive,0.8
+C,Tom White,Account Verification,Positive,0.7,Account Verification,Positive,0.84
+A,"Thanks.  One last thing, can you verify the account holders date of birth?",Account Verification,Positive,0.8,Account Verification,Positive,0.76
+C,It is 13 April 1988,Account Verification,Neutral,0.6,Account Verification,Neutral,0.62
+A,Thanks sir.  I have your account pulled up.,Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.56
+A,I can see there is no upstream signal coming from your box.,Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.62
+C,What does that mean?,Problem Investigation,Neutral,0.5,Problem Investigation,Neutral,0.47
+A,"It means that while you can watch channels that don't require two way communication, you can't watch content that requires input and output.",Problem Investigation,Neutral,0.4,Problem Investigation,Neutral,0.38
+C,"Oh, so anything where I request a stream?",Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.36
+A,Exactly sir.  Can you turn off the cable box for me?,Problem Investigation,Neutral,0.5,Problem Investigation,Neutral,0.39
+C,"Yes, it is done.",Problem Investigation,Neutral,0.5,Problem Investigation,Neutral,0.57
+A,"Alright sir, just a moment until I see the device go offline",Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.48
+A,"It is now offline, so you can plug it back in.",Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.78
+C,It's booting up,Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.7
+A,"I can see that the device is now back online, and showing a strong signal for upload and download",Problem Investigation,Positive,0.8,Problem Investigation,Positive,0.74
+C,"Yes, on demand is working again",Problem Investigation,Positive,0.8,Problem Investigation,Positive,0.78
+A,Very good.  Have I resolved your problem today sir?,Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.77
+C,"Yes you have, thank you very much",Closure,Positive,0.9,Closure,Positive,0.84
+A,Are there any other issues that you would like to address? ,Closure,Positive,0.7,Problem Investigation,Positive,0.79
+C,I think you have solved everything,Closure,Positive,0.8,Closure,Positive,0.81
+A,You have a great day sir.,Closure,Positive,0.7,Closure,Positive,0.8
+A,Goodbye,Closure,Positive,0.7,Closure,Positive,0.84
+C,Bye,Closure,Neutral,0.6,Closure,Neutral,0.79
+A,"Hi, How can I help you?",Greetings,Neutral,0.5,Greetings,Positive,0.81
+C,Hi.,Greetings,Neutral,0.4,Greetings,Neutral,0.39
+C,I am having problems with my internet.,Problem Investigation,Negative,0.3,Problem Investigation,Negative,0.2
+A,Can I first verify your account before we move on?,Account Verification,Positive,0.7,Account Verification,Positive,0.82
+C,"Yeah, no problem.",Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.7
+A,What is your first and last name?,Account Verification,Neutral,0.5,Account Verification,Neutral,0.6
+C,My name is Shambria Richardson,Account Verification,Positive,0.7,Account Verification,Positive,0.72
+A,Thank you Shambria.,Account Verification,Positive,0.7,Problem Investigation,Positive,0.81
+A,Can you verify your account id?,Account Verification,Positive,0.9,Account Verification,Positive,0.78
+C,It's 9348394,Account Verification,Positive,0.7,Account Verification,Positive,0.8
+A,Thank you,Problem Investigation,Positive,0.8,Problem Investigation,Positive,0.76
+A,"I see your account details, your modem signals look good.",Problem Investigation,Positive,0.8,Problem Investigation,Positive,0.73
+A,What kind of issues are you having?,Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.67
+C,My internet is going very slow,Problem Investigation,Negative,0.3,Problem Investigation,Negative,0.23
+A,I see you are on our 5 mega bite service,Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.76
+C,That's not what I asked for.,Problem Investigation,Negative,0.1,Problem Investigation,Negative,0.15
+C,I was supposed to have the 50 package,Problem Investigation,Negative,0.2,Problem Investigation,Negative,0.19
+A,Your account details do in fact say you are supposed to have the 50,Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.5
+A,I will just adjust the code in our system to match your package,Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.73
+C,Thank you,Problem Investigation,Positive,0.8,Problem Investigation,Positive,0.76
+A,No problem mam.,Problem Investigation,Neutral,0.6,Problem Investigation,Positive,0.63
+A,"I sent a signal to your modem, you should see it restart in a moment",Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.78
+C,It just turned off and on again,Problem Investigation,Neutral,0.5,Problem Investigation,Neutral,0.46
+A,"When it comes back on, can you go to speedtest.net and perform a speed test?",Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.74
+C,Doing it now.,Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.55
+C,It says 52 down and 23 up.,Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.54
+A,Those speeds are great.  You should expect about a 50 download and 20 upload,Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.69
+A,Do you have any other issues?,Closure,Neutral,0.6,Problem Investigation,Positive,0.77
+C,"No, that is all.",Closure,Positive,0.7,Closure,Positive,0.78
+A,Thank you for calling Xfinity,Closure,Positive,0.9,Closure,Positive,0.8
+A,Goodbye,Closure,Positive,0.9,Closure,Positive,0.84
+C,Goodbye,Closure,Positive,0.9,Closure,Positive,0.84
+A,Thank you for calling vikaze day. My name is Miranda. May have your complete name?,Greetings,Positive,0.9,Greetings,Positive,0.85
+C,Sure. It is a Laura Paredes .,Greetings,Positive,0.8,Greetings,Positive,0.83
+A,Laura Paredes. Can you spell that for me?,Greetings,Positive,0.8,Greetings,Positive,0.77
+C,Okay. It's L A U R A B E R E Z,Greetings,Positive,0.7,Greetings,Positive,0.49
+A,"All right, can you have your Email address and your date of birth?",Account Verification,Positive,0.7,Account Verification,Positive,0.66
+C,"Okay, it's Laura under square paris at gmail.com and my birthday. It's January 3, 1987.",Account Verification,Positive,0.7,Account Verification,Positive,0.79
+A,Is this your active email? ,Account Verification,Neutral,0.6,Account Verification,Neutral,0.59
+C,"Yes, it is. ",Account Verification,Neutral,0.6,Account Verification,Neutral,0.51
+A,"All right, and how can I help you,Laura?",Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.76
+C,"Okay, ah as you can see I cannot complete my booking through my mobile application. I'm actually out the day and I cannot use my computer. I already tried to refresh the application several times. I also check my internet connection and everything is working fine. I check my payment and Everything is accurate. I'm not really sure what went wrong. Can you help me please?",Problem Investigation,Neutral,0.5,Problem Investigation,Neutral,0.46
+A,"I see, don't worry Laura. I will help you resolve it. So you cannot complete your booking even if you already refresh the page. You also have a strong internet connection and you also double check your payment method details. These are uh, does it exit suddenly while you are using it?    ",Problem Investigation,Positive,0.7,Problem Investigation,Neutral,0.66
+C,"No, I don't think so. ",Problem Investigation,Neutral,0.5,Problem Investigation,Neutral,0.56
+A,Does it show you any error message? ,Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.49
+C,"No, and by the way, I think this is important when I am trying to Browse to it on the payment part it goes back to the main page. I need a big delay stay home page I repeated it several times and the same thing is going on.",Problem Investigation,Neutral,0.5,Problem Investigation,Neutral,0.63
+A,"Oh, I see. Are your apps automatically updated? ",Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.62
+C,I don't think so.,Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.47
+A,"Oh, but have you updated our software into its latest version?",Problem Investigation,Neutral,0.5,Problem Investigation,Neutral,0.46
+C,Not yet I am not aware of any update. ,Problem Investigation,Neutral,0.5,Problem Investigation,Neutral,0.5
+A,I see. What is your operating system? Is it Android or iOS? ,Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.53
+C,"So currently, I am using iOS 12.1. ",Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.65
+A,All right. We have updated our software last week to remove the bugs that are is slowing this system. All we need to do is to update the vikaze day app on your phone. So just open your app store and look for the updates button on the lower right part of the Apple stores home screen. Please click the update button besides the vikaze day icon. ,Problem Investigation,Positive,0.8,Problem Investigation,Positive,0.76
+C,"Okay, I'm doing it now. It's done. ",Problem Investigation,Positive,0.8,Problem Investigation,Positive,0.52
+A,Has it finished updating?,Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.56
+C,"Hold on a second. Oh, it's not yet done. Okay, now it's done.",Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.5
+A,Oh great open the app and try to book the place again.,Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.67
+C,"Okay, sure.",Problem Investigation,Positive,0.7,Problem Investigation,Neutral,0.51
+A,"By the way, is it okay for you if we could send you articles on your email. So you will always be updated on the latest places and proms moves that we offer. ",Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.74
+C,That's awesome. Don't we to send me those things? I think I'll put me close.,Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.68
+A,Sure thank you. ,Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.78
+C,This is amazing. I already booked a place. ,Problem Investigation,Positive,0.9,Problem Investigation,Positive,0.74
+A,Glad to hear that. Do you have additional concerns?,Closure,Positive,0.8,Closure,Positive,0.81
+C,And that will do for now. Thank you so much for the help. ,Closure,Positive,0.8,Closure,Positive,0.82
+A,You're welcome. Thank you for calling the vikaze day. Have a nice day.,Closure,Positive,0.9,Closure,Positive,0.81
+C,Have a nice day too.,Closure,Positive,0.7,Closure,Positive,0.84
+A,"Thank you for calling Comcast, Salison.",Greetings,Neutral,0.5,Problem Investigation,Positive,0.76
+A,Can you give me just a minute?,Greetings,Negative,0.2,Greetings,Negative,0.25
+C,Yes.,Greetings,Neutral,0.5,Problem Investigation,Neutral,0.52
+A,Sorry about that.,Greetings,Positive,0.7,Greetings,Positive,0.76
+A,How can I going to help you?,Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.74
+C,"Alison, I'm calling because Comcast raised my rates again, and I don't understand why I have to pay more for the same service.",Problem Investigation,Negative,0.3,Problem Investigation,Negative,0.21
+C,It's $4 more for the exact same thing I had before.,Problem Investigation,Negative,0.2,Problem Investigation,Negative,0.19
+A,Okay.,Problem Investigation,Neutral,0.4,Problem Investigation,Neutral,0.55
+A,Can I get your name?,Account Verification,Positive,0.7,Account Verification,Positive,0.81
+C,Sally Walton.,Account Verification,Positive,0.7,Account Verification,Positive,0.79
+A,And your address.,Account Verification,Positive,0.7,Account Verification,Positive,0.7
+C,1-2-2-5 Kentucky Avenue.,Account Verification,Positive,0.7,Account Verification,Positive,0.68
+C,"Thornton, Colorado, 8-0-2-9.",Account Verification,Positive,0.7,Account Verification,Positive,0.75
+A,And the last four of your Social Security number?,Account Verification,Neutral,0.5,Account Verification,Neutral,0.58
+C,1-2-3-4.,Account Verification,Neutral,0.6,Account Verification,Neutral,0.55
+A,Let me say you had a question about your bill or something?,Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.52
+C,Yes.,Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.52
+C,Comcast keeps raising my rates and I'm tired of it.,Problem Investigation,Negative,0.1,Problem Investigation,Negative,0.18
+A,Okay.,Problem Investigation,Neutral,0.4,Problem Investigation,Neutral,0.55
+A,"Give me just a minute and take a look at your account, okay?",Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.27
+A,Can I put you on hold?,Problem Investigation,Neutral,0.4,Problem Investigation,Neutral,0.27
+C,Yes.,Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.52
+A,Thanks for holding.,Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.77
+A,Sorry about that.,Problem Investigation,Positive,0.7,Greetings,Positive,0.76
+A,So I just took a look at your account and it looks like you're in the preferred cable package with the HD box.,Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.67
+A,And the HD went from $8 to $10 and your preferred package went from $16.95 to $18.,Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.65
+A,Not that much.,Problem Investigation,Negative,0.1,Problem Investigation,Negative,0.16
+C,I don't understand why my rates keep getting increased.,Problem Investigation,Negative,0.2,Problem Investigation,Negative,0.17
+A,"Well, the program rears the rates and they charge Comcast.",Problem Investigation,Neutral,0.5,Problem Investigation,Neutral,0.52
+A,"So in turn, we have to charge you.",Problem Investigation,Neutral,0.4,Problem Investigation,Neutral,0.42
+A,"All right, rates.",Problem Investigation,Negative,0.1,Problem Investigation,Negative,0.28
+C,You know what?,Problem Investigation,Negative,0.1,Problem Investigation,Negative,0.16
+A,But it's not that much.,Problem Investigation,Negative,0.1,Problem Investigation,Negative,0.16
+C,You know what?,Problem Investigation,Negative,0.1,Problem Investigation,Negative,0.16
+C,It is a lot.,Problem Investigation,Neutral,0.5,Problem Investigation,Neutral,0.33
+C,It's enough to me.,Problem Investigation,Neutral,0.5,Problem Investigation,Neutral,0.37
+C,I'm done with this.,Problem Investigation,Negative,0.1,Problem Investigation,Negative,0.23
+C,I'm tired.,Problem Investigation,Negative,0.3,Problem Investigation,Negative,0.22
+C,I'm frustrated.,Problem Investigation,Negative,0.3,Problem Investigation,Negative,0.19
+C,I'm going to go to satellite.,Problem Investigation,Negative,0.1,Problem Investigation,Negative,0.21
+A,"Thank you for calling Comcast, Salus, and how can I help you?",Problem Investigation,Positive,0.9,Problem Investigation,Positive,0.81
+C,"Hi, Allison.",Problem Investigation,Positive,0.7,Greetings,Positive,0.79
+C,I'm calling because Comcast has raised my rates again.,Problem Investigation,Negative,0.3,Problem Investigation,Negative,0.2
+C,I don't understand why I have to pay more for the same services.,Problem Investigation,Negative,0.3,Problem Investigation,Negative,0.17
+C,Can you tell me where this $4 is coming from?,Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.31
+A,Sure.,Problem Investigation,Neutral,0.5,Problem Investigation,Neutral,0.46
+A,I do apologize for that.,Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.79
+A,I'm going to definitely take a look at it.,Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.53
+A,Can I just make sure that I have the right account up?,Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.4
+A,Can I get you to verify your name and your address?,Problem Investigation,Positive,0.8,Problem Investigation,Positive,0.8
+C,Yes.,Problem Investigation,Positive,0.7,Problem Investigation,Neutral,0.52
+C,"It's Sally Walton, 1, 2, 5, 5 East Kentucky Avenue, Thornton, Colorado, 8, 0, 2, 2, 9.",Problem Investigation,Positive,0.8,Problem Investigation,Positive,0.76
+A,Okay.,Problem Investigation,Positive,0.7,Problem Investigation,Neutral,0.55
+C,"And my last four is 1, 2, 3, 4.",Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.5
+A,Great.,Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.6
+A,Thank you.,Problem Investigation,Neutral,0.5,Problem Investigation,Positive,0.59
+A,I'm going to go ahead and pull up your last statement so we can review it together and see where that extra $4 is coming from.,Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.77
+C,Thank you.,Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.59
+C,It just seems like Comcast keeps raising the rates and getting really expensive.,Problem Investigation,Negative,0.3,Problem Investigation,Negative,0.25
+A,I can definitely understand that.,Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.74
+A,Let's see what's going on with the billing concern.,Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.7
+A,"Looks like your services for your household, you have the preferred packet for the HD box.",Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.73
+C,"Yes, that's correct.",Problem Investigation,Positive,0.8,Problem Investigation,Positive,0.73
+A,And the rate for the HD went from $8 to $10 and the preferred package went from $16.95 to $18.,Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.49
+A,So it's a difference of $3.50 from your last statement.,Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.62
+C,"Okay, but I just don't understand why it's $3.50 more or $4 for that matter, but none of my services are increasing.",Problem Investigation,Negative,0.3,Problem Investigation,Negative,0.22
+C,Just the prices.,Problem Investigation,Negative,0.3,Problem Investigation,Negative,0.36
+A,Okay.,Problem Investigation,Neutral,0.5,Problem Investigation,Neutral,0.55
+A,And let me ask you this.,Problem Investigation,Negative,0.3,Problem Investigation,Negative,0.34
+A,Have you been taking advantage of any of the free content that we offer with our on-demand or our Xfinity.com?,Problem Investigation,Neutral,0.5,Problem Investigation,Neutral,0.4
+C,"Well, I watch the movies here and there, but that's about it.",Problem Investigation,Neutral,0.6,Problem Investigation,Negative,0.48
+A,Okay.,Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.55
+A,"Because part of the reason why our rates have increased is because we have all these investments going into these new services so that we can offer our services to you where, when, and how you want them.",Problem Investigation,Neutral,0.5,Problem Investigation,Neutral,0.55
+A,Just making it easier for our customers so you can access the entertainment that you want when you want it.,Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.69
+C,Okay.,Problem Investigation,Neutral,0.6,Problem Investigation,Neutral,0.55
+C,So I am getting more services then.,Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.72
+A,Definitely.,Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.62
+C,"Oh, that's awesome.",Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.8
+C,"All right, Allison.",Problem Investigation,Positive,0.7,Problem Investigation,Positive,0.57
+C,That's all I was concerned about.,Closure,Positive,0.8,Closure,Positive,0.81
+C,Thank you for your time.,Closure,Positive,0.8,Closure,Positive,0.75
+A,You're welcome.,Closure,Positive,0.7,Closure,Positive,0.75
+A,You have a great day.,Closure,Positive,0.7,Closure,Positive,0.8
+C,You too.,Closure,Neutral,0.6,Closure,Neutral,0.66
+C,Bye.,Closure,Positive,0.7,Closure,Neutral,0.65
+A,"Bye bye,",Closure,Positive,0.7,Closure,Positive,0.84

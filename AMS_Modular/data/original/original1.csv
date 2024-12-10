@@ -1,0 +1,33 @@
+Person,Text
+A,"Hello, Thank you for calling Best Buy."
+A,My name is Paul.
+A,How can I help you today?
+C,"Hi, My name is John."
+C,I am having problems with my computer.
+A,I am sorry to hear that.
+A,What kind of problems are you having?
+C,It won't boot up.
+C,"It will power on, but then I get an error."
+A,Can you tell me what the error said?
+C,It said there is no operating system.
+C,I see.
+A,It seems your computer did not come preconfigured with Windows.
+A,"Before we go further, can we verify your account details?"
+C,Sure
+A,Can you please tell me your account ID?
+C,"Yes, my account ID is 30493943"
+A,Thank you sir.
+A,And can you confirm your date of birth?
+C,"It's April 13, 1988."
+C,Thank you again sir.  
+A,I see you purchased the Asus laptop September 1st.
+A,This laptop model should have come with windows pre installed
+A,Would you be able to come in today for us to install it for you?
+C,"Yes, I can come in today"
+A,Would 3 PM be fine?
+C,I will see you at 3
+A,Have I resolved all your issues?
+C,"Yes, thank you"
+A,You have a wonderful day sir
+A,goodbye
+C,Bye

@@ -1,0 +1,87 @@
+Start Time,End Time,Speaker,Text
+0.00,4.50,Customer," Call center, healthcare provider, role play number one."
+4.50,8.80,Customer," Call center agent, and customer."
+10.30,12.70,Agent, Thank you for calling Vital Care Health Solutions.
+12.70,13.90,Agent, My name is Terry.
+13.90,15.80,Agent, How may I assist you today?
+15.80,21.20,Customer," Hello, I'm calling because I have some questions about my health insurance plan and coverage."
+21.20,23.20,Agent," Of course, I'm here to help."
+23.20,25.70,Agent, May I have your name and policy number please?
+25.70,26.30,Customer, Sure.
+26.30,30.60,Customer," My name is Thomas K. Douglas, and my policy number is..."
+30.60,31.60,Customer, Hold on.
+31.60,34.10,Customer, I have it here on a piece of paper.
+34.10,41.30,Customer, It's VC2537107.
+41.30,43.00,Agent," Thank you, Mr. Douglas."
+43.00,47.00,Agent, What questions do you have regarding your health insurance plan and coverage?
+47.00,50.30,Customer," Well, first of all, I'm not sure about the coverage for preventive care."
+50.30,53.30,Customer, Can you explain what's included in my plan?
+53.30,56.30,Agent," Certainly, I'd be happy to answer that."
+56.30,65.10,Agent," With your plan, you have comprehensive coverage for preventive care, including vaccinations, screenings, and annual checkups."
+65.10,72.80,Agent," These services are generally covered at 100%, meaning you won't have to pay any out-of-pocket costs for them."
+72.80,74.80,Customer, That's great to know.
+74.80,82.80,Customer," Secondly, I recently started a new medication, and I'm curious if it's covered under my prescription drug benefits."
+83.30,86.80,Agent, I understand the importance of medication coverage.
+86.80,93.10,Agent," To provide accurate information, could you please tell me the name of the medication and the dosage?"
+93.10,97.00,Customer," It's called Health Aid, and I take the 20-milligram dosage."
+97.00,99.60,Customer, It's one pill per day.
+99.60,101.40,Agent, Thank you for that information.
+101.40,103.10,Agent, Let me check that for you.
+103.10,105.20,Agent, Please give me a few seconds.
+105.20,108.10,Agent," Yes, I found it."
+108.10,116.60,Agent, You'll be responsible for a co-payment of $20 per 30-day supply when you fill your prescription at a network pharmacy.
+116.60,117.60,Customer, Perfect.
+117.60,121.60,Customer," Lastly, I'm planning on taking a trip abroad next month."
+121.60,125.60,Customer, Will my health insurance cover international medical expenses?
+125.60,127.60,Agent, That's a great question.
+127.60,136.60,Agent," While your plan does offer some coverage for emergency medical expenses abroad, it's essential to be aware that coverage may be limited."
+136.60,144.60,Agent, I recommend contacting our travel assistance hotline before your trip to get more information and guidance on international coverage.
+144.60,147.60,Agent, They'll be able to provide specific details.
+147.60,150.10,Customer, Thank you for the detailed information.
+150.10,152.60,Customer, I feel much more informed now.
+152.60,158.60,Customer, I recently got a new job so my insurance policy is a little different compared to my previous job.
+158.60,162.60,Customer, I just haven't had time to work out the specifics.
+162.60,165.10,Agent," Of course, sir, I completely understand."
+165.10,174.10,Agent," If you have any more questions or need further assistance, feel free to reach out to any of our representatives and we would be happy to answer your questions or concerns."
+174.10,176.10,Customer, Thank you for that.
+176.10,178.10,Customer, What's your name again?
+178.10,180.10,Agent, It's Terry.
+180.10,183.10,Customer," Thank you, Terry. You've been very helpful."
+183.10,186.10,Agent," It has been my pleasure, Mr. Douglas."
+186.10,189.10,Agent, Do you have any other questions at this time?
+189.10,191.10,Customer," No, I think you've answered them all."
+191.10,193.10,Customer, Thanks again.
+193.10,196.10,Agent, You are most welcome. Have a wonderful day.
+196.10,198.10,Customer, Goodbye.
+198.10,199.10,Agent, Goodbye.
+199.10,204.10,Customer," Call center, healthcare provider, role play number two."
+204.10,210.10,Customer, Call center agent and customer.
+210.10,214.10,Customer, Thank you for calling vital care health solutions. My name is Carson.
+214.10,216.10,Customer, How may I assist you today?
+216.10,222.10,Customer," Hi. I have a few questions about my health insurance, specifically regarding mental health coverage."
+222.10,225.10,Customer," Of course, I can most certainly help you with that."
+225.10,228.10,Customer, Could you please provide your name and policy number?
+228.10,236.10,Customer, Sure. My name is Monique Rodriguez and my policy number is M987-654-321.
+236.10,240.10,Customer," Thank you, Monique. Is there anything in particular you would like to know?"
+240.10,245.10,Customer," Well, I'm wondering about the specific mental health services covered by my plan."
+245.10,249.10,Customer, Are therapy sessions and counseling included in the plan?
+249.10,256.10,Customer," Absolutely, Monique. Your plan includes coverage for mental health services, including therapy and counseling."
+256.10,263.10,Customer," Depending on the specifics of the provider and type of service, you may have a co-payment or co-insurance."
+263.10,269.10,Customer, I can check your specific benefits if you provide me with the names of any mental health professionals you're considering.
+269.10,271.10,Customer, That's good to know.
+271.10,278.10,Customer," Second question. If I need to see a psychiatrist for medication management, how does that work with my insurance?"
+278.10,287.10,Customer," That's an important aspect of mental health care. If you need to consult with a psychiatrist for medication management, it falls under your behavioral health coverage."
+287.10,296.10,Customer," Keep in mind, you may need a referral from your primary care physician, and any medications prescribed will be subject to your prescription drug benefits."
+296.10,302.10,Customer, How can I get more information about which drugs are covered under my insurance plan?
+302.10,311.10,Customer," If you do a search on our homepage, there is a list of drugs that are covered under each plan. You can also do a search for specific drugs to see if they are covered."
+311.10,320.10,Customer," Got it. Lastly, I've heard about telehealth options for mental health services. Does my plan cover virtual therapy sessions?"
+320.10,327.10,Customer," Yes, Monique. Your plan does offer coverage for virtual therapy sessions through telehealth services."
+327.10,338.10,Customer," It's a convenient option, especially in today's digital age. The same cost-sharing rules apply, but it provides flexibility for accessing mental health care from the comfort of your home."
+338.10,342.10,Customer, Thank you for the information. That's really good to know.
+342.10,349.10,Customer," You're welcome, Monique. If you have any more questions or need further clarification, don't hesitate to reach out. We're here to help."
+349.10,352.10,Customer, Thank you. I think you answered all my questions.
+352.10,355.10,Customer, Excellent. Is there anything else I can help you with today?
+355.10,359.10,Customer," No, that should do it for now. Have yourself a nice day."
+359.10,362.10,Customer, You too. Goodbye. Goodbye.
+362.10,366.10,Customer, Remember to watch our other roleplay videos.
+382.10,384.10,Customer, Thank you.

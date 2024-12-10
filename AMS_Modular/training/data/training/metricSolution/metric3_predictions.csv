@@ -1,0 +1,33 @@
+Person,Text,Category Truth,Quality Truth,Sentiment Truth,Predicted Category,Predicted Quality,Predicted Sentiment,Thank Customer,Introduce Self,Ask Reason,Ask Accurate Details,Ask Permission,Resolve Issue,Offer Assistance,Thank Again,Farewell,Category Label,Predicted Thank Customer,Predicted Introduce Self,Predicted Ask Reason,Predicted Ask Accurate Details,Predicted Ask Permission,Predicted Resolve Issue,Predicted Offer Assistance,Predicted Thank Again,Predicted Farewell
+A,"Hi, How can I help you?",Greetings,Neutral,0.5,0,Positive,0.81,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+C,Hi.,Greetings,Neutral,0.4,0,Neutral,0.35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+C,I am having problems with my internet.,Problem Investigation,Negative,0.3,2,Negative,0.31,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+A,Can I first verify your account before we move on?,Account Verification,Positive,0.7,1,Positive,0.84,0,0,0,1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0
+C,"Yeah, no problem.",Problem Investigation,Positive,0.7,2,Positive,0.76,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+A,What is your first and last name?,Account Verification,Neutral,0.5,1,Neutral,0.61,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+C,My name is Shambria Richardson,Account Verification,Positive,0.7,1,Positive,0.81,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+A,Thank you Shambria.,Account Verification,Positive,0.7,1,Positive,0.66,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+A,Can you verify your account id?,Account Verification,Positive,0.9,1,Positive,0.78,0,0,0,1,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0
+C,It's 9348394,Account Verification,Positive,0.7,1,Positive,0.77,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+A,Thank you,Problem Investigation,Positive,0.8,2,Positive,0.69,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+A,"I see your account details, your modem signals look good.",Problem Investigation,Positive,0.8,2,Positive,0.71,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,1,0,0,0
+A,What kind of issues are you having?,Problem Investigation,Positive,0.7,2,Neutral,0.47,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,1,0,0,0
+C,My internet is going very slow,Problem Investigation,Negative,0.3,2,Negative,0.34,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+A,I see you are on our 5 mega bite service,Problem Investigation,Positive,0.7,2,Positive,0.79,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,1,0,0,0
+C,That's not what I asked for.,Problem Investigation,Negative,0.1,2,Negative,0.34,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+C,I was supposed to have the 50 package,Problem Investigation,Negative,0.2,2,Negative,0.45,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+A,Your account details do in fact say you are supposed to have the 50,Problem Investigation,Neutral,0.6,2,Neutral,0.56,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,1,0,0,0
+A,I will just adjust the code in our system to match your package,Problem Investigation,Positive,0.7,2,Positive,0.8,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,1,0,0,0
+C,Thank you,Problem Investigation,Positive,0.8,2,Positive,0.69,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+A,No problem mam.,Problem Investigation,Neutral,0.6,2,Positive,0.7,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+A,"I sent a signal to your modem, you should see it restart in a moment",Problem Investigation,Positive,0.7,2,Positive,0.75,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,1,0,0,0
+C,It just turned off and on again,Problem Investigation,Neutral,0.5,2,Negative,0.42,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+A,"When it comes back on, can you go to speedtest.net and perform a speed test?",Problem Investigation,Positive,0.7,2,Positive,0.78,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,1,0,0,0
+C,Doing it now.,Problem Investigation,Neutral,0.6,2,Neutral,0.66,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+C,It says 52 down and 23 up.,Problem Investigation,Neutral,0.6,2,Neutral,0.6,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+A,Those speeds are great.  You should expect about a 50 download and 20 upload,Problem Investigation,Positive,0.7,2,Positive,0.56,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,1,0,0,0
+A,Do you have any other issues?,Closure,Neutral,0.6,3,Neutral,0.62,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,1,0,0
+C,"No, that is all.",Closure,Positive,0.7,3,Positive,0.77,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,1,0
+A,Thank you for calling Xfinity,Closure,Positive,0.9,3,Positive,0.85,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0
+A,Goodbye,Closure,Positive,0.9,3,Positive,0.84,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,1
+C,Goodbye,Closure,Positive,0.9,3,Positive,0.84,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,1

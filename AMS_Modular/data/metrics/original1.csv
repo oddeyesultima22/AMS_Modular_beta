@@ -1,0 +1,33 @@
+Person,Text,Predicted Category,Predicted Quality,Predicted Sentiment,Predicted Thank Customer,Predicted Introduce Self,Predicted Ask Reason,Predicted Ask Accurate Details,Predicted Ask Permission,Predicted Resolve Issue,Predicted Offer Assistance,Predicted Thank Again,Predicted Farewell
+A,"Hello, Thank you for calling Best Buy.",Greetings,Positive,0.85,0,1,0,0,0,0,0,0,0
+A,My name is Paul.,Greetings,Positive,0.82,0,0,1,0,0,0,0,0,0
+A,How can I help you today?,Greetings,Positive,0.78,0,0,0,1,0,0,0,0,0
+C,"Hi, My name is John.",Greetings,Positive,0.86,0,0,0,0,0,0,0,0,0
+C,I am having problems with my computer.,Problem Investigation,Negative,0.24,2,0,0,0,0,0,0,0,0
+A,I am sorry to hear that.,Problem Investigation,Positive,0.74,2,0,0,0,0,0,0,0,0
+A,What kind of problems are you having?,Problem Investigation,Neutral,0.59,2,0,0,0,0,0,1,0,0
+C,It won't boot up.,Problem Investigation,Neutral,0.26,2,0,0,0,0,0,0,0,0
+C,"It will power on, but then I get an error.",Problem Investigation,Neutral,0.49,2,0,0,0,0,0,0,0,0
+A,Can you tell me what the error said?,Problem Investigation,Neutral,0.38,2,0,0,0,0,0,1,0,0
+C,It said there is no operating system.,Problem Investigation,Neutral,0.43,2,0,0,0,0,0,0,0,0
+C,I see.,Problem Investigation,Neutral,0.45,2,0,0,0,0,0,0,0,0
+A,It seems your computer did not come preconfigured with Windows.,Problem Investigation,Neutral,0.56,2,0,0,0,0,0,1,0,0
+A,"Before we go further, can we verify your account details?",Account Verification,Neutral,0.72,1,0,0,0,1,1,0,0,0
+C,Sure,Problem Investigation,Neutral,0.44,2,0,0,0,0,0,0,0,0
+A,Can you please tell me your account ID?,Account Verification,Neutral,0.67,1,0,0,0,1,1,0,0,0
+C,"Yes, my account ID is 30493943",Account Verification,Positive,0.78,1,0,0,0,0,0,0,0,0
+A,Thank you sir.,Problem Investigation,Positive,0.79,1,0,0,0,0,0,0,0,0
+A,And can you confirm your date of birth?,Account Verification,Neutral,0.67,1,0,0,0,1,1,0,0,0
+C,"It's April 13, 1988.",Account Verification,Neutral,0.66,1,0,0,0,0,0,0,0,0
+C,Thank you again sir.  ,Problem Investigation,Positive,0.82,2,0,0,0,0,0,0,0,0
+A,I see you purchased the Asus laptop September 1st.,Problem Investigation,Positive,0.77,2,0,0,0,0,0,0,0,0
+A,This laptop model should have come with windows pre installed,Problem Investigation,Positive,0.81,2,0,0,0,0,0,1,0,0
+A,Would you be able to come in today for us to install it for you?,Problem Investigation,Positive,0.82,2,0,0,0,0,0,1,0,0
+C,"Yes, I can come in today",Problem Investigation,Positive,0.82,2,0,0,0,0,0,0,0,0
+A,Would 3 PM be fine?,Problem Investigation,Positive,0.84,2,0,0,0,0,0,1,0,0
+C,I will see you at 3,Problem Investigation,Positive,0.76,2,0,0,0,0,0,0,0,0
+A,Have I resolved all your issues?,Closure,Positive,0.84,3,0,0,0,0,0,0,1,0
+C,"Yes, thank you",Closure,Positive,0.82,3,0,0,0,0,0,0,0,0
+A,You have a wonderful day sir,Closure,Positive,0.83,3,0,0,0,0,0,0,0,0
+A,goodbye,Closure,Positive,0.84,3,0,0,0,0,0,0,0,0
+C,Bye,Closure,Neutral,0.79,3,0,0,0,0,0,0,0,0

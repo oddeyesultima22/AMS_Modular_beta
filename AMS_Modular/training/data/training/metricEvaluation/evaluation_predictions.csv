@@ -1,0 +1,11 @@
+Task,Accuracy (%)
+Category Truth,0.0
+Thank Customer,96.875
+Introduce Self,96.875
+Ask Reason,100.0
+Ask Accurate Details,100.0
+Ask Permission,100.0
+Resolve Issue,100.0
+Offer Assistance,100.0
+Thank Again,100.0
+Farewell,100.0

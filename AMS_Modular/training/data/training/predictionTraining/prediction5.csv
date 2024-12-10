@@ -1,0 +1,41 @@
+Person,Text,Category Truth,Quality Truth,Sentiment Truth
+A,"Thank you for calling Comcast, Salison.",Greetings,Neutral,0.5
+A,Can you give me just a minute?,Greetings,Negative,0.2
+C,Yes.,Greetings,Neutral,0.5
+A,Sorry about that.,Greetings,Positive,0.7
+A,How can I going to help you?,Problem Investigation,Neutral,0.6
+C,"Alison, I'm calling because Comcast raised my rates again, and I don't understand why I have to pay more for the same service.",Problem Investigation,Negative,0.3
+C,It's $4 more for the exact same thing I had before.,Problem Investigation,Negative,0.2
+A,Okay.,Problem Investigation,Neutral,0.4
+A,Can I get your name?,Account Verification,Positive,0.7
+C,Sally Walton.,Account Verification,Positive,0.7
+A,And your address.,Account Verification,Positive,0.7
+C,1-2-2-5 Kentucky Avenue.,Account Verification,Positive,0.7
+C,"Thornton, Colorado, 8-0-2-9.",Account Verification,Positive,0.7
+A,And the last four of your Social Security number?,Account Verification,Neutral,0.5
+C,1-2-3-4.,Account Verification,Neutral,0.6
+A,Let me say you had a question about your bill or something?,Problem Investigation,Neutral,0.6
+C,Yes.,Problem Investigation,Neutral,0.6
+C,Comcast keeps raising my rates and I'm tired of it.,Problem Investigation,Negative,0.1
+A,Okay.,Problem Investigation,Neutral,0.4
+A,"Give me just a minute and take a look at your account, okay?",Problem Investigation,Neutral,0.6
+A,Can I put you on hold?,Problem Investigation,Neutral,0.4
+C,Yes.,Problem Investigation,Neutral,0.6
+A,Thanks for holding.,Problem Investigation,Positive,0.7
+A,Sorry about that.,Problem Investigation,Positive,0.7
+A,So I just took a look at your account and it looks like you're in the preferred cable package with the HD box.,Problem Investigation,Positive,0.7
+A,And the HD went from $8 to $10 and your preferred package went from $16.95 to $18.,Problem Investigation,Positive,0.7
+A,Not that much.,Problem Investigation,Negative,0.1
+C,I don't understand why my rates keep getting increased.,Problem Investigation,Negative,0.2
+A,"Well, the program rears the rates and they charge Comcast.",Problem Investigation,Neutral,0.5
+A,"So in turn, we have to charge you.",Problem Investigation,Neutral,0.4
+A,"All right, rates.",Problem Investigation,Negative,0.1
+C,You know what?,Problem Investigation,Negative,0.1
+A,But it's not that much.,Problem Investigation,Negative,0.1
+C,You know what?,Problem Investigation,Negative,0.1
+C,It is a lot.,Problem Investigation,Neutral,0.5
+C,It's enough to me.,Problem Investigation,Neutral,0.5
+C,I'm done with this.,Problem Investigation,Negative,0.1
+C,I'm tired.,Problem Investigation,Negative,0.3
+C,I'm frustrated.,Problem Investigation,Negative,0.3
+C,I'm going to go to satellite.,Problem Investigation,Negative,0.1

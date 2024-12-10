@@ -1,0 +1,81 @@
+Start Time,End Time,Speaker,Text
+,,,
+0,4,Agent, Thank you for calling Martha's Florist how may I assist you.
+,,,
+4,8,Customer," Hello, I'd like to order flowers and I think you have what I'm looking for."
+,,,
+8,11,Agent, I'd be happy to take care of your order may have your name please.
+,,,
+11,12,Customer,Randall Thomas.
+,,,
+12,15,Agent,"Randall Thomas, can you spell that for me?"
+,,,
+15,19,Customer,"Randall, R-A-N-D-A-L-L."
+,,,
+19,22,Customer,"Thomas, T-H-O-M-A-S"
+,,,
+22,24,Agent," Thank you for that information, Randall."
+,,,
+24,27,Agent, May have your home or office number area code first.
+,,,
+27,32,Customer,"Area code is 409, then 866-5088."
+,,,
+32,37,Agent, That's 409-866-5088.
+,,,
+37,41,Agent, Do you have the fax number or email address?
+,,,
+41,43,Customer, Email is Randall.
+,,,
+43,44,Customer,Thomas.
+,,,
+44,46,Customer,at gmail.com.
+,,,
+46,52,Agent, Randall.thomas at www.gmail.com may have your shipping address.
+,,,
+52,53,Customer,"6,800.00"
+,,,
+53,54,Agent, Okay.
+,,,
+54,56,Customer," Badness, Avenue."
+,,,
+56,61,Customer,"Beaumont Texas, zip code is, 777-06."
+,,,
+61,66,Agent," Glad is Avenue, Beaumont, Texas, Zicode 777-06."
+,,,
+66,68,Agent, Thank you for the information.
+,,,
+68,71,Agent, What products are you interested in purchasing?
+,,,
+71,72,Customer, Red roses.
+,,,
+72,74,Customer, Probably a dozen.
+,,,
+74,77,Agent, One dozen of red roses do you want long stems?
+,,,
+77,78,Customer,yeah sure.
+,,,
+78,80,Agent," All right, Randall, let me process your order."
+,,,
+80,82,Agent," One moment, please."
+,,,
+82,85,Customer, Okay.
+,,,
+85,94,Agent," Randall, you're ordering one dozen long stems red roses the total amount of your orders for $40, and it will be shipped to your address within 24 hours."
+,,,
+94,97,Customer,How soon can you deliver my roses again.
+,,,
+97,99,Agent,Within 24 hours.
+,,,
+99,100,Customer," Okay, no problem."
+,,,
+100,102,Agent, Is there anything else I can help you with?
+,,,
+102,104,Customer," That's all for now, thanks."
+,,,
+104,105,Agent," No problem, Randall."
+,,,
+105,107,Agent, Thank you for calling Martha's Florist.
+,,,
+107,108,Agent, Have a nice day.
+,,,
+110,111,Customer,

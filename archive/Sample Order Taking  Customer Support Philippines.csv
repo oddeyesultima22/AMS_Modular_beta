@@ -1,0 +1,41 @@
+Start Time,End Time,Speaker,Text
+0.00,4.00,Agent, Thank you for calling Martha's Flors to help me assist you.
+4.00,8.00,Customer," Hello, I'd like to order flowers and I think you have what I'm looking for."
+8.00,11.00,Agent, I'd be happy to take care of your order may have your name please.
+11.00,12.00,Customer, Brando Thomas.
+12.00,15.00,Agent," Brando Thomas, can you spell that for me?"
+15.00,19.00,Customer," Brando, R-A-N-D-A-L-L."
+19.00,22.00,Customer," Robert, T-H-O, and then."
+22.00,24.00,Agent," Thank you for that information, Randall."
+24.00,27.00,Agent, May have your home or office number area code first.
+27.00,32.00,Customer," Erico 409, then 586-5088."
+32.00,37.00,Agent, That's 409-866-5088.
+37.00,41.00,Agent, Do you have the fax number or email address?
+41.00,43.00,Customer, Email is Randall.
+43.00,44.00,Customer, It's Doc Thomas.
+44.00,46.00,Customer, That's email.com.
+46.00,52.00,Agent, Randall.thomas at www.gmail.com may have your shipping address.
+52.00,53.00,Customer," 1,600."
+53.00,54.00,Agent, Okay.
+54.00,56.00,Customer," Badness, Avenue."
+56.00,61.00,Customer," So, on text is, there's code here, 777-06."
+61.00,66.00,Agent," Glad is Avenue, Beaumont, Texas, Zicode 707-06."
+66.00,68.00,Agent, Thank you for the information.
+68.00,71.00,Agent, What products are you interested in purchasing?
+71.00,72.00,Customer, Red roses.
+72.00,74.00,Customer, Probably a dozen.
+74.00,77.00,Agent, One dozen of red roses do you want long stems?
+77.00,78.00,Customer, There sure.
+78.00,80.00,Agent," All right, Randall, let me process your order."
+80.00,82.00,Agent," One moment, please."
+82.00,85.00,Customer, Okay.
+85.00,94.00,Agent," Randall, you're ordering one dozen long stems red roses to toll them out of your orders for $40, and it will be shipped to your address within 24 hours."
+94.00,97.00,Customer, I was looking to deliver my roses again.
+97.00,99.00,Agent, Putting 24 hours.
+99.00,100.00,Customer," Okay, no problem."
+100.00,102.00,Agent, Is there anything else I can help you with?
+102.00,104.00,Customer," That's all for now, thanks."
+104.00,105.00,Agent," No problem, Randall."
+105.00,107.00,Agent, Thank you for calling Martha's Flourst.
+107.00,108.00,Agent, Have a nice day.
+110.00,111.00,Customer, Thank you.

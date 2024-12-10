@@ -1,0 +1,41 @@
+Start Time,End Time,Speaker,Text
+0,4,SPEAKER_01, Thank you for calling Martha's Flors. How may I assist you?
+4,8,SPEAKER_00," Hello, I'd like to order flowers and I think you have what I'm looking for."
+8,11,SPEAKER_01," I'd be happy to take care of your order may I have your name, please?"
+11,12,SPEAKER_00, Randall Thomas.
+12,15,SPEAKER_01," Randall Thomas, can you spell that from me?"
+15,18,SPEAKER_00, Randall R-A-N-B-A-L-L.
+18,21,SPEAKER_00,Thomas T-H-O-M-A-S.
+21,24,SPEAKER_01," Thank you for that information, Randall."
+24,27,SPEAKER_01, May I have your home or office number area code first?
+27,34,SPEAKER_00," Eric good 409, then 886-5088."
+34,38,SPEAKER_01, That's 409-866-5088.
+38,41,SPEAKER_01, Do you have the fax number or email address?
+41,45,SPEAKER_00, Email is
+45,47,SPEAKER_00, Randall.thomas@gmail.com.
+47,52,SPEAKER_01, Randall.thomas@gmail.com. May I have your shipping address?
+52,53,SPEAKER_00,6800
+53,54,SPEAKER_01, Okay.
+54,56,SPEAKER_00, Badness Avenue.
+56,58,SPEAKER_00, Home on Texas.
+58,61,SPEAKER_00,Zipcode 777-06.
+61,66,SPEAKER_01," Glad is Avenue, Beaumont, Texas, Zipcode 777-06."
+66,68,SPEAKER_01, Thank you for the information.
+68,71,SPEAKER_01, What products are you interested in purchasing?
+71,72,SPEAKER_00, Red roses.
+72,73,SPEAKER_00, Probably a dozen.
+73,76,SPEAKER_01, One dozen of red roses do you want long stemmed?
+76,77,SPEAKER_00,Yes sure.
+77,80,SPEAKER_01," All right, Randall, let me process your order."
+80,83,SPEAKER_01," One moment, please."
+83,85,SPEAKER_00, Okay.
+85,94,SPEAKER_01," Randall, you're ordering one dozen long-stemmed red roses to toll them out of your order's 40 dollars, and it will be shipped to your address within 24 hours."
+94,97,SPEAKER_00, I was looking to deliver my roses again.
+97,99,SPEAKER_01,Within 24 hours.
+99,100,SPEAKER_00," Okay, no problem."
+100,102,SPEAKER_01, Is there anything else I can help you with?
+102,104,SPEAKER_00," That's all for now, thanks."
+104,105,SPEAKER_01," No problem, Randall."
+105,107,SPEAKER_01, Thank you for calling Martha's Flourist.
+107,108,SPEAKER_01, Have a nice day.
+110,113,,

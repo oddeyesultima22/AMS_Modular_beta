@@ -1,0 +1,104 @@
+Start Time,End Time,Speaker,Text
+0.32,3.5,SPEAKER_01," One, two, three, ring."
+6.72,8.5,SPEAKER_01," Hey, excuse me for a minute."
+8.86,15.2,SPEAKER_01," Before we begin, I want you to please, please, please read the product knowledge of this mock call."
+15.64,19.7,SPEAKER_01, Do not skip to the mock call without reading the product knowledge.
+20.2,29.38,SPEAKER_01," I promise you, 50% of your success in passing your mock call test depends on your ability to comprehend the product knowledge before the mock call."
+29.38,37.24,SPEAKER_01, So please do yourself a favor and take a minute or two to read and understand this mock call's product knowledge.
+37.74,38.02,SPEAKER_01, Okay?
+38.56,39.54,SPEAKER_01, So here it goes.
+44.92,47.62,SPEAKER_01," Hi, thank you for calling Hotel California."
+47.86,48.66,SPEAKER_01, This is Candice.
+48.74,49.5,SPEAKER_01, How may I help you?
+50.54,51.28,SPEAKER_00," Hi, Candice."
+51.48,52.66,SPEAKER_00, This is Steven.
+53.28,55.72,SPEAKER_00," I'd like to book for four people, please."
+56,58.78,SPEAKER_00, And that would be for August.
+59.38,61.38,SPEAKER_00, 18th.
+62.26,63.14,SPEAKER_01," Sure, Steven."
+63.3,64.74,SPEAKER_01, I'd be happy to help you with that.
+65.08,67.18,SPEAKER_01, So which room do you have in mind?
+67.84,72.04,SPEAKER_00," Actually, I got to tell you first that I am super busy."
+72.52,75.38,SPEAKER_00, So I haven't been able to browse through your website.
+76.28,77.32,SPEAKER_00, And I don't know.
+77.44,80.36,SPEAKER_00, I don't really know the rooms you have right now.
+80.96,86.32,SPEAKER_00, But I could give you my requirements and then you suggest the best rooms for me.
+87.28,88.54,SPEAKER_00, Could we do that?
+88.86,89.34,SPEAKER_01, Absolutely.
+89.68,90.52,SPEAKER_01, What do you need?
+91.22,95.5,SPEAKER_00," So there are four of us, including me."
+95.76,100.12,SPEAKER_00, And we need something with a Wi-Fi and maybe a swimming pool.
+100.94,101.42,SPEAKER_01, Got it.
+101.96,105,SPEAKER_01, Will you four be staying in one room or separate rooms?
+106.68,107.48,SPEAKER_00," Oh, sorry."
+107.82,108.82,SPEAKER_00, I forgot to tell you.
+109.64,112.36,SPEAKER_00, That would be separate because you see we're two couples.
+112.6,114.16,SPEAKER_00, So we need two rooms.
+115.14,115.7,SPEAKER_01, I see.
+115.7,115.78,SPEAKER_01,
+116.28,118.7,SPEAKER_01," So in that case, I recommend..."
+119.38,121.18,SPEAKER_01, Two deluxe kings.
+122.62,132.1,SPEAKER_01," Each room has a king-size bed, which fits two people, a Wi-Fi, and access to a swimming pool, and free lunch and breakfast."
+132.46,135.04,SPEAKER_01, All of these for $200 each.
+135.66,138.86,SPEAKER_01, And that's going to be $400 for two rooms.
+139.32,140.22,SPEAKER_01, How does it sound?
+141.02,143.48,SPEAKER_00," Oh, that is a bit too much."
+144.08,145.28,SPEAKER_00, That's a bit expensive.
+146.06,149.02,SPEAKER_00," Actually, do you maybe have something more affordable than that?"
+149.02,149.28,SPEAKER_00,
+149.28,149.56,SPEAKER_00,
+150.06,155,SPEAKER_00," It's just that now that I think about it, I remember there's a beach close to your hotel."
+155.24,157.86,SPEAKER_00, So we will probably just take a trip there.
+158.32,160.78,SPEAKER_00, And you can take out the swimming pool.
+161.06,161.96,SPEAKER_00, Is that possible?
+162.34,162.64,SPEAKER_01, Sure.
+162.94,165.46,SPEAKER_01, Let me see your options here.
+168.28,176.1,SPEAKER_01," So if you want to take out the swimming pool and just have the Wi-Fi, then we certainly have a room for that."
+176.44,179.26,SPEAKER_01, And that is the Classic King for $125.
+179.28,185.18,SPEAKER_01," each, which is $250 for two rooms as opposed to $400."
+185.72,188.86,SPEAKER_01, And you're still going to get the king-size bed and the Wi-Fi.
+189.48,199.24,SPEAKER_01," But I have to tell you, Stephen, aside from having no swimming pool, you will also only get a free breakfast instead of lunch and breakfast."
+199.58,200.92,SPEAKER_01, Is that okay with you?
+201.84,202.4,SPEAKER_00, Perfect.
+202.68,203.34,SPEAKER_00," Perfect, Candice."
+203.76,205.22,SPEAKER_00, That's exactly what we need.
+205.64,209.26,SPEAKER_00," We'll be having lunch at the beach anyway, so we won't be eating at the hotel."
+209.56,210.06,SPEAKER_00,
+210.34,211.94,SPEAKER_00, So two Classic King it is.
+212.36,214.78,SPEAKER_00, Do you need my credit card number or what do you need?
+214.78,219.4,SPEAKER_01," For security purposes, we don't really take credit card info over the phone."
+219.84,229.66,SPEAKER_01, But what I need from you instead is your email address where I can send you a link where you can securely pay and enter your card information.
+230.4,231.02,SPEAKER_00," Okay, cool."
+231.3,236.52,SPEAKER_00, You can send it to Stephen underscore 182 at gmail.com.
+239.28,239.8,SPEAKER_01, Thank you.
+240.56,242.52,SPEAKER_01," How do you spell Stephen, by the way?"
+242.64,245.54,SPEAKER_01, Is that a Stephen with a V or a Stephen with a P?
+246.4,248.52,SPEAKER_00, That's with a P for Pepper.
+248.82,249.18,SPEAKER_01, Mm-hmm.
+249.46,250.24,SPEAKER_01, Thank you.
+251.06,253.5,SPEAKER_01," So just to make sure, let me just spell that out for you."
+253.5,265.84,SPEAKER_01," That is S for Sierra, T for Tango, E for Echo, P for Peter, H for Hotel, and for Nancy, underscore 182 at gmail.com."
+266.3,267.76,SPEAKER_00," Yep, that's correct."
+268.52,268.92,SPEAKER_01, Okay.
+270.2,270.84,SPEAKER_01, Perfect.
+271.42,279.84,SPEAKER_01," So just to recap, you will be booking two Classic Kings this August 18th, 2020."
+279.84,284.36,SPEAKER_01, And the total amount is $250 for two rooms.
+284.56,285.96,SPEAKER_01, Are all of these correct?
+286.98,288.4,SPEAKER_00," Yep, all correct."
+289.3,290.42,SPEAKER_01," Thank you, Stephen."
+290.82,296.46,SPEAKER_01," So after this call, you should receive an email from booking at calihotel.com."
+296.9,299.2,SPEAKER_01, And that email is a secure link.
+299.28,303.84,SPEAKER_01, Where you can click and enter your full name and card info.
+304.18,310.1,SPEAKER_01, I also want to remind you not to click any of the email that is not from booking at calihotel.com.
+310.1,312.62,SPEAKER_01, Because we only take payments through this one email.
+312.94,313.38,SPEAKER_01, All right?
+313.9,314.28,SPEAKER_00, Gotcha.
+314.94,317.42,SPEAKER_01, So is there anything else that I can help you with today?
+318.18,318.5,SPEAKER_00, Nope.
+318.88,320.86,SPEAKER_00," You've been very helpful, Candice."
+321.04,322.34,SPEAKER_00, Thank you so much.
+322.88,324.06,SPEAKER_01," You're most welcome, Stephen."
+324.24,325.88,SPEAKER_01, Thank you for calling Hotel California.
+326.16,326.98,SPEAKER_01, You have a great day.
+327.46,328.64,SPEAKER_00," Have a great day, Candice."
+328.64,329.6,SPEAKER_00, Bye.

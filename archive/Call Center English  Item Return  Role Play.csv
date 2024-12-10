@@ -1,0 +1,45 @@
+Start Time,End Time,Speaker,Text
+0.00,5.00,Agent," Call center, item return, role play."
+5.00,9.00,Agent, Thank you for calling Summit Gear. My name is Chris.
+9.00,11.00,Agent, How may I assist you?
+11.00,20.00,Customer, Hi Chris. I ordered a winter jacket from your website and when it arrived it had a big stain on the sleeve.
+20.00,27.00,Agent," Oh, I'm sorry to hear that. Was the package damaged when you received it?"
+27.00,33.00,Customer," No, it wasn't. I noticed the stain after I took it out of the plastic in the box."
+33.00,36.00,Customer, The packaging was perfectly fine.
+36.00,41.00,Agent, I see. Do you have your order number available?
+41.00,44.00,Customer," Yes, just a second."
+44.00,52.00,Customer, The order number is 0.03894.701.
+52.00,56.00,Agent, Thank you. Let me pull it up on my screen. Just a moment please.
+56.00,59.00,Agent, Thanks.
+59.00,62.00,Agent, Could I confirm your full name please?
+62.00,65.00,Customer," Yes, it's Diana Stone."
+65.00,70.00,Agent," Thank you, Miss Stone. I'm looking at your order."
+70.00,75.00,Agent, This was for the woman's snow trek parka in Sage Green. Is that correct?
+75.00,81.00,Customer," Yes, that's it. How long will it take to replace the jacket?"
+81.00,87.00,Agent, We can ship it out as soon as we receive the return item.
+87.00,92.00,Agent, Could I email you a shipping label to print out?
+92.00,100.00,Customer," So, I print out the label and mail it back in the original box. Do I have to pay for the shipping?"
+100.00,108.00,Agent," No, we will credit your account for the shipping. You can use the original box if it is still intact."
+108.00,113.00,Customer, I understand. Then you'll send me another jacket?
+113.00,121.00,Agent," Yes, let me just double check. We still have that size and color in stock."
+121.00,124.00,Customer," Okay, thanks."
+124.00,131.00,Agent," Hello, Miss Stone. I checked our inventory and we do have your size."
+131.00,139.00,Agent," Unfortunately, we only have the jacket in Ocean Blue or Foggy Gray."
+139.00,146.00,Customer," Oh, I see. I really like the green color. That's too bad."
+146.00,150.00,Agent, It was a very popular color this season.
+150.00,156.00,Customer," Okay, give me a second. I'll go with the ocean blue."
+156.00,165.00,Agent," Alright, thank you, ma'am. We will send you another snow track parka jacket in the ocean blue."
+165.00,169.00,Customer, I'll send the stain jacket back this afternoon.
+169.00,177.00,Agent," Thank you, Miss Stone. Also, may I confirm your email address so I can send you the shipping label?"
+177.00,188.00,Customer," Yeah, sure. The address is Diana dot stone, 99 at gmail.com."
+188.00,200.00,Agent," Thank you, Miss Stone. Let me just repeat that back. It's Diana dot stone, 99 at gmail.com."
+200.00,203.00,Customer," Yes, that's right."
+203.00,208.00,Agent, Thank you. I will send you the label within the next five minutes.
+208.00,210.00,Customer, That sounds good.
+210.00,214.00,Agent, Is there anything else I can help you with today?
+214.00,219.00,Customer," No, that'll do it. Sorry. Could I have your name again?"
+219.00,224.00,Agent," My name is Christmas, Stone. Thank you again for calling Summit Gear."
+224.00,227.00,Customer," Thanks for your help, Chris."
+227.00,229.00,Agent, You're welcome.
+229.00,230.00,Customer, Goodbye.
+230.00,235.00,Agent, Remember to watch our other roleplay videos.
